@@ -4,10 +4,10 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: liuzhenyu-yyy.github.io
 
 # Title of the Site
-title: Zhenyu Liu
+title: Liu Zhenyu
 # Description of the Site
 description: Keep calm and carry on. 
 # URL of Image of the Site
@@ -24,7 +24,7 @@ heroimage: https://w.wallhaven.cc/full/rd/wallhaven-rd7drw.jpg
 # If you don't want to use any icon, you can leave them blank.
 email: liuzhenyu@pku.edu.cn
 facebook_username: 
-twitter_username: wsygfsjfsblqwyb
+twitter_username: _LiuZhenyu
 instagram_username:
 linkedin_username:
 github_username: liuzhenyu-yyy
@@ -38,14 +38,14 @@ spotify_username:
 google-analytics: G-PLDYFPQDMQ
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: Zhenyu
 
 # Name of the Author
-author-name: Zhenyu Liu
+author-name: Liu Zhenyu
 # URL for the Image of the Author
 author-image: https://ftp.bmp.ovh/imgs/2020/12/1daba17f9c5448e7.jpg
 # 60 Words About the Author
-author-about: I'm an undergraduate student from Yuanpei College, Peking University and will be studying for my PhD at BIOPIC, PKU in 2021. I'm a biology major and have a special focus in the field of genomics, bioinformatics and cancer biology.
+author-about: Graduate student at BIOPIC, Peking University. Majoring in bioinformatics and cell biology with a special focus on single cell genomics and cancer biology.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://liuzhenyu-yyy.github.io/
 
