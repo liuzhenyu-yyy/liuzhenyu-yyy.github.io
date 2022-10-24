@@ -12,7 +12,7 @@ home:
 
 about:
   # make sure email address is defined in _data/owner/[language].yml
-  show_email: false
+  show_email: true
   # make sure contacts is defined in _data/owner/[language].yml
   show_contacts: true
   # to disable icon, comment below
