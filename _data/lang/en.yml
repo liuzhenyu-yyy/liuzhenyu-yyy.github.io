@@ -167,9 +167,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: Hi 👋, I'm Zhenyu Liu.
+  welcome: Welcome to my personal website.
+  sample: A Ph.D. student at Biomedical Pioneering Innovation Centre, Peking University.
 
 # for cookie consent
 cookie_consent:
