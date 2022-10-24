@@ -44,7 +44,7 @@
     <footer translate="no">
       {% if site.data.conf.main.main_footer -%}
         <div class="footer-text {{ footer_class }}">
-          <p>{{ copyright_text_out }} </p>
+          <p>{{ copyright_text_out }} All rights reserved.</p>
           {%- if site.data.conf.main.creative_commons.enable -%}
             {%- assign license_url = site.data.conf.main.creative_commons.license_url
               | replace: site.data.conf.main.creative_commons.license_replace, license_type
@@ -58,7 +58,6 @@
               <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
             </a>
           {%- endif -%}
-          <span class="footer-powered"> All rights reserved.</span>
         </div>
       {% endif -%}
       <p class="footer-powered">
