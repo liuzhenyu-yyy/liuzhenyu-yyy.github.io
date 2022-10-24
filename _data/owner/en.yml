@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Zhenyu Liu"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Peking University"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Zhenyu Liu"
 
 # home page top header texts
 home:
@@ -23,7 +23,7 @@ about:
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
-copyright_start_year: "2022"
+copyright_start_year: "2020"
 
 # make sure creative_commons.enable is true in _data/conf/main.yml file
 creative_commons:
@@ -48,10 +48,10 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
+  - github: "liuzhenyu-yyy"
+  - twitter: "_LiuZhenyu"
+  - email: "liuzhenyu@pku.edu.cn"
   #- linkedin: ""
-  #- twitter: ""
   #- instagram: ""
   #- youtube: ""
   #- facebook: ""
@@ -63,7 +63,7 @@ disqus_shortname: ""
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml
-google_analytics_id: ""
+google_analytics_id: "G-PLDYFPQDMQ"
 
 # there are different ways to verify web page. One is adding this as meta into html.
 # make sure you set meta.google_site_verify: true in _data/conf/main.yml
