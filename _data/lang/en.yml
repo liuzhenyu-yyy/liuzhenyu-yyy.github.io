@@ -169,7 +169,7 @@ privacy-policy:
 constants:
   greetings: Hi 👋, I'm Zhenyu Liu.
   welcome: Welcome to my personal website.
-  sample: Ph.D. student at BIOPIC, Peking University. Currently developing novel single-cell sequencing technologies and utilizing these technologies to investigate complicated biological processes including cancer treatment and embryo development. Skilled in bioinformatics analysis, data mining and table tennis.
+  sample: Sample
 
 # for cookie consent
 cookie_consent:
