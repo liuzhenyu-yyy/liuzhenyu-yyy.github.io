@@ -58,10 +58,13 @@
               <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
             </a>
           {%- endif -%}
-          <p> All rights reserved.</p>
+          <span> All rights reserved.</span>
         </div>
       {% endif -%}
-      <p class="footer-powered"><span>Powered by </span><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></p>
+      <p class="footer-powered">
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        <span id="busuanzi_container_site_pv">Page views: <span id="busuanzi_value_site_pv"></span>. </span><span id="busuanzi_container_site_uv"> Total viewers: <span id="busuanzi_value_site_uv"></span> .</span>
+      </p>
     </footer>
   </div>
 </div>
