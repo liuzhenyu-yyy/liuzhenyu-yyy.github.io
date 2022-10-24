@@ -230,7 +230,7 @@ contacts_open_in_new_tab: true
 #                Copyright text
 ###########################################################
 # this will add current year to the end of copyright_start_year which is defined in _data/owner/[language].yml
-copyright_add_end_year: false
+copyright_add_end_year: true
 
 # this uses copyright.additional_text defined in _data/lang/[language].yml
 # not recommended if creative_commons is enabled.
@@ -238,7 +238,7 @@ copyright_add_text_to_end: false
 
 # this will add creative commons license. check _data/owner/[language].yml for license type.
 creative_commons:
-  enable: true
+  enable: false
   tooltip: true
   add_all_icons: true
   license_url: "https://creativecommons.org/licenses/$license/4.0/deed.$lng"
