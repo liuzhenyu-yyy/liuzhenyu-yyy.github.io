@@ -60,7 +60,7 @@ page_data:
       project_name: "Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation"
       project_excerpt: "Advised by Dr. Chengran Xu; collaborate with Liu Yang."
       img: ":Ngn3.png"
-      img_title: "img title2"
+      img_title: "img Ngn3"
       date: "2021-04-23"
       post: |
         # Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation
@@ -85,11 +85,11 @@ page_data:
         as a co-factor to maintain the opened chromatin state.
 
     # MMLS: chaotic model
-    - type: id_research
+    - type: id_course
       project_name: "Chaotic Model for Insulin-Glucose System"
       project_excerpt: "Advised by Dr. Louis Tao."
       img: ":MMLS.jpg"
-      img_title: "img title2"
+      img_title: "img chaotic"
       date: "2020-06-08"
       post: |
         # Chaotic Model for Insulin-Glucose System
@@ -117,16 +117,46 @@ page_data:
 
         The mathematical relationships for the model are formulated as follows:
 
-        $$ \frac{dx}{dt} =-a_1 x+a_2 xy+a_3 y^2+a_4 y^3+a_5 z+a_6 z^2+a_7 z^3+a_{20} $$
-
-        $$ \frac{dy}{dt} =-a_8 xy-a_9 x^2-a_{10} x^3+a_{11} y(1-y)-a_{12} z-a_{13} z^2-a_{14} z^3+a_{21} $$
-
-        $$ \frac{dz}{dt} =a_{15} y+a_{16} y^2+a_{17} y^3-a_{18} z-a_{19} yz $$
+        ![Image](:MMLS2.jpg){:data-align="center"}
 
         Where x(t) is the concentration of insulin, y(t) is the population of glucose and z(t) is the population 
         density of β-cells. There are 21 distinct model parameters, each has specific biological meaning, as 
         discussed in project report, and could be adjusted to simulate both normal condition and metabolic disorders.
 
         More information about the model, including time series and state space, stability analysis, bifurcation
-        diagrams and chaotic analysis were avaliable at the [project page](https://github.com/liuzhenyu-yyy/Chaotic-Model-for-Insulin-Glucose-System)
+        diagrams and chaotic analysis were avaliable at the [project page](https://github.com/liuzhenyu-yyy/Chaotic-Model-for-Insulin-Glucose-System).
+
+    # Game of the Amazons
+    - type: id_course
+      project_name: "Game of the Amazons AI"
+      project_excerpt: "Advised by Dr. Yafei Dai."
+      img: ":amazon.png"
+      img_title: "img Amazons"
+      date: "2019-02-15"
+      post: |
+        # Game of the Amazons AI
+        A simple DFS-based bot for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons), 
+        with optimized scoring function.
+
+        <img align="center" src="https://raw.githubusercontent.com/liuzhenyu-yyy/Game-of-the-Amazons-AI/main/assets/demo.png" /> 
+
+        ## Description
+        This is my code for the Amazons Lab in "Introduction to Computation (A)"  Course of [Prof. Yafei Dai](https://cs.pku.edu.cn/info/1182/1515.htm)
+        in the autumn semester of 2018. The Amazons Lab required us to 
+        develop a c/c++ program for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons) 
+        with following features:
+
+        - Main menu for selection (new game, save game, start new game, quit);
+        - Chess board and piece indicated by ASCII art;
+        - Allowing player versus player and player versus computer;
+        - Able to save current game and load saved games.
+
+        The software utilze depth-first search to identify the best movement at current situation, as achieved by
+        recursive and recursion of several different chess moving functions. I only designed
+        single-layed search and performs no pruning step during searching, which could be further improved.
+
+        Check more at the [project page](https://github.com/liuzhenyu-yyy/Game-of-the-Amazons-AI).
+
+
+
 
