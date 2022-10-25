@@ -63,7 +63,7 @@ post:
     unit: " min"
     text: " read"
     # c for char w for word
-    word_char: w
+    word_char: c
     # char or words per minute
     per_minute: 200
   pager_buttons:
