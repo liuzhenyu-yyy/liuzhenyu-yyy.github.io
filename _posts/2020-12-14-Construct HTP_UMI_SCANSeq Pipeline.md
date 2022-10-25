@@ -9,7 +9,7 @@ author: Zhenyu Liu
 # multiple category is not supported
 category: Work
 # multiple tag entries are possible
-tags: [Bioinformatics, TGS, Project]
+tags: [Bioinformatics, Project]
 # thumbnail image for post
 img: ":post_20201214/cover.jpg"
 # disable comments on this page
