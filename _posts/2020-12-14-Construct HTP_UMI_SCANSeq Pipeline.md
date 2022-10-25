@@ -263,8 +263,11 @@ Another possible improvement is to omit the demultiplex step and process all the
 
 
 
-Zhenyu{:data-align="right"}
+Zhenyu
+{:data-align="right"}
 
-at Peking University Library{:data-align="right"}
+at Peking University Library
+{:data-align="right"}
 
-2020.12.14{:data-align="right"}
+2020.12.14
+{:data-align="right"}

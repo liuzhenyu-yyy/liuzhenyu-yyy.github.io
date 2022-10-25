@@ -66,8 +66,11 @@ I can list a lot more if I want to. I just hope that this site will stand longer
 
   That's all I want to say for my first post. It might be quite interesting when I read this post several years later. There's no doubt that this github page should still exit by then. But will I still be typing here? Guess we have to wait and see.
 
-  Zhenyu{:data-align="right"}
+  Zhenyu
+  {:data-align="right"}
 
-  at Jiayuan Dining Hall{:data-align="right"}
+  at Jiayuan Dining Hall
+  {:data-align="right"}
 
-  2020.12.7{:data-align="right"}
+  2020.12.7
+  {:data-align="right"}
