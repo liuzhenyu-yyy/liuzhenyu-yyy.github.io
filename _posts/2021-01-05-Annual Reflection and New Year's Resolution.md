@@ -39,7 +39,7 @@ date: 2021-01-05 08:11:06 +0900
 
 <!-- outline-start -->
 
-Notes from Program of Single Cell Omics Beijing 2021. 
+The year of 2020 might be one of the most unusually years in my life span. At the end of the year, I thinks it's always worthwhile to spend some time reflecting my experience of the year and considering what to expect for the coming 2021.
 
 <!-- outline-end -->
 
