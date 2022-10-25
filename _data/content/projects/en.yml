@@ -23,17 +23,17 @@ page_data:
       color: "#cccccc"
 
   list:
-    # example
+    # IVF
     - type: id_research
       project_name: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in IVF babies"
-      project_excerpt: "Advised by Dr. Fuchou Tang, Dr. Yuanqing Yao; collaborate with Yuan Gao, Shuyue Qi"
+      project_excerpt: "Advised by Dr. Fuchou Tang, Dr. Yuanqing Yao; collaborate with Yuan Gao, Shuyue Qi."
       img: ":IVF.png"
       img_title: "img IVF"
       date: "2022-06-26"
       post: |
         # Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in IVF babies
 
-        ![Image](:IVF.png)
+        ![Image](:IVF.png){:data-align="center"}
 
         While chromosomal mosaic embryos detected by trophectoderm (TE) biopsy 
         offer healthy embryos available for transfer, high resolution postnatal 
@@ -54,65 +54,32 @@ page_data:
         Source code available at https://github.com/liuzhenyu-yyy/IVF_Mosaic_Embryo_Transfer.
 
         For more information, please check our [publication](https://www.sciencedirect.com/science/article/pii/S1672022922000882).
-      
 
-
-    # picture
+    # Ngn3
     - type: id_research
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
+      project_name: "Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation"
+      project_excerpt: "Advised by Dr. Chengran Xu; collaborate with Liu Yang."
+      img: ":Ngn3.png"
       img_title: "img title2"
       date: "2021-04-23"
       post: |
-        # Title
-        This is project content.
+        # Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation
 
-        ![Image](:project2_thumb.jpg)
+        ![Image](:Ngn3.png){:data-align="center"}
 
-    # quote
-    - type: id_course
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
-      post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_course
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_course
-      project_name: "Example Project"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_course
-      project_name: "Example Project"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.
+        Cell identities are established through the sequential action of key
+        transcription factors (TFs). The current model of pancreas endocrine lineage
+        differentiation invokes the transient expression of basic helix-loop-helix (bHLH)
+        transcription factor Neurogenin 3 (Ngn3) in the trunk cells as the trigger of endocrine
+        fate commitment and rapid differentiation to pro-islet cells. Another bHLH transcription
+        factor named Neurod1, which is directly regulated by Ngn3, also plays critical roles in
+        the pancreatic endocrine specification. Despite the key regulatory function of these
+        two TFs, their genomic targets and the regulatory mechanism remains largely unknown.
+        Here, we had generated a new transgenic mouse strain to uncover the genome-wide direct
+        target of Ngn3 with the CUT&RUN method and performed comprehensive investigations of
+        the sequential and distinct chromatin regulatory program mediated by Ngn3 and Neurod1.
+        We found that Ngn3 access genome enhancers in highly condensed chromatin regions and
+        prompt their activation. The enhancer landscape established by Ngn3 is further maintained
+        by the expression of Neurod1. Neurod1 also binds the promoter region of key endocrine TFs to help
+        initiate their expression. These data suggest the pioneering ability of Ngn3, with Neurod1 acting
+        as a co-factor to maintain the opened chromatin state. 
