@@ -29,7 +29,7 @@ page_data:
       project_excerpt: "Advised by Dr. Fuchou Tang, Dr. Yuanqing Yao; collaborate with Yuan Gao, Shuyue Qi."
       img: ":IVF.png"
       img_title: "img IVF"
-      date: "2020-06-06"
+      date: "2022-06-26"
       post: |
         # Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in IVF Babies
 
@@ -61,7 +61,7 @@ page_data:
       project_excerpt: "Advised by Dr. Chengran Xu; collaborate with Liu Yang."
       img: ":Ngn3.png"
       img_title: "img Ngn3"
-      date: "2021-04-23"
+      date: "2020-04-23"
       post: |
         # Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation
 
@@ -90,7 +90,7 @@ page_data:
       project_excerpt: "Advised by Dr. Louis Tao."
       img: ":MMLS.jpg"
       img_title: "img chaotic"
-      date: "2020-06-08"
+      date: "2020-07-06"
       post: |
         # Chaotic Model for Insulin-Glucose System
         A chaotic model for the insulin-glucose regulatory system. Using this model, we could mimic
@@ -101,7 +101,7 @@ page_data:
 
         ## Description
         This is my final project in "Mathematical Modeling in the Life Sciences"  Course of 
-        [Prof. Louis Tao](http://www.bio.pku.edu.cn/enhomes/news/teacher_dis/68.html) in the spring semaster
+        Prof. Louis Tao in the spring semaster
         of 2020. Here a novel mathematical model based on [Lotka–Volterra equations](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations)
         was developed to mimic the behaviors of the insulin-glucose system. Numerical simulation indicates that the model has
         various different dynamic behaviors under different conditions, including chaos. Using this model, 
@@ -126,55 +126,24 @@ page_data:
         More information about the model, including time series and state space, stability analysis, bifurcation
         diagrams and chaotic analysis were avaliable at the [project page](https://github.com/liuzhenyu-yyy/Chaotic-Model-for-Insulin-Glucose-System).
 
-    # Game of the Amazons
-    - type: id_course
-      project_name: "Game of the Amazons AI"
-      project_excerpt: "Advised by Dr. Yafei Dai."
-      img: ":amazon.png"
-      img_title: "img Amazons"
-      date: "2019-02-15"
-      post: |
-        # Game of the Amazons AI
-        A simple DFS-based bot for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons), 
-        with optimized scoring function.
-
-        <img align="center" src="https://raw.githubusercontent.com/liuzhenyu-yyy/Game-of-the-Amazons-AI/main/assets/demo.png" /> 
-
-        ## Description
-        This is my code for the Amazons Lab in "Introduction to Computation (A)"  Course of [Prof. Yafei Dai](https://cs.pku.edu.cn/info/1182/1515.htm)
-        in the autumn semester of 2018. The Amazons Lab required us to 
-        develop a c/c++ program for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons) 
-        with following features:
-
-        - Main menu for selection (new game, save game, start new game, quit);
-        - Chess board and piece indicated by ASCII art;
-        - Allowing player versus player and player versus computer;
-        - Able to save current game and load saved games.
-
-        The software utilze depth-first search to identify the best movement at current situation, as achieved by
-        recursive and recursion of several different chess moving functions. I only designed
-        single-layed search and performs no pruning step during searching, which could be further improved.
-
-        Check more at the [project page](https://github.com/liuzhenyu-yyy/Game-of-the-Amazons-AI).
-
     # Enhancer predictor
     - type: id_course
       project_name: "Enhance Predictor"
       project_excerpt: "Advised by Dr. Ge Gao."
       img: ":SVM.png"
       img_title: "img SVM"
-      date: "2020-07-13"
+      date: "2020-02-13"
       post: |
         # Game of the Amazons AI
         An SVM-based classifier to predict genome enhancers based on ChIP-Seq and ATAC-Seq signals.
         
         ----
 
-        <![Image](:SVM.png){:data-align="center"}
+        ![Image](:SVM.png){:data-align="center"}
 
         ## Description
         This is my final project in "Methods in Bioinformatics" Course of 
-        [Prof. Ge Gao](https://icg.pku.edu.cn/en/research/faculty/269362.htm) in the spring semaster of 2020. 
+        Prof. Ge Gao in the autumn semaster of 2019. 
         Here I designed a novel classifier to predict genome enhancers. The imput features include chromatin 
         modification and related enzymes, transcription factor binding and chromatin accessibility. Features 
         were selected using random forest and classifier was designed with supporting vector machine (SVM). 
@@ -190,4 +159,33 @@ page_data:
         ```
         Check more at the [project page](https://github.com/liuzhenyu-yyy/Enhance-Predictor).
 
+    # Game of the Amazons
+    - type: id_course
+      project_name: "Game of the Amazons AI"
+      project_excerpt: "Advised by Dr. Yafei Dai."
+      img: ":amazon.png"
+      img_title: "img Amazons"
+      date: "2019-02-15"
+      post: |
+        # Game of the Amazons AI
+        A simple DFS-based bot for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons), 
+        with optimized scoring function.
 
+        ![Image](https://raw.githubusercontent.com/liuzhenyu-yyy/Game-of-the-Amazons-AI/main/assets/demo.png){:data-align="center"}
+
+        ## Description
+        This is my code for the Amazons Lab in "Introduction to Computation (A)"  Course of Prof. Yafei Dai
+        in the autumn semester of 2018. The Amazons Lab required us to 
+        develop a c/c++ program for the [Game of the Amazons](https://en.wikipedia.org/wiki/Game_of_the_Amazons) 
+        with following features:
+
+        - Main menu for selection (new game, save game, start new game, quit);
+        - Chess board and piece indicated by ASCII art;
+        - Allowing player versus player and player versus computer;
+        - Able to save current game and load saved games.
+
+        The software utilze depth-first search to identify the best movement at current situation, as achieved by
+        recursive and recursion of several different chess moving functions. I only designed
+        single-layed search and performs no pruning step during searching, which could be further improved.
+
+        Check more at the [project page](https://github.com/liuzhenyu-yyy/Game-of-the-Amazons-AI).
