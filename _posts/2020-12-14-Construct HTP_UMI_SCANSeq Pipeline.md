@@ -261,13 +261,8 @@ Single-cell full length RNA Seq with UMI is still a technological problem to the
 
 Another possible improvement is to omit the demultiplex step and process all the reads together, as we did for NGS-based data. This could definitely improve computational efficiency. However, I don't have very good ideas how to achieve that. We might need to wait for some time to see what powerful tools bioinformatics programmers could bring us.
 
+  <p align="right">Zhenyu</p>
 
+  <p align="right">at Peking University Library</p>
 
-Zhenyu
-{:data-align="right"}
-
-at Peking University Library
-{:data-align="right"}
-
-2020.12.14
-{:data-align="right"}
+  <p align="right">2020.12.14</p>
