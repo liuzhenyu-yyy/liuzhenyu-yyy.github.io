@@ -1,14 +1,4 @@
 ---
-title: Program of Single Cell Omics Beijing 2021
-layout: post
-post-image: "https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/master/assets/images/20211014134327912764.png"
-description: Notes from Program of Single Cell Omics Beijing 2021.   
-tags:
-- single-cell
-- notes
----
-
----
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: post_20211016
 title: "Program of Single Cell Omics Beijing 2021."
@@ -26,7 +16,7 @@ img: ":post_20211016/cover.png"
 comments_disable: true
 
 # publish date
-date: 2020-12-14 08:11:06 +0900
+date: 2021-10-16 08:11:06 +0900
 
 # seo
 # if not specified, date will be used.
@@ -48,7 +38,8 @@ date: 2020-12-14 08:11:06 +0900
 ---
 
 <!-- outline-start -->
-Some records on constructing the bioinformatic pipelines for SCAN-seq2 data processing.
+
+Notes from Program of Single Cell Omics Beijing 2021. 
 
 <!-- outline-end -->
 
