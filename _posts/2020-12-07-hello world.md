@@ -7,16 +7,16 @@ title: "First post: hello world."
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Zhenyu Liu
 # multiple category is not supported
-category: work
+category: Life
 # multiple tag entries are possible
-tags: [self-intro, life recrd]
+tags: [self-intro, life record]
 # thumbnail image for post
 img: ":post_20201207/cover.png"
 # disable comments on this page
 comments_disable: true
 
 # publish date
-date: 2020-12-17 08:11:06 +0900
+date: 2020-12-07 08:11:06 +0900
 
 # seo
 # if not specified, date will be used.
@@ -66,8 +66,8 @@ I can list a lot more if I want to. I just hope that this site will stand longer
 
   That's all I want to say for my first post. It might be quite interesting when I read this post several years later. There's no doubt that this github page should still exit by then. But will I still be typing here? Guess we have to wait and see.
 
-  Zhenyu
+  Zhenyu{:data-align="right"}
 
-  at Jiayuan Dining Hall
+  at Jiayuan Dining Hall{:data-align="right"}
 
-  2020.12.7
+  2020.12.7{:data-align="right"}
