@@ -215,7 +215,9 @@ pseudo-gene expression and duplicated genes may contributed to co-bursting outli
 - how cell types are regulated?
 
   - TF dynamics
+
   ![image-20221013172440815](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221014/image-20221013172440815.png)
+
   - Cross-species analysis of common TFs during differentiation
 
 - Nvwa
@@ -407,6 +409,7 @@ Moderator: Yanyi Huang
 - Msc RNA-seq(fixed cells)
 
   - workflow
+  
     ![image-20221014160842215](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221014/image-20221014160842215.png)
 
   - single-cell selection:
