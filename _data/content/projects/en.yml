@@ -12,167 +12,53 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+    - title: "Research"
+      type: id_research
+      color: "#8dd3c7"
+    - title: "Course"
+      type: id_course
+      color: "#80b1d3"
+    - title: "Others"
+      type: id_others
+      color: "#cccccc"
 
   list:
     # example
-    - type: id_example
-      project_name: "Example Project"
-      project_excerpt: "Examples"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+    - type: id_research
+      project_name: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in IVF babies"
+      project_excerpt: "Advised by Dr. Fuchou Tang, Dr. Yuanqing Yao; collaborate with Yuan Gao, Shuyue Qi"
+      img: ":IVF.png"
+      img_title: "img IVF"
+      date: "2022-06-26"
       post: |
-        # Examples
+        # Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in IVF babies
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        ![Image](:IVF.png)
 
-        ### Headings (centered)
-        {:data-align="center"}
+        While chromosomal mosaic embryos detected by trophectoderm (TE) biopsy 
+        offer healthy embryos available for transfer, high resolution postnatal 
+        karyotyping and chromosome testing of the transferred embryos are insufficient. 
+        Here, we applied single-cell multiomics sequencing for seven infants with blastula 
+        chromosomal mosaicism detected by TE biopsy. The chromosome ploidy was examined by 
+        singlecell genome analysis with the cellular identity being identified by single-cell 
+        transcriptome analysis. A total of 1,616 peripheral leukocyte from seven infants with 
+        embryonic chromosomal mosaicism and three control ones with euploid TE biopsy were analyzed. 
+        A small number of blood cells showed copy number alterations (CNAs) on seemingly random 
+        locations at a frequency of 0-2.5% per infant. However, none of the cells showed CNAs 
+        that were with the same as those of the corresponding TE biopsies. The blastula chromosomal 
+        mosaicism may be fully self-corrected probably through selective losing of the aneuploid cells 
+        during development and the transferred embryos can be born as euploid infants without mosaic CNAs 
+        corresponding to the TE biopsies. The results provide a new reference for the evaluations of transferring 
+        chromosomal mosaic embryos at certain situations.
 
-        # Heading 1
+        Source code available at https://github.com/liuzhenyu-yyy/IVF_Mosaic_Embryo_Transfer.
 
-        ## Heading 2
+        For more information, please check our [publication](https://www.sciencedirect.com/science/article/pii/S1672022922000882).
+      
 
-        ### Heading 3
-
-        #### Heading 4
-
-        ##### Heading 5
-
-        ###### Heading 6
-
-        ***
-
-        ### Paragraphs
-
-        #### Paragraph
-
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        #### Texts
-
-        Quoted text `Hello world`
-
-        Bold text **Hello world**
-
-        Italic text _Hello world_
-
-        kbd text <kbd>Hello world</kbd>
-
-        #### Blockquote
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        ### Link
-
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-        ### Picture
-
-        ![such a lovely place](:projects-heading.jpg)
-
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
-        {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
 
     # picture
-    - type: id_picture
+    - type: id_research
       project_name: "Example Project"
       project_excerpt: "Picture"
       img: ":project2_thumb.jpg"
@@ -185,7 +71,7 @@ page_data:
         ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
+    - type: id_course
       project_name: "Example Project"
       project_excerpt: "William Shakespeare"
       #img: ":project1_thumb.jpg"
@@ -206,7 +92,7 @@ page_data:
         But bears it out even to the edge of doom.
         If this be error and upon me proved,
         I never writ, nor no man ever loved.
-    - type: id_quote
+    - type: id_course
       project_name: "Example Project"
       project_excerpt: "Albert Einstein"
       img: ":project2_thumb.jpg"
@@ -214,7 +100,7 @@ page_data:
       date: "2021-06-08"
       post: |
         Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
+    - type: id_course
       project_name: "Example Project"
       project_excerpt: "Mae West"
       img: ":project1_thumb.jpg"
@@ -222,7 +108,7 @@ page_data:
       date: "2021-08-20"
       post: |
         You only live once, but if you do it right, once is enough.
-    - type: id_quote
+    - type: id_course
       project_name: "Example Project"
       project_excerpt: "Mahatma Gandhi "
       img: ":project2_thumb.jpg"
