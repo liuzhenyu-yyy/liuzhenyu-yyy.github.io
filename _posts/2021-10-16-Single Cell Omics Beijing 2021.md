@@ -51,8 +51,6 @@ Notes from Program of Single Cell Omics Beijing 2021.
 
 Oct. 15-16, 2021. Beijng China
 
-[toc]
-
 ## Opening
 
 ## Session 1
