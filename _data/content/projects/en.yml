@@ -211,6 +211,10 @@ page_data:
 
         A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC.
 
+        URL: https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/
+
         Source code available at https://github.com/liuzhenyu-yyy/TangLab-Quota.
 
-        [Web app](https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/) was deployed on [shinyapps.io](https://www.shinyapps.io/).
+        Web appwas deployed on [shinyapps.io](https://www.shinyapps.io/).
+
+       
