@@ -23,6 +23,26 @@ page_data:
       color: "#cccccc"
 
   list:
+    # Quota
+    - type: id_others
+      project_name: "Tang Lab Quota Usage"
+      project_excerpt: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
+      img: ":quota.jpg"
+      img_title: "img quota"
+      date: "2022-06-26"
+      post: |
+        # Tang Lab Quota Usage
+
+        ![Image](:quota.jpg){:data-align="center"}
+
+        ---
+
+        A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC.
+
+        Source code available at https://github.com/liuzhenyu-yyy/TangLab-Quota.
+
+        [Web app](https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/) was deployed on [shinyapps.io](https://www.shinyapps.io/).
+
     # IVF
     - type: id_research
       project_name: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in IVF Babies"
@@ -34,6 +54,8 @@ page_data:
         # Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in IVF Babies
 
         ![Image](:IVF.png){:data-align="center"}
+
+        ---
 
         While chromosomal mosaic embryos detected by trophectoderm (TE) biopsy 
         offer healthy embryos available for transfer, high resolution postnatal 
@@ -66,6 +88,8 @@ page_data:
         # Sequential and Distinct Roles of Ngn3 and Neurod1 in Pancreatic Lineage Differentiation
 
         ![Image](:Ngn3.png){:data-align="center"}
+
+        ---
 
         Cell identities are established through the sequential action of key
         transcription factors (TFs). The current model of pancreas endocrine lineage
