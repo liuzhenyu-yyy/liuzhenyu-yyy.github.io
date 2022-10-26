@@ -15,12 +15,12 @@ page_data:
     - title: "Research"
       type: id_research
       color: "#8dd3c7"
-    - title: "Others"
-      type: id_others
-      color: "#cccccc"
     - title: "Course"
       type: id_course
       color: "#80b1d3"
+    - title: "Others"
+      type: id_others
+      color: "#cccccc"
 
 
   list:
@@ -89,26 +89,6 @@ page_data:
         initiate their expression. These data suggest the pioneering ability of Ngn3, with Neurod1 acting
         as a co-factor to maintain the opened chromatin state.
 
-    # Quota
-    - type: id_others
-      project_name: "Tang Lab Quota Usage"
-      project_excerpt: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
-      img: ":quota.jpg"
-      img_title: "img quota"
-      date: "2022-06-26"
-      post: |
-        # Tang Lab Quota Usage
-
-        ![Image](:quota.jpg){:data-align="center"}
-
-        ---
-
-        A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC.
-
-        Source code available at https://github.com/liuzhenyu-yyy/TangLab-Quota.
-
-        [Web app](https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/) was deployed on [shinyapps.io](https://www.shinyapps.io/).
-        
     # MMLS: chaotic model
     - type: id_course
       project_name: "Chaotic Model for Insulin-Glucose System"
@@ -214,3 +194,23 @@ page_data:
         single-layed search and performs no pruning step during searching, which could be further improved.
 
         Check more at the [project page](https://github.com/liuzhenyu-yyy/Game-of-the-Amazons-AI).
+
+    # Quota
+    - type: id_others
+      project_name: "Tang Lab Quota Usage"
+      project_excerpt: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
+      img: ":quota.jpg"
+      img_title: "img quota"
+      date: "2022-06-26"
+      post: |
+        # Tang Lab Quota Usage
+
+        ![Image](:quota.jpg){:data-align="center"}
+
+        ---
+
+        A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC.
+
+        Source code available at https://github.com/liuzhenyu-yyy/TangLab-Quota.
+
+        [Web app](https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/) was deployed on [shinyapps.io](https://www.shinyapps.io/).
