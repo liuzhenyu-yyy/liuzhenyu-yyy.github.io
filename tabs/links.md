@@ -40,53 +40,49 @@ lng_pair: id_links
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Some links to other websites that might be useful."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
-      color: "#62b462"
+    - title: "Publication"
+      type: id_publication
+      color: "#8dd3c7"
+    - title: "Affiliation"
+      type: id_affiliation
+      color: "#80b1d3"
+    - title: "Others"
+      type: id_others
+      color: "#cccccc"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # Publication
+    - type: id_publication
+      title: "Genomics, Proteomics & Bioinformatics"
+      url: "https://www.sciencedirect.com/science/article/pii/S1672022922000882"
+      info: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub"
+    # Affiliation
+    - type: id_affiliation
+      title: "BIOPIC"
+      url: "https://biopic.pku.edu.cn/en/"
+      info: "Biomedical Pioneering Innovation Centre (BIOPIC), Peking University, where our laboratory is located."
+    - type: id_affiliation
+      title: "School of Life Sciences"
+      url: "http://bio.pku.edu.cn/"
+      info: "School of Life Sciences, Peking University, where I get my Ph.D. training."
+    - type: id_affiliation
+      title: "Yuanpei College"
+      url: "https://yuanpei.pku.edu.cn/"
+      info: "Yuanpei College, Peking University, where I spent my undergraduate career."
+    - type: id_affiliation
+      title: "Peking University"
+      url: "https://english.pku.edu.cn/"
+      info: "Peking University is a public research university in Beijing, China. The university is funded by the Ministry of Education."
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # Others
+    - type: id_others
+      title: "TangLab Quota"
+      url: "https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/"
+      info: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
 ---
