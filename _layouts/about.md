@@ -47,11 +47,13 @@ layout: default
     <div class="col-md-12">
       <div class="about-msg markdown-style">
         {{ content }}
+        <br/>
+        <br/>
         <table>
           <tbody>
             <tr>
-              <td>Most Used Language</td>
-              <td>Visitor Distribution</td>
+              <td><b>Most Used Language:</b></td>
+              <td><b>Visitor Distribution:</b></td>
             </tr>
             <tr>
               <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="375px" alt="liuzhenyu-yyy" /></td>
