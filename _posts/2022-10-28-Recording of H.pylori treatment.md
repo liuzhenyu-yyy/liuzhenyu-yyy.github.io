@@ -16,7 +16,7 @@ img: ":post_20221028/cover.jpg"
 comments_disable: true
 
 # publish date
-date: 2022-10-28 08:11:06 +0900
+date: 2022-10-28 00:11:06 +0900
 
 # seo
 # if not specified, date will be used.
@@ -53,7 +53,7 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
 现在想想，胃酸过多似乎是初中时候就出现的毛病，偶发性不明原因上腹痛则是读博之后出现的症状，这些症状都指向胃部可能出现了炎症，而最可能的诱因便是幽门螺杆菌。之前也有考虑过去做筛查，但是一直没能成行。直到近日和苏苏一起去做了C13呼气检查，果然阳性了。检出线是4，本人实验值是7.7。体检科的大夫说这么低的数值治不治都行，然而之前查阅的资料告诉我阳性即为感染，与菌落浓度无关。于是抱着感染了就得治的决心，去找内科大夫开了药。
 
-![image-20221020214431448](E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\image-20221020214431448.png)
+![image-20221020214431448](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/image-20221020214431448.png)
 
 ## 治疗手段
 
@@ -66,7 +66,7 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
 看到药房的大夫扔出来一大堆药的时候内心还是小震惊了一下，之后的两星期要把这一堆东西吃完，还是有点兴奋。不过也看了一些接受过治疗的经验贴，最多提到的就是大剂量抗生素对肠胃的刺激，会有比较明显的恶心、呕吐、食欲下降等等症状，还挺吓人的。不过对自己的身体素质有信心，开完药的第二天就开始！
 
-![image-20221020214958551](E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\image-20221020214958551.png)
+![image-20221020214958551](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/image-20221020214958551.png)
 
 
 
@@ -76,7 +76,7 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
   吃药第一天！早上8点半准吃下PPI和铋剂，然后洗漱出门。早餐和苏苏一起去了学五，浅吃了一个奥尔良鸡腿饼一碗馄饨，然后送苏苏去图书馆。
 
-  <img src="E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\image-20221014115752970.png" alt="image-20221014115752970" style="zoom: 40%;" />
+  <img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/image-20221014115752970.png" alt="image-20221014115752970" style="zoom: 40%;" />
 
   回到实验室，9点40卡点吃掉抗生素组合（四环素+克拉霉素）之后继续开会。不得不说大剂量抗生素刺激真的不小，上午坐着就明显感觉胃里很奇怪，但也说不上是难受，就是一点点轻微反馈告诉你它malfunction。
 
@@ -86,11 +86,11 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
   下午5点30，铋剂+PPI，准备6点左右吃饭。两餐之间间隔9小时，合理。
 
-  <img src="E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\20221014_530.png" alt="1" style="zoom:60%;" />
+  <img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/20221014_530.png" alt="1" style="zoom:60%;" />
 
   饭后半小时，18:48服用抗生素组合，差点刷b站过头了orz，还好苏苏提醒了我。
 
-  <img src="E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\IMG_2746.JPEG" alt="IMG_2746" style="zoom: 20%;" />
+  <img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/IMG_2746.JPEG" alt="IMG_2746" style="zoom: 20%;" />
 
   晚上就非常平和~没有什么不良反应。回去之前去全家买了面包，保证明天早上规律早餐！
 
@@ -162,7 +162,7 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
   下午去玉渊潭公园秋游，天气是极好的：碧蓝的湖水与澄澈的天空，空气也是极干净清新的。可惜下午风有点大，码头停船了，划船计划宣告破产。湖边的芦苇荡是极好的取景地，只是对过敏性鼻炎患者过于不友好了，靠近了一小会儿就疯狂打喷嚏流鼻涕精神萎靡。
 
-  ![image-20221024102804063](E:\MyRepo\liuzhenyu-yyy.github.io\assets\post_20221028\image-20221024102804063.png)
+  ![image-20221024102804063](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221028/image-20221024102804063.png)
 
   回寝室刷了两张新套胶，然后小睡了一会儿。帮苏苏带了晚饭，吃了药之后去邱德拔打球，真切感受到了橙海绵和蓝海绵的差异：橙海绵更软更弹，出球旋转强弧线好但是速度慢质量低一些，之后还是换回蓝海绵吧。
 
@@ -188,5 +188,14 @@ Record on the two-week Bismuth quadruple therapy against Helicobacter pylori (H.
 
 - Day 14, 2022.10.27
 
-  最后一天了，昨天晚上没睡好，早上赖床了一会儿，吃PPI已经是9点40了。但早饭还得吃，只能去45地下买了一个煎饼解决。
+  最后一天了，昨天晚上没睡好，早上赖床了一会儿，吃PPI已经是9点40了。但早饭还得吃，只能去45地下买了一个煎饼解决，吃完抗生素已经11点20了。
+  
+  下午照常工作，4点45最后一餐铋剂和PPI，然后和苏苏去学一吃了晚饭。晚饭后6点10分在路上吃下了最后一餐抗生素，14天铋剂四联治疗正式结束！
+  
+  ![image-20221028164046406](E:\MyRepo\liuzhenyu-yyy.github.io\_posts\2022-10-28-Recording of H.pylori treatment.assets\image-20221028164046406.png)
 
+## 总结
+
+总体来说，这14天的治疗还是非常顺利的，没有出现之前出现的明显不良反应，仅仅是在第一天的上午出现了胃部症状，之后大部分时间没什么副作用。但是按时必须吃药对日常生活的影响还是挺大的，尤其我这种生活不太规律的人，基本上去哪里都得带着药，心里挂念这时间。即使这样还是差点忘了好几次，好在都在苏苏的提醒下及时补吃了，算是圆满完成了治疗任务！
+
+之后就等一个月后复查了，期待！
