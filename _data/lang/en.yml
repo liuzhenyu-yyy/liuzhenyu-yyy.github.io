@@ -139,7 +139,7 @@ home:
 archives:
   title: Archive
   button_name: Archive
-  page_header: Archive
+  page_header: Time Line of Blogs
 
 # for about layout
 about:
@@ -151,8 +151,8 @@ about:
 links:
   title: Links
   button_name: Links
-  link_text: Web site
-  info_text: Info
+  link_text: Name
+  info_text: Description
 
 # for projects layout
 projects:
