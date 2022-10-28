@@ -47,7 +47,7 @@ layout: default
     <div class="col-md-12">
       <div class="about-msg markdown-style">
         {{ content }}
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" alt="liuzhenyu-yyy" /></p>
+        <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" alt="liuzhenyu-yyy" />
       </div>
     </div>
   </div>
