@@ -48,11 +48,10 @@ layout: default
       <div class="about-msg markdown-style">
         {{ content }}
         <br/>
-        <br/>
         <table>
           <tbody>
             <tr>
-              <td><b>Most Used Language:</b></td>
+              <td><b>Most Used Languages:</b></td>
               <td><b>Visitor Distribution:</b></td>
             </tr>
             <tr>
