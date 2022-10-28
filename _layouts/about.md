@@ -47,10 +47,22 @@ layout: default
     <div class="col-md-12">
       <div class="about-msg markdown-style">
         {{ content }}
-        <table><tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="300px" alt="liuzhenyu-yyy" /></td>
-        <td> <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script></td>
-        </tr></table>
+        <table>
+          <tbody>
+            <tr>
+              <td>Most Used Language</td>
+              <td>Visitor Distribution</td>
+            </tr>
+            <tr>
+              <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="375px" alt="liuzhenyu-yyy" /></td>
+              <td><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script></td>
+            </tr>
+          </tbody>
+          <colgroup>
+            <col>
+            <col>
+          </colgroup>
+        </table>
       </div>
     </div>
   </div>
