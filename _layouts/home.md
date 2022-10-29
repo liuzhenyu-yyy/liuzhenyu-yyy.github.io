@@ -35,23 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text">
-    <p style="font-size:18px;line-height:150%">I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓.</p>
-    <table style="font-size:16px;line-height:120%">
-      <tbody>
-        <tr>
-          <td><b>🖥️Most Used Languages:</b></td>
-          <td><b>🗺️Visitor Distribution:</b></td>
-        </tr>
-        <tr>
-          <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="413px" alt="liuzhenyu-yyy" /></td>
-          <td><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script></td>
-        </tr>
-      </tbody>
-      <colgroup>
-        <col>
-        <col>
-      </colgroup>
-    </table>
+    {{ content }}
   </div>
 </div>
 
