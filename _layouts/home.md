@@ -36,6 +36,23 @@ layout: default
   </div>
   <div class="home-intro-text markdown-style">
     {{ content }}
+    <br/>
+    <table>
+      <tbody>
+        <tr>
+          <td><b>Most Used Languages:</b></td>
+          <td><b>Visitor Distribution:</b></td>
+        </tr>
+        <tr>
+          <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="375px" alt="liuzhenyu-yyy" /></td>
+          <td><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script></td>
+        </tr>
+      </tbody>
+      <colgroup>
+        <col>
+        <col>
+      </colgroup>
+    </table>
   </div>
 </div>
 
