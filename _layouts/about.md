@@ -46,10 +46,6 @@ layout: default
   <div class="row">
     <div class="col-md-12">
       <div class="about-msg markdown-style">
-        {{ content }}
-        {%- capture about_file -%}{%- include_relative _about.md -%}{%- endcapture -%}
-        {%- assign tmp_content = about_file | split: "<!-- aboutme -->" -%}
-        {{tmp_content[1]}}
       </div>
     </div>
   </div>
