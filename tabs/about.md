@@ -43,5 +43,8 @@ img: ":about.jpg"
 
 test
 {%- capture about_file -%}{%- include_relative _about.md -%}{%- endcapture -%}
+test1
 {%- assign tmp_content = about_file | split: "<!-- aboutme -->" -%}
+test2
 {{tmp_content[1]}}
+test3
