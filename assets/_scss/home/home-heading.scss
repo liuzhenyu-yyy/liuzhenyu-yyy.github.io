@@ -38,8 +38,6 @@
 }
 
 .home-intro-text {
-  font-size: 8px;
-  line-height:200%;
   text-align: justify;
   margin-top: calc(var(--text-spacing) - 3px);
 }
@@ -55,12 +53,12 @@
 
 /* home intro text */
 /* currently handled by markdown-style use this to override */
-/*
+
 .home-intro-text > p {
   font-size: 1.6rem;
   line-height: 2.4rem;
 }
-*/
+
 
 /* remove last spacing */
 .home-intro-text > p:last-child {
