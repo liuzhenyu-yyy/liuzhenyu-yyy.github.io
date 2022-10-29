@@ -36,12 +36,11 @@ layout: default
   </div>
   <div class="home-intro-text markdown-style">
     {{ content }}
-    <br/>
     <table>
       <tbody>
         <tr>
-          <td><b>Most Used Languages:</b></td>
-          <td><b>Visitor Distribution:</b></td>
+          <td><b>🖥️Most Used Languages:</b></td>
+          <td><b>🗺️Visitor Distribution:</b></td>
         </tr>
         <tr>
           <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" width="375px" alt="liuzhenyu-yyy" /></td>
