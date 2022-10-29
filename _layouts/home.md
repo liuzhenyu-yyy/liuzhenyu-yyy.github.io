@@ -35,8 +35,8 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text">
-    <p class="home-intro-text">I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓.</p>
-    <table>
+    <p style="font-size:20px;line-height:150%">I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓.</p>
+    <table style="font-size:20px;line-height:120%">
       <tbody>
         <tr>
           <td><b>🖥️Most Used Languages:</b></td>
