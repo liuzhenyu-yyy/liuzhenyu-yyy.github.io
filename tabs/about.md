@@ -39,4 +39,8 @@ img: ":about.jpg"
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
-{{ website_info_text_second }}
+# {{ website_info_text_second }}
+
+{%- capture about_file -%}{%- include_relative _about.md -%}{%- endcapture -%}
+{%- assign tmp_content = about_file | split: "<!-- aboutme -->" -%}
+{{tmp_content[1]}}
