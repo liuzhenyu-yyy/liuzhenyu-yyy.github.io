@@ -34,7 +34,7 @@ layout: default
       {% endif -%}
     </div>
   </div>
-  <div class="home-intro-text markdown-style">
+  <div class="home-intro-text">
     I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓.
     <table>
       <tbody>
