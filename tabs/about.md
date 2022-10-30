@@ -49,6 +49,7 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 - Human embryonic development
 
 ## 🎓Education
+
 - School of Life Sciences, Peking University
   - Ph.D. of Biology, 2021-2025 (expected)
   - "4 plus 4" B.Sc. to Ph.D. Program
@@ -76,4 +77,5 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 - Freshman Scholarship 2017
 
 ## 📖Publications
-1. Gao Y, Zhang J, Liu Z, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies [published online ahead of print, 2022 Aug 6]. Genomics Proteomics Bioinformatics. 2022;S1672-0229(22)00088-2. doi:10.1016/j.gpb.2022.07.004
+
+1. Gao Y, Zhang J, Liu Z, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies [published online ahead of print, 2022 Aug 6]. *Genomics Proteomics Bioinformatics.* 2022;S1672-0229(22)00088-2. doi:10.1016/j.gpb.2022.07.004
