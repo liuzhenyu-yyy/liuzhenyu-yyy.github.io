@@ -60,7 +60,7 @@ page_data:
     - type: id_publication
       title: "Genomics, Proteomics & Bioinformatics"
       url: "https://www.sciencedirect.com/science/article/pii/S1672022922000882"
-      info: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies."
+      info: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies. PMID: 35944838"
 
     # Affiliation
     - type: id_affiliation
