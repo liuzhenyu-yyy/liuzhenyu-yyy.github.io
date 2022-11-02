@@ -5,7 +5,7 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "Some of the projects I have parcicipated in, both laboratory research and coursework included."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
