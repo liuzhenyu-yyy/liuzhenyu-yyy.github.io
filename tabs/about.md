@@ -62,19 +62,19 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 
 ## 📚Teaching
 
-- **[Freshman Seminar on General](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223104631815_28304)**. Teaching Assistant. *2018 Fall.*
-- **[Current Topics on Genetics](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223101132022_14350)**. Teaching Assistant. *2022 Fall.*
+- **[Freshman Seminar on General](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223104631815_28304)**, Yuanpei College, Peking University. Teaching Assistant. *2018 Fall.*
+- **[Current Topics on Genetics](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223101132022_14350)**, School of Life Sciences, Peking University. Teaching Assistant. *2022 Fall.*
 
 ## 🏆Awards & Honors
 
-- Merit Student 2022
-- Ubiquant Scholarship 2022
-- Novogene Scholarship 2021
-- Graduate with Honor of YPC 2021
-- Excellent Admission Volunteer 2020
-- Awards for Academic Excellents 2018
-- Lee Wai Wing Scholarship 2018
-- Freshman Scholarship 2017
+- `Merit Student` 2022
+- `Ubiquant Scholarship` 2022
+- `Novogene Scholarship` 2021
+- `Graduate with Honor of YPC` 2021
+- `Excellent Admission Volunteer` 2020
+- `Awards for Academic Excellents` 2018
+- `Lee Wai Wing Scholarship` 2018
+- `Freshman Scholarship` 2017
 
 ## 📖Publications
 
