@@ -36,7 +36,7 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneering Innovation Centre](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I'm hornored to be advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). I received my B.Sc. in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. I have participated in the Undergraduate Research Training Program of PKU, where my academic advisor was [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml). I am also a member of the Peking University table tennis varsity team for non-sports students🏓.
+I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneering Innovation Centre](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I'm hornored to be advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). I received my B.Sc. in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. I have participated in the Undergraduate Research Training Program of PKU, where my academic advisor was [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml). I am also a member of the Peking University table tennis varsity team for non-sports students.
 
 ## 🧬Research interests
 
@@ -75,6 +75,13 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 - `Awards for Academic Excellents` 2018
 - `Lee Wai Wing Scholarship` 2018
 - `Freshman Scholarship` 2017
+
+## 🏓Tournaments
+
+- 🥇Gold Medal. PKU Cup Tennis Championships. Team AAIS-SLS, 2022.
+- 🥈Silver Medal. PKU Cup Table Tennis Championships. Team YPC-GSE, 2021.
+- 🥉Third Prize. Chinese University Table Tennis Championships, non-profesional group. Team PKU, 2019.
+
 
 ## 📖Publications
 
