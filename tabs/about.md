@@ -78,9 +78,9 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 
 ## 🏓Tournaments
 
-- 🥇Gold Medal. PKU Cup Tennis Championships. Team AAIS-SLS, 2022.
-- 🥈Silver Medal. PKU Cup Table Tennis Championships. Team YPC-GSE, 2021.
-- 🥉Third Prize. Chinese University Table Tennis Championships, non-profesional group. Team PKU, 2019.
+- 🥇 Gold Medal. PKU Cup Tennis Championships. Team AAIS-SLS, 2022.
+- 🥈 Silver Medal. PKU Cup Table Tennis Championships. Team YPC-GSE, 2021.
+- 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. Team PKU, 2019.
 
 
 ## 📖Publications
