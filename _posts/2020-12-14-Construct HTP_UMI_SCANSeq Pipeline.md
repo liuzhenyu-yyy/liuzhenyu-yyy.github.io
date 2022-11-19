@@ -43,6 +43,8 @@ Some records on constructing the bioinformatic pipelines for SCAN-seq2 data proc
 <!-- outline-end -->
 
 ---
+* TOC
+{:toc}
 
 # Background
 

@@ -44,6 +44,8 @@ This is the very first post of my homepage. In this post I want to make a brief 
 <!-- outline-end -->
 
 ---
+* TOC
+{:toc}
 
 # A brief self-intro
 
