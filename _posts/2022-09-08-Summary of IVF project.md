@@ -39,7 +39,7 @@ date: 2022-09-08 08:11:06 +0900
 
 <!-- outline-start -->
 
-Our recent work evaluating the safety of mosaic IVF embryo transfer has been published recently. Here I briefly summarized research progress of this project.
+Our research work evaluating the safety of mosaic IVF embryo transfer has been published recently. Here I briefly summarized research progress of this project.
 
 <!-- outline-end -->
 
