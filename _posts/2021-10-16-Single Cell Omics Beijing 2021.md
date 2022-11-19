@@ -549,7 +549,7 @@ Q&A
 
 - Large-scale single cell RNA-Seq of human FGCs and their niche cells
 
-  > ### [Single-cell RNA-seq analysis maps development of human germline cells and gonadal niche interactions](https://www.sciencedirect.com/science/article/pii/S1934590917300784)
+  > #### [Single-cell RNA-seq analysis maps development of human germline cells and gonadal niche interactions](https://www.sciencedirect.com/science/article/pii/S1934590917300784)
   >
   > [L Li](https://scholar.google.com.hk/citations?user=T8mqisMAAAAJ&hl=zh-CN&oi=sra), [J Dong](https://scholar.google.com.hk/citations?user=DfkHKmEAAAAJ&hl=zh-CN&oi=sra), L Yan, J Yong, X Liu, Y Hu, [X Fan](https://scholar.google.com.hk/citations?user=rvv3Q6AAAAAJ&hl=zh-CN&oi=sra), X Wu… - Cell stem cell, 2017 
 
@@ -561,7 +561,7 @@ Q&A
 
 - SCAN-Seq(Plos Biology, 2021)
 
-  > ### [Single-cell RNA-seq analysis of mouse preimplantation embryos by third-generation sequencing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001017)
+  > #### [Single-cell RNA-seq analysis of mouse preimplantation embryos by third-generation sequencing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001017)
   >
   > X Fan, D Tang, Y Liao, [P Li](https://scholar.google.com.hk/citations?user=UwqMLUYAAAAJ&hl=zh-CN&oi=sra), Y Zhang, M Wang… - PLoS …, 2020 - journals.plos.org
   - SCAN-Seq2
@@ -584,7 +584,7 @@ Q&A
 
 - SMOOTH-Seq (Genome Biology, 2021)
 
-  > ### [SMOOTH-seq: single-cell genome sequencing of human cells on a third-generation sequencing platform](https://link.springer.com/article/10.1186/s13059-021-02406-y)
+  > #### [SMOOTH-seq: single-cell genome sequencing of human cells on a third-generation sequencing platform](https://link.springer.com/article/10.1186/s13059-021-02406-y)
   >
   > X Fan, [C Yang](https://scholar.google.com.hk/citations?user=CJpcEFcAAAAJ&hl=zh-CN&oi=sra), W Li, X Bai, X Zhou, H Xie, L Wen… - Genome biology, 2021 - Springer
   - SMOOTH-Seq2
