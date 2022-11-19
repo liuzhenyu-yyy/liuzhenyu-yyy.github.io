@@ -61,15 +61,15 @@ We developed SCAN-seq2, a high-throughput, high-sensitivity full-length single-c
 
 8月28日，雨涵找到还未来到实验室报道的我，提到自己在开发高通量的三单转录组测序技术，问我是否愿意合作，并以此作为我大四的本科毕业设计。我受宠若惊，惶然应允，但当时确实很担心自己对新的技术了解不够而耽误课题，便暗下决心之后要好好努力。
 
-![image-20221119151306077](E:\MyRepo\liuzhenyu-yyy.github.io\_posts\2022-11-19-Summary of SCAN-seq2 project.assets\image-20221119151306077.png){:data-align="center"}
+![image-20221119151306077](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221119/image-20221119151306077.png){:data-align="center"}
 
 ### 第一次测试
 
 由于课题比较紧急，需要在测试数据下机后尽快生成分析结果，我便做了一些前期工作。按照优化后的文库构建流程，我推演了理论的文库结构，并按照理论的文库结构生成了一批模拟数据，用于in silico的计算流程搭建与模拟。第一代的流程较为简单，相较于SCAN-seq唯一的区别在于改进了双端barcode序列的拆分方式，而在其他部分基本未做改动。我在模拟数据上反复确认了流程的可用性，只等第一批数据下机（图为测试使用的部分模拟数据，以及最早的手稿）。
 
-![image-20221119152339061](E:\MyRepo\liuzhenyu-yyy.github.io\_posts\2022-11-19-Summary of SCAN-seq2 project.assets\image-20221119152339061.png){:data-align="center"}
+![image-20221119152339061](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221119/image-20221119152339061.png){:data-align="center"}
 
-![image-20221119153215676](E:\MyRepo\liuzhenyu-yyy.github.io\_posts\2022-11-19-Summary of SCAN-seq2 project.assets\image-20221119153215676.png){:data-align="center"}
+![image-20221119153215676](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221119/image-20221119153215676.png){:data-align="center"}
 
 2020年10月22 日，第一批测试数据下机，共64颗细胞，使用2个5' barcode与32个3’ barcode进行区分。在视检确认文库结构无误后，对这一批数据进行了已有流程的分析。从上午10点拿到数据释放链接，到晚上11点生成分析报告分享给雨涵，23号上午去和汤老师讨论结果，不得不说这可能是本人工作效率巅峰了哈哈哈哈（尤其是现在下个数据都得好几天）。第一批测试的结果很好，各项质控指标都达到甚至超过了我们的预期，证明了方法流程的可靠性。
 
