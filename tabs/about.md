@@ -67,20 +67,20 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 
 ## 🏆Awards & Honors
 
-- `Merit Student` 2022
-- `Ubiquant Scholarship` 2022
-- `Novogene Scholarship` 2021
-- `Graduate with Honor of YPC` 2021
-- `Excellent Admission Volunteer` 2020
-- `Awards for Academic Excellents` 2018
-- `Lee Wai Wing Scholarship` 2018
-- `Freshman Scholarship` 2017
+- `Merit Student` *2022*
+- `Ubiquant Scholarship` *2022*
+- `Novogene Scholarship` *2021*
+- `Graduate with Honor of YPC` *2021*
+- `Excellent Admission Volunteer` *2020*
+- `Awards for Academic Excellents` *2018*
+- `Lee Wai Wing Scholarship` *2018*
+- `Freshman Scholarship` *2017*
 
 ## 🏓Tournaments
 
-- 🥇 Gold Medal. PKU Cup Tennis Championships. Team AAIS-SLS, 2022.
-- 🥈 Silver Medal. PKU Cup Table Tennis Championships. Team YPC-GSE, 2021.
-- 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. Team PKU, 2019.
+- 🥇 Gold Medal. PKU Cup Tennis Championships. *Team AAIS-SLS, 2022*.
+- 🥈 Silver Medal. PKU Cup Table Tennis Championships. *Team YPC-GSE, 2021*.
+- 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
 
 
 ## 📖Publications
