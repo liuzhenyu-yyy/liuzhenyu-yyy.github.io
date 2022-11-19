@@ -114,31 +114,7 @@ TCR与BCR的VDJ重排，以及恒定区的鉴定一直是二代测序难以很�
 
 最终解决方法来自于一篇Nature Methods上用ONT做amplificon sequencing的文章，他们面临的技术问题与我们类似，而他们的解决方案就很有智慧：先提取目标区域的所有reads，再对reads进行clustering，并选择最大cluster的中心reads作为代表，利用其他reads进行polish与consensus，最终得到了不错的正确率。参考他们的思路，我们成功获取了细胞系中的TCR/BCR序列进行IgBlast，并且结果与已发表文献十分吻合，证实了这一流程的可靠性。
 
-```mermaid
-%%{init: {"theme": "neutral", 'themeVariables': { "fontSize": "30px","fontFamily": "Arial"}}}%%
-graph TD
-
-Align_Genome("Genome alignments</br>(bam)"):::sc -- samtools --> reads("IGH/IGL/IGK/TRA/TRB reads<br/>(fastq)"):::sc --usearch--> cluster("Reads clusters</br>(cluster fastq)"):::sc--> large_clustrer("Largest cluster</br>(fastq)"):::sc--centroid--> centroid("centroid reads"):::sc
-large_clustrer --> Other("Other reads in the same cluster"):::sc
-
-subgraph Main 
-centroid  --racon---> pol1(Polished sequence I):::sc
-pol1 --another 3 rounds of racon--->pol4(Polished sequence IV):::sc -- Medaka ----> con("Consensus sequence</br>(fasta)"):::sc
-end
-
-subgraph Other reads
-Other --racon---> pol1
-Other -- another 3 rounds of racon-->pol4
-Other -- Medaka --> con("Consensus sequence</br>(fasta)")
-end
-
-con --IgBlast--> VDJ("V(D)J calls</br>(tsv)"):::sc
-
-classDef merge fill:#bebada,stroke:#000000;
-classDef cl fill:#fb8072,stroke:#000000;
-classDef sc fill:#8dd3c7,stroke:#00000;
-classDef down fill:#b3de69,stroke:#000000;
-```
+![Snipaste_2022-11-19_18-52-51](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221119/Snipaste_2022-11-19_18-52-51.jpg){:data-align="center"}
 
 ### DTU分析
 
