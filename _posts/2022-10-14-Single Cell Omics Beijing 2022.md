@@ -90,7 +90,7 @@ Moderator: Xiaoliang Sunney Xie
 - Q&A:
   - Associated cCREs with genes
 
-### **Jay Shendure **: Reconstruction & Recording of Mammalian Development
+### **Jay Shendure**: Reconstruction & Recording of Mammalian Development
 
 - background: development of single-cell methods
 
@@ -295,7 +295,7 @@ Moderator: Yanyi Huang
 
   ![image-20221014100035359](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20221014/image-20221014100035359-16657128363801.png)
 
-### **Yanyi Huang **: Improving the Information Efficiency for Fast and Spatially Resolved Sequencing
+### **Yanyi Huang**: Improving the Information Efficiency for Fast and Spatially Resolved Sequencing
 
 - ECC sequencing methods:
 
