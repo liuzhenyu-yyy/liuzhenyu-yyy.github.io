@@ -37,11 +37,6 @@ date: 2022-03-03 12:32:10 +0900
 published: true
 ---
 
-{%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
-{%- assign tmp_content = readme_file | split: "<!-- readme -->" -%}
-{{tmp_content[1]}}
-
-
 [<img src="https://img.shields.io/github/issues/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub issues" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/issues)
 [<img src="https://img.shields.io/github/forks/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub forks" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)
 [<img src="https://img.shields.io/github/stars/MrGreensWorkshop/MrGreen-JekyllTheme" alt="GitHub stars" data-no-image-viewer>](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme/blob/main/README.md#readme)
