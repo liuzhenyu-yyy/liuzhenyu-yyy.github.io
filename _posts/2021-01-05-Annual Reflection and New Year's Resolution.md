@@ -43,7 +43,6 @@ The year of 2020 might be one of the most unusually years in my life span. At th
 
 <!-- outline-end -->
 
----
 * TOC
 {:toc}
 

@@ -34,7 +34,7 @@ date: 2022-03-03 12:32:10 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: true
+published: false
 ---
 
 
