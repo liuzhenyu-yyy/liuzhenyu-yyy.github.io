@@ -43,9 +43,6 @@ We developed SCAN-seq2, a high-throughput, high-sensitivity full-length single-c
 
 <!-- outline-end -->
 
-* TOC
-{:toc}
-
 SCAN-seq2是承接SCAN-seq而发展的新一代单细胞转录组测序技术。在Tang Lab浩浩荡荡的三代单细胞组学技术革命中，SCAN-seq所代表的转录组测序技术是最早发展、测试与发表的一个。SCAN-seq发表不久，对其进一步改进开发二代技术的课题就开始了紧锣密鼓的准备。雨涵和张雨承担了技术流程优化测试、文库构建等实验工作，而我则负责相关生物信息计算流程的搭建与数据分析。
 
 这也是我第一次接触第三代测序技术，从最初的一无所知到逐渐掌握了一些规律与方法，自己在课题过程中也得到了肉眼可见的成长。最终经过两年多的努力，论文最终被***[Cell Discovery](https://www.nature.com/celldisc/)***杂志接收。在这里简单记录一下自己视角中的课题进展历程。
