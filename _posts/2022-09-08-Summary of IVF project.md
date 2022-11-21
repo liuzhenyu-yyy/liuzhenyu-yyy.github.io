@@ -46,8 +46,6 @@ Our research work evaluating the safety of mosaic IVF embryo transfer has been p
 * TOC
 {:toc}
 
-# IVF嵌合胚胎课题小结
-
 ​		IVF嵌合胚胎课题是我来汤组之后最早接手的两个课题之一，也是第一篇由我独立负责生信分析的研究论文，课题体量和难度都不大，算是典型的短平快课题了。但得益于实验样本的珍贵性、科学问题的重要性、以及单细胞多组学技术的优越性，这个课题起初被大家基于厚望。然而课题过程却并不顺利：疫情带来的取样困难问题、非侵入取样带来的数据质量问题、最后投稿时被抢发论文冲击的问题，都给课题的顺利推进与发表带来了不小的困难。最终课题发表在[Genomics, Proteomics & Bioinformatics](https://www.sciencedirect.com/journal/genomics-proteomics-and-bioinformatics)上，也算一个圆满的结局吧。
 
 ​		课题的研究思路、实验设计、结果结论和科学意义都可以参考[原文链接](https://www.sciencedirect.com/science/article/pii/S1672022922000882)以及[新闻稿](https://news.pku.edu.cn/jxky/5ba14dbf1ff4407db5fbe03038dcf19f.htm) ([English version](https://biopic.pku.edu.cn/en/newscenter/scientificupdates/525120.htm))，就不再自己总结了，在这里主要想记录一下在课题推进中的各种经历与心路历程。

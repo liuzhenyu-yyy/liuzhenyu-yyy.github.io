@@ -45,7 +45,7 @@ Some records on constructing the bioinformatic pipelines for SCAN-seq2 data proc
 * TOC
 {:toc}
 
-# Background
+## Background
 
 SCAN-Seq is a new scRNA-Seq technology developed by our lab, which utilizes third generation sequencing (TGS, also know as single molecule real-time sequencing) methods to detect full length mRNAs in single cell. The original paper should be published soon.
 
@@ -57,7 +57,7 @@ When I first moved to Tang lab, I was very impressed by the standard pipelines c
 
 To help develop high throughput version of SCAN-Seq was the very first project I participate in at Tang Lab. It really means something special to me. Thanks to the great effort of Yuhan and Zhang Yu, we developed satisfactory pipelines for HTP SCAN-Seq, both experimental and computational. And I think it really worthwhile that I should record these experiences behind this pipeline, including all the trails and errors. 
 
-# Experimental Improvements
+## Experimental Improvements
 
 Pre-existing full length transcriptome technologies all have similar shortcuts:
 
@@ -67,11 +67,11 @@ Pre-existing full length transcriptome technologies all have similar shortcuts:
 
 Our motivation is to develop a new experimental procedure that could overcome or bypass the limitations listed above. Yuhan and Zhang Yu did great works exploring the proper conditions of each experimental step. Finally, we did get very high-quality full length transcriptome data at single cell resolution. Details of the experimental protocol are not published yet and thus omitted in this blog.
 
-# Computational Pipelines
+## Computational Pipelines
 
 Computational pipeline of TGS-based scRNA-Seq are quite different from that of NGS-based. Main problems came from the relative high error rated of Nanopore Sequencing. The identification of anchor sequence, barcode sequence, UMI sequence and poly-A tail all suffered greatly from the sequencing err, and brand new computational methods are required to handle these sequences properly. We tested several combinations of different computational tools and finally adopted a pipeline that we believe to have the best performance. Here I will briefly record some trails and errors we have made and describe our recommended way of processing Nanopore-based multiplexed scRNA-Seq data.
 
-## Step 1 Demultiplexing
+### Step 1 Demultiplexing
 
 Demultiplexing refers to the process of classifying reads based on which cell they come from.  Actually demultiplexing the fastq data before processing is not necessary nor recommended for NGS-based method, since this will require processing each cell independently and thus wasting lot of time and computational resources. The standard scRNA-Seq pipeline of Tang Lab, which is constructed by Ji Dong and further modified by Jiansen, processes reads from all cells together and did not split barcode information until generating the output UMI count matrix. This method is both accurate and effective, however, not very applicable to our Nanopore-based high throughput method because:
 
@@ -98,7 +98,7 @@ nanoplexer -b ../Barcode.3plus.fa\
 
 This would generated a single fastq data for each cell and could be used for downstream analysis. Another important thing to notice is that we use 24 bp barcode sequence, however, due to the high error rate of Nanopore sequencing and the algorithms of Nanoplexer, **we would always add extra 4 bp in the anchor sequence next to barcode to guarantee a better performance of demultiplexing**.
 
-## Step 2 Processing of Each Single Cells
+### Step 2 Processing of Each Single Cells
 
 After demultiplexing we could run primary pipeline for each single cell, with the input being the initial fastq file and the output being the quantification of each transcript and gene. The primary include four main parts:
 
@@ -107,7 +107,7 @@ After demultiplexing we could run primary pipeline for each single cell, with th
 - Remove PCR duplication
 - Map to reference transcriptome and quantify each transcript and gene
 
-### 1. Quality Control of Reads
+#### 1. Quality Control of Reads
 
 First we filtered low-quality reads based read length and quality score, this could be easily accomplished using [NanoFilt](https://github.com/wdecoster/nanofilt) with a single command:
 
@@ -125,7 +125,7 @@ NanoStat --fastq ${cell}_clean.fastq -t $threads -o ./ -n ${cell}_stat.txt
 
 
 
-### 2. Identify full length cDNA and trim poly-A
+#### 2. Identify full length cDNA and trim poly-A
 
 In the library construction we add adaptor sequence to both ends of full length cDNA, we could use these sequences to identify full length cDNA. This step relies on known adaptor sequences at both ends and could be accomplished using [Pychoper](https://github.com/nanoporetech/pychopper) developed by ONT:
 
@@ -166,7 +166,7 @@ awk '{gsub(/A+$/, "");print}' ${cell}_full_length_filtered.fa > ${cell}_full_len
 
 Now we have clean full length cDNA reads, which could be directly mapping to the reference transcritpome or genome.
 
-### 3. Remove PCR duplications
+#### 3. Remove PCR duplications
 
 This is the most difficult part while constructing the pipeline. Our pre-experiment generated a astonishing number of reads: ~700,00,000 reads for 32 cell, which should includes a great number of  duplication events that should be dealt with extra caution. At first we sought to remove duplication using only UMI sequence, which is how we deal with UMIs in NGS-based multiplexed RNA-Seq (`umi_tools count`). This results in an unreasonable number of detected UMIs each cell (500,000 for 8 bp UMI) and poor correlation among cells. This poor performance could be easily understood for several reason. Firstly the high error rate of Nanopore sequencing result in lot of errors in the UMI sequence itself, generating lot of "new UMIs" that didn't exist;. Secondly while mapping to reference transcriptome, same reads could easily be mapped to different isoforms of the same gene, resulting in a lot of secondary alignments. If PCR duplication of same cDNA molecule are mapped to different isoforms, they'll be regarded as tow different UMIs due to the 'per contig' tag in UMI-tools. These questions add great difficulty to handle UMIs properly.
 
@@ -206,7 +206,7 @@ umi_tools dedup --per-gene \
 
 Technically speaking, the bam output of `umi_toos dedup` should be enough for umi counting because it contains the mapping results of each reads and doesn't have PCR duplications. If we use some simple counting software such as *HTSeq* or *FeatureCounts* we could get the transcript-by-cell matrix and then convert to gene-by-cell matrix for downstream analysis. However, it has been reported that [Salmon](https://combine-lab.github.io/salmon/) performs better than these counting softwares on quantification of gene expression and is strongly advised for TGS based method. So we decided to adopt Salmon in or pipeline. However, the accurate quantification of salmon requires the correct Flags in the sam file, which indicated the properties of reads including mapping results, reads pairs... The  `uim_tools dedup`  command would remove not only duplicated reads but also secondary alignments, which is not required for downstream counting but is required for the correct quantification of Salmon. We came up with a simple solution to address this problem: extract unique reads from the output file and realign it to generate a sam file with proper Flags as the input of Salmon. This would definitely takes more time but guaranteed the reliability of our outputs.
 
-### 4. Map to Reference Transcriptome and Quantification of Expression
+#### 4. Map to Reference Transcriptome and Quantification of Expression
 
 As described above we extract unique reads sequence in the fasta format from the output of `umi_tools dedup`:
 
@@ -236,7 +236,7 @@ salmon quant -p $threads --noErrorModel -l U\
          -g ${Database_dir}/minimap_ref/${ref}/TranscriptID_GeneID_from_cDNA_fasta.txt
 ```
 
-## Step 3 Summarize All Cells
+### Step 3 Summarize All Cells
 
 The primary pipeline is designed for each single cell. However, our expected output of the pipeline is the gene/transcript-by-cell matrix. So we need to bind the expression profile of each file to generate a single matrix.  This could be easily accomplished with custom codes. Apart from the UMI count matrix, we also want to generate a statistic summary of this experiment, including the initial read count, QC read count, mapping rate, UMIs count, etc.  All these information could be extracted from the log files with simple text processing tools such as `grep` and `awk`. Details of the code are not shown here.
 
@@ -256,7 +256,7 @@ sh RUN.HTP_UMI_SCANSeq.sh
 
 I constructed and tested the pipeline on the High Performance Computing Platform of CLS, which is use Slurm workload manager. Currently I haven't write a SGE version of the pipeline so we could not run the pipeline on the server of our lab.
 
-# Future Improvements
+## Future Improvements
 
 Single-cell full length RNA Seq with UMI is still a technological problem to the field. Currently we have some computational tools to process Nanopore data under its high sequencing rate. For example, Nanoplexer could handle long barcode sequence in Nanopore reads correctly and generate satisfactory results. However, we definitely need more tools for TGS data processing, both for mapping and quantification, as well as UMI processing. **The frequent sequencing error in UMI could result in very strong disturbance in both identification and quantification of UMI**. Current publications all chose to ignore the sequence err in UMI as we did for NGS-based method. We all know that this is not reasonable however, have no good solution to it yet. I think this is the most important problem to be addressed in the processing of TGS scRNA-Seq data.
 

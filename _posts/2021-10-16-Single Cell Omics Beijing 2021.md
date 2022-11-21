@@ -46,8 +46,6 @@ Notes from Program of Single Cell Omics Beijing 2021.
 * TOC
 {:toc}
 
-# Program of Single Cell Omics Beijing 2021
-
 Oct. 15-16, 2021. Beijng China
 
 ## Opening

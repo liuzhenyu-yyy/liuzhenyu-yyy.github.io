@@ -46,8 +46,6 @@ Notes from Program of Single Cell Omics Beijing 2022.
 * TOC
 {:toc}
 
-# Program of Single Cell Omics Beijing 2022
-
 Oct. 13-14, 2022. Beijng China
 
 ## Opening

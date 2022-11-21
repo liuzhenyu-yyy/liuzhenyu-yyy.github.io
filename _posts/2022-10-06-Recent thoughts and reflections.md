@@ -46,7 +46,6 @@ Recently we had some in-depth and detailed discussions with Susu on some social 
 * TOC
 {:toc}
 
-# 近日杂感-Life Lessons
 
 这两天和苏苏就一些很容易起冲突的社会问题进行了深入且较为细致的讨论，收获颇多，无暇细陈，概述如下。
 
