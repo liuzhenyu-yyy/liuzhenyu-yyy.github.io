@@ -37,7 +37,7 @@ img: ":wallhaven-j3m8v5.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-<p style="font-size:16px;line-height:150%">I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓. Personal CV/Bio are available at the About page.✨</p>
+<p style="font-size:16px;font-family:Arial Black;line-height:150%">I'm currently a Ph.D. student at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓. Personal CV/Bio are available at the About page.✨</p>
 <table style="font-size:16px;line-height:120%">
     <tbody>
     <tr>
