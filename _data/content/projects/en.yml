@@ -24,6 +24,36 @@ page_data:
 
 
   list:
+    # SCAN-Seq2
+    - type: id_research
+      project_name: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
+      project_excerpt: "Advised by Dr. Fuchou Tang; collaborate with Yuhan Liao, Yu Zhang."
+      img: ":scan2.jpg"
+      img_title: "img SCANseq2"
+      date: "2022-06-26"
+      post: |
+        # High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform
+
+        ![Image](:scan2_overview.jpg){:data-align="center"}
+
+        ---
+        The advancement of single-cell RNA-seq technologies based on third-generation sequencing (TGS) platforms has accelerated 
+        biological researches. Several TGS platform-based single-cell RNA-seq methods have been developed since 2016. Limited by low 
+        accuracy and sensitivity, they either combine NGS platform-based methods to reduce the error rates, or sacrifice the throughput 
+        to improve detection rates. To overcome these drawbacks, here we developed SCAN-seq2, a high-throughput, high-sensitivity 
+        full-length single-cell RNA-seq method based on TGS platform. We performed SCAN-Seq2 to a total of 5,472 cells from nine cell 
+        lines. Detailed flowchart of the data processing pipeline and overall statistics of reads after filtering, demultiplexing and 
+        deduplication were shown. Through reference-guided transcriptome assembly, we identified thousands of novel full-length RNA 
+        isoforms. Transcripts of pseudogenes could be distinguished from transcripts of corresponding parent genes and hundreds of 
+        them showed cell type specific expression patterns. Moreover, we showed that V(D)J rearrangement events could be accurately 
+        determined for the highly polymorphic TCR and BCR genes (immunoglobins). Finally, we demonstrated the conserved apoptosis 
+        response of HepG2 and Hela cells after treated by spliceosome inhibitor Isoginkgetin (IGG). SCAN-seq2 proves to be a new 
+        promising tool for single cell full-length transcriptome research.
+
+        Source code available at https://github.com/liuzhenyu-yyy/SCAN-seq2.
+
+        For more information, please check our [publication](https://www.nature.com/celldisc/) at *Cell Discovery*.
+
     # IVF
     - type: id_research
       project_name: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in IVF Babies"
@@ -56,7 +86,7 @@ page_data:
 
         Source code available at https://github.com/liuzhenyu-yyy/IVF_Mosaic_Embryo_Transfer.
 
-        For more information, please check our [publication](https://www.sciencedirect.com/science/article/pii/S1672022922000882).
+        For more information, please check our [publication](https://www.sciencedirect.com/science/article/pii/S1672022922000882) at *Genomics, Proteomics & Bioinformatics*.
 
     # Ngn3
     - type: id_research
