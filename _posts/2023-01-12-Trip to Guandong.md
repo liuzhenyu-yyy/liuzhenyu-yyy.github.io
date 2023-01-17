@@ -70,7 +70,9 @@ First trip after the reopening! Traveled through Zhuhai, Shunde and Guanzhou. Te
 
 ### 4. 海岛日落
 
-![IMG_4208](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230112/IMG_4208.JPG)上岛的一个多小时邮轮旅程是艰苦的，尤其是对我这种从小晕车的人。上岛安顿好行李便邂逅了小岛上绝美的海边日落。
+![IMG_4208](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230112/IMG_4208.JPG)
+
+上岛的一个多小时邮轮旅程是艰苦的，尤其是对我这种从小晕车的人。上岛安顿好行李便邂逅了小岛上绝美的海边日落。
 
 ### 5. 岛上核酸采样点
 
@@ -117,7 +119,6 @@ First trip after the reopening! Traveled through Zhuhai, Shunde and Guanzhou. Te
 最后，返程航班晚点，在凌晨一点半终于风尘仆仆回到燕园，回归工作。
 
 希望这样的旅程多一点！
-
 
 
   <p align="right">振宇</p>
