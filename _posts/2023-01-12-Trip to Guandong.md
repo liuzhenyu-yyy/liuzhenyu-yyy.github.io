@@ -39,12 +39,11 @@ date: 2023-01-12 08:11:06 +0900
 
 <!-- outline-start -->
 
-The COVID policy changed so fast that reopening in Beijing seemed to be finished in a single day. All of a sudden nearly all anti-COVID restrictions were lifted. We waved goodbye to regular nucleic acid test and dived into a new stage to live with the coronavirus.
+First trip after the reopening! Traveled through Zhuhai, Shunde and Guanzhou. Ten representative pictures were posted here.
 
 <!-- outline-end -->
 
 放开之后第一次旅行，途径珠海、顺德、广州后回京。随手展示几张沿途看到的风景。
-
 
 
 ## 珠海市区
