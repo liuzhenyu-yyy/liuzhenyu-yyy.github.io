@@ -39,7 +39,7 @@ date: 2023-01-12 08:11:06 +0900
 
 <!-- outline-start -->
 
-First trip after the reopening! Traveled through Zhuhai, Shunde and Guanzhou. Ten representative pictures were posted here.
+First trip after the reopening! Traveled through Zhuhai, Shunde and Guangzhou. Ten representative pictures were posted here.
 
 <!-- outline-end -->
 
