@@ -85,5 +85,5 @@ I'm currently a second-year Ph.D. student in Cell Biology at [Biomedical Pioneer
 
 ## 📖Publications
 
-1. Liao Y, **Liu Z**, Zhang Y, Lu P, Wen L, Tang F. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. Cell Discov. 2023;9(1):5. Published 2023 Jan 11. doi:10.1038/s41421-022-00500-4 (co-first author)
+1. Liao Y, **Liu Z**, Zhang Y, Lu P, Wen L, Tang F. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discov*. 2023;9(1):5. Published 2023 Jan 11. doi:10.1038/s41421-022-00500-4 (co-first author)
 2. Gao Y, Zhang J, **Liu Z**, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies [published online ahead of print, 2022 Aug 6]. *Genomics Proteomics Bioinformatics.* 2022;S1672-0229(22)00088-2. doi:10.1016/j.gpb.2022.07.004 (co-first author)
