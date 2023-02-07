@@ -58,6 +58,10 @@ page_data:
     -
     # Publication
     - type: id_publication
+      title: "Cell Discovery"
+      url: "https://www.nature.com/articles/s41421-022-00500-4"
+      info: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. PMID: 36631434"
+    - type: id_publication
       title: "Genomics, Proteomics & Bioinformatics"
       url: "https://www.sciencedirect.com/science/article/pii/S1672022922000882"
       info: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies. PMID: 35944838"
