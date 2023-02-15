@@ -16,7 +16,7 @@ img: ":post_20230215/card.jpg"
 comments_disable: true
 
 # publish date
-date: 2023-02-14 08:11:06 +0900
+date: 2023-02-14 08:11:06 +0000
 
 # seo
 # if not specified, date will be used.
@@ -43,9 +43,9 @@ Happy valentine's day!
 
 <!-- outline-end -->
 
-![card](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/card.JPG)
+![card](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/card.jpg)
 
-![food](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/food.JPG)
+![food](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/food.jpg)
 
 
   <p align="right">振宇</p>
