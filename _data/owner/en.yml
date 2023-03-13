@@ -5,7 +5,7 @@
 brand: "Zhenyu Liu"
 
 # text below the brand name
-brand_sub_text: "Ph.D. Student, Peking University"
+brand_sub_text: "Ph.D. Candidate, Peking University"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Zhenyu Liu"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Ph.D. student, BIOPIC, Peking University"
+  sub_title: "Ph.D. Candidate, BIOPIC, Peking University"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
