@@ -38,6 +38,8 @@ img: ":wallhaven-j3m8v5.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 <p style="font-size:16px;font-family:Arial;line-height:150%">I'm currently a Ph.D. candidate at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓. Personal CV/Bio are available at the About page.✨</p>
+
+
 <table style="font-size:16px;font-family:Arial;line-height:120%">
     <tbody>
     <tr>
@@ -45,7 +47,7 @@ img: ":wallhaven-j3m8v5.jpg"
         <td><b>🗺️Site Visitor Distribution:</b></td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/home/languages.svg" width="405px" alt="liuzhenyu-yyy" /></td>
+        <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&hide=scss,liquid,javaScript" width="405px" alt="liuzhenyu-yyy" /></td>
         <td><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script></td>
     </tr>
     </tbody>
