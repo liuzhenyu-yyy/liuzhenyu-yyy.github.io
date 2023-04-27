@@ -13,7 +13,7 @@ name: "Zhenyu Liu"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "Have the courage to use your own intelligence.       - Immanuel Kant"
+  top_header_line1: "Have the courage to use your own intelligence."
   # if commented, top header will be a single line
   top_header_line2: 
 
