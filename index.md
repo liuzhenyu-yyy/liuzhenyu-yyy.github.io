@@ -36,7 +36,7 @@ img: ":wallhaven-j3m8v5.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-<a href="https://wakatime.com/@b9c08b6d-86a5-4860-b47d-4ad4c8def1f3"><img src="https://wakatime.com/badge/user/b9c08b6d-86a5-4860-b47d-4ad4c8def1f3.svg?style=flat" alt="Total time coded since Apr 8 2023" /></a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/liuzhenyu-yyy/liuzhenyu-yyy.github.io"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/liuzhenyu-yyy/liuzhenyu-yyy.github.io">
+<a href="https://wakatime.com/@b9c08b6d-86a5-4860-b47d-4ad4c8def1f3"><img src="https://wakatime.com/badge/user/b9c08b6d-86a5-4860-b47d-4ad4c8def1f3.svg?style=flat" alt="Total time coded since Apr 8 2023" /></a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/liuzhenyu-yyy/liuzhenyu-yyy.github.io?color=orange"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/liuzhenyu-yyy/liuzhenyu-yyy.github.io"> <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/liuzhenyu-yyy/liuzhenyu-yyy.github.io/github-pages?color=test">
 
 <p style="font-size:16px;font-family:Arial;line-height:150%">I'm currently a Ph.D. candidate at BIOPIC, Peking University. Our research focus on developing novel single-cell sequencing technologies as well as utilizing these technologies to dissect complicated biological processes including cancer and embryo development. My personal skills include bioinformatics analysis, data mining and table tennis🏓. Personal CV/Bio are available at the About page.✨</p>
 
