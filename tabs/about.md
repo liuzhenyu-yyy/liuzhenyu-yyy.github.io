@@ -67,6 +67,7 @@ I'm currently a second-year Ph.D. candidate in Cell Biology at [Biomedical Pione
 
 ## 🏆Awards & Honors
 
+- `Peking University President Scholarship` *2023*
 - `Merit Student` *2022*
 - `Ubiquant Scholarship` *2022*
 - `Novogene Scholarship` *2021*
