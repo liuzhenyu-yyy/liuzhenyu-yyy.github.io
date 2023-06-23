@@ -67,7 +67,7 @@ My first time to win Peking University President Scholarship. Just for record.
 ## 结果
 答辩完两天，邮件通知递交纸质版申请表，但也不知道是因为评上了要交还是所有人都要交。虽然大家都说没评上不会让交表，但还是不太放心。直到最后我爸把公示的截图发给我祝贺，才真正知道自己评上了……（为啥我爸总是比我先知道啊，我自己都没看到公示orz，而且我也没跟我爸说过我去评奖的事儿啊……就很离谱）。
 
-![adjust](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230619/adjust)
+![adjust](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230619/adjust.jpg)
 
 也就是在看到公示结果后一天，研究生院突然通知调整博士研究生岗位奖学金金额，校奖每年补助从6w涨到了7.2w，也就是每个月的工资从补齐到5000变成了6000，这么算下来其实净收入是3.3w，校奖一跃成为金额最大的奖项了。血赚！
 
