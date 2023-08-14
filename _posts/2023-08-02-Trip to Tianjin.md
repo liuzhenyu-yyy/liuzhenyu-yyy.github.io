@@ -53,7 +53,7 @@ Plog of a brief three-day trip to Tianjin.
 五大道里的一个小院子，名字确实很吸引人。就是门口两条腐烂发臭的死鱼让人印象不太好。
 这个文创冰箱贴真的太妙了！
 
-![IMG_5653](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230802/IMG_6441.JPEG)
+![IMG_5653](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230802/IMG_6514.JPEG)
 
 
 ## 2. 某路牌
