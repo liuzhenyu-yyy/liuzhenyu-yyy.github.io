@@ -42,7 +42,7 @@ img: ":wallhaven-j3m8v5.jpg"
 
 <p></p>
 
-<p style="font-size:16px;font-family:Arial;line-height:150%">⚠️ Pictures are stored in GitHub and thus barely accessible in certain contries/regions. My regrets./p>
+<p style="font-size:16px;font-family:Arial;line-height:150%">⚠️ Pictures are stored in GitHub and thus barely accessible in certain contries/regions. My regrets.</p>
 
 <p></p>
 <table style="font-size:16px;font-family:Arial;line-height:120%">
