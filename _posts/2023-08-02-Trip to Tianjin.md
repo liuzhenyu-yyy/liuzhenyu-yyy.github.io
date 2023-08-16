@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: post_20230802
-title: "Trip to Yantai."
+title: "Trip to Tianjin."
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
