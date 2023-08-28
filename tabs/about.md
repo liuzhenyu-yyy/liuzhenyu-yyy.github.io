@@ -36,7 +36,7 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I'm currently a second-year Ph.D. candidate in Cell Biology at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I'm hornored to be advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). I received my B.Sc. in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. I have participated in the Undergraduate Research Training Program of PKU, where my academic advisor was [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml). I am also a member of the Peking University table tennis varsity team for non-sports students.
+I'm currently a third-year Ph.D. candidate in Cell Biology at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I'm hornored to be advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). I received my B.Sc. in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. I have participated in the Undergraduate Research Training Program of PKU, where my academic advisor was [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml). I am also a member of the Peking University table tennis varsity team for non-sports students.
 
 ## 🧬Research interests
 
