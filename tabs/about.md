@@ -36,8 +36,11 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I'm currently a third-year Ph.D. candidate in Cell Biology at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I'm hornored to be advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). I received my B.Sc. in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. I have participated in the Undergraduate Research Training Program of PKU, where my academic advisor was [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml). I am also a member of the Peking University table tennis varsity team for non-sports students.
+I am a third-year Ph.D. candidate specializing in Cell Biology at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/). I have the distinct honor of being advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm).
 
+My academic journey commenced with the completion of a Bachelor of Science degree in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. During my undergraduate years, I actively participated in the Undergraduate Research Training Program at PKU, under the esteemed mentorship of [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml).
+
+Outside of my academic pursuits, I also take pride in my membership with the Peking University table tennis varsity team for non-sports students.
 ## 🧬Research interests
 
 - Single-cell (multi-omics) sequencing technologies
@@ -67,6 +70,7 @@ I'm currently a third-year Ph.D. candidate in Cell Biology at [Biomedical Pionee
 
 ## 🏆Awards & Honors
 
+- `Merit Student` *2023*
 - `Peking University President Scholarship` *2023*
 - `Merit Student` *2022*
 - `Ubiquant Scholarship` *2022*
