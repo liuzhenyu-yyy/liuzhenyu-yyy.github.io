@@ -57,7 +57,7 @@ Plog of a brief three-day trip to Shanghai.
 
 ### 2.钢铁侠
 
-![IMG_7670](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7670.jpg)
+![IMG_7688](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7688.jpg)
 
 谁会不喜欢Mark VII呢！！！
 
@@ -128,10 +128,10 @@ Plog of a brief three-day trip to Shanghai.
 
 ### 2. 打卡照
 
-![IMG_7621](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7558.jpg)
+![IMG_7588](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7588.jpg)
 武康路
 
-![IMG_7621](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7558.jpg)
+![IMG_7621](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231028/IMG_7621.jpg)
 外滩，熟悉的大房子。
 
 
