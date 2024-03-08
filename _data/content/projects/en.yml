@@ -24,6 +24,33 @@ page_data:
 
 
   list:
+    # CRC scATAC
+    - type: id_research
+      project_name: "Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers"
+      project_excerpt: "Advised by Prof. Fuchou Tang and Dr. Xin Zhou; collaborate with Dr.Yuqiong Hu, Dr. Haoling Xie, and Dr. Kexuan Chen."
+      img: ":CRC_scATAC.png"
+      img_title: "img CRC_scATAC"
+      date: "2024-3-7"
+      post: |
+        # Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers
+
+        ![Image](:CRC_scATAC.png){:data-align="center"}
+
+        ---
+        Colorectal cancer (CRC) is a highly heterogeneous disease, with well-characterized subtypes based on genome, DNA methylome, and 
+        transcriptome signatures. To chart the epigenetic landscape of CRCs, we generated a high-quality single-cell chromatin accessibility 
+        atlas of epithelial cells for 29 patients. Abnormal chromatin states acquired in adenomas were largely retained in CRCs, which were 
+        tightly accompanied by opposite changes of DNA methylation. Unsupervised analysis on malignant cells revealed two epigenetic subtypes, 
+        exactly matching iCMS classification, and key iCMS-specific transcription factors were identified, including HNF4A, PPARA for iCMS2 
+        tumors, and FOXA3, MAFK for iCMS3 tumors. Notably, subtype-specific TFs bind to distinct target gene sets and contribute to both 
+        inter-patient similarities and diversities for both chromatin accessibilities and RNA expressions. Moreover, we identified CpG-island 
+        methylator phenotypes and pinpointed chromatin state signatures and TF regulators for CIMP-High subtype. Our work systematically 
+        revealed the epigenetic basis of the well-known iCMS and CIMP classifications of CRCs.
+
+        Source code available at [https://github.com/liuzhenyu-yyy/CRC_Epi_scATAC](https://github.com/liuzhenyu-yyy/CRC_Epi_scATAC).
+
+        For more information, please check our [publication](https://aacrjournals.org/cancerdiscovery/article-abstract/doi/10.1158/2159-8290.CD-23-1445/735072/Single-cell-chromatin-accessibility-analysis) at *Cancer Discovery*.
+
     # SCAN-Seq2
     - type: id_research
       project_name: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
