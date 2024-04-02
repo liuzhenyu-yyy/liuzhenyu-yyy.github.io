@@ -58,6 +58,10 @@ page_data:
     -
     # Publication
     - type: id_publication
+      title: "Cancer Discovery"
+      url: "https://aacrjournals.org/cancerdiscovery/article-abstract/doi/10.1158/2159-8290.CD-23-1445/735072/Single-cell-chromatin-accessibility-analysis"
+      info: "Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. PMID: 38445965"
+    - type: id_publication
       title: "Cell Discovery"
       url: "https://www.nature.com/articles/s41421-022-00500-4"
       info: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. PMID: 36631434"
