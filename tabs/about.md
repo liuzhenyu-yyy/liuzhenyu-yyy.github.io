@@ -36,11 +36,10 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I am a third-year Ph.D. candidate specializing in Cell Biology at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/). I have the distinct honor of being advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm).
-
-My academic journey commenced with the completion of a Bachelor of Science degree in biological science from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University. During my undergraduate years, I actively participated in the Undergraduate Research Training Program at PKU, under the esteemed mentorship of [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml).
+I am a third-year Ph.D. candidate at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I have the distinct honor of being advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). Our current research focus on developing novel single-cell sequencing technologies as well as utilizing these cutting-edge methods to explore complicated biological systems including cancers and embryos.
 
 Outside of my academic pursuits, I also take pride in my membership with the Peking University table tennis varsity team for non-sports students.
+
 ## 🧬Research interests
 
 - Single-cell (multi-omics) sequencing technologies
@@ -73,12 +72,8 @@ Outside of my academic pursuits, I also take pride in my membership with the Pek
 - `Merit Student` *2023*
 - `Peking University President Scholarship` *2023*
 - `Merit Student` *2022*
-- `Ubiquant Scholarship` *2022*
-- `Novogene Scholarship` *2021*
 - `Graduate with Honor of YPC` *2021*
-- `Excellent Admission Volunteer` *2020*
 - `Awards for Academic Excellents` *2018*
-- `Lee Wai Wing Scholarship` *2018*
 - `Freshman Scholarship` *2017*
 
 ## 🏓Tournaments
@@ -88,8 +83,8 @@ Outside of my academic pursuits, I also take pride in my membership with the Pek
 - 🥈 Silver Medal. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
 - 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
 
-
 ## 📖Publications
 
-1. Liao Y, **Liu Z**, Zhang Y, Lu P, Wen L, Tang F. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discov*. 2023;9(1):5. Published 2023 Jan 11. doi:10.1038/s41421-022-00500-4 (co-first author, [PDF](https://tc17-liuzhenyu.space/assets/publication/s41421-022-00500-4.pdf))
-2. Gao Y, Zhang J, **Liu Z**, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies [published online ahead of print, 2022 Aug 6]. *Genomics Proteomics Bioinformatics.* 2022;S1672-0229(22)00088-2. doi:10.1016/j.gpb.2022.07.004 (co-first author, [PDF](https://tc17-liuzhenyu.space/assets/publication/1-s2.0-S1672022922000882-main.pdf))
+1. **Liu, Z.**, Hu, Y., Xie, H., Chen, K., Wen, L., Fu, W., Zhou, X., and Tang, F. (2024). Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. *Cancer Discov.* 10.1158/2159-8290.CD-23-1445. (first author)
+2. Liao, Y., **Liu, Z.**, Zhang, Y., Lu, P., Wen, L., and Tang, F. (2023). High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discov.* 9, 5. 10.1038/s41421-022-00500-4. (co-first author, [PDF](https://tc17-liuzhenyu.space/assets/publication/s41421-022-00500-4.pdf))
+3. Gao, Y., Zhang, J., **Liu, Z.**, Qi, S., Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., et al. (2022). Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. *Genomics Proteomics Bioinformatics* 20, 1224-1231. 10.1016/j.gpb.2022.07.004. (co-first author, [PDF](https://tc17-liuzhenyu.space/assets/publication/1-s2.0-S1672022922000882-main.pdf))
