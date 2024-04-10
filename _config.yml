@@ -63,11 +63,21 @@ kramdown:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-feed
 
 # since GitHub Pages runs jekyll with "--safe" flag, we need to add supported plugins in here. (only github supported plugins are allowed)
 whitelist:
   - jekyll-paginate
   - jekyll-redirect-from
+
+###########################################################
+# configuration for jekyll-feed (https://github.com/jekyll/jekyll-feed)
+###########################################################
+title: Zhenyu's Blog
+description: "Welcome to Zhenyu's Blog, where you can find my thoughts and ideas."
+author:
+  name: Zhenyu Liu
+  twitter: _LiuZhenyu
 
 ###########################################################
 # jekyll-paginate (https://jekyllrb.com/docs/pagination/)
