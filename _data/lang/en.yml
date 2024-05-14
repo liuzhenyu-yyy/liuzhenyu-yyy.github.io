@@ -138,19 +138,19 @@ home:
 # for archives layout
 archives:
   title: Archive
-  button_name: Archive
+  button_name: Timeline
   page_header: Time Line of Blogs
 
 # for about layout
 about:
   title: About
-  button_name: About
+  button_name: About/CV
   email_title: email
 
 # for links layout
 links:
   title: Links
-  button_name: Links
+  button_name: Publications
   link_text: Name
   info_text: Description
 

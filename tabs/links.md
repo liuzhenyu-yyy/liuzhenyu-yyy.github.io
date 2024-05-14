@@ -39,16 +39,16 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Some links to other websites that might be useful."
+    header: "Publications"
+    info: "Publications I've co-authored, grouped by areas of research."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "Publication"
-      type: id_publication
+    - title: "Cancer Biology"
+      type: id_cancer
       color: "#8dd3c7"
-    - title: "Affiliation"
-      type: id_affiliation
+    - title: "Methodology"
+      type: id_method
       color: "#80b1d3"
     - title: "Others"
       type: id_others
@@ -56,41 +56,21 @@ page_data:
 
   list:
     -
-    # Publication
+    # Cancer
     - type: id_publication
       title: "Cancer Discovery"
       url: "https://aacrjournals.org/cancerdiscovery/article-abstract/doi/10.1158/2159-8290.CD-23-1445/735072/Single-cell-chromatin-accessibility-analysis"
-      info: "Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. PMID: 38445965"
-    - type: id_publication
+      info: "<u>**Liu, Z.**, Hu, Y., Xie, H., Chen, K.</u>, Wen, L., Fu, W., Zhou, X., and Tang, F. (2024). Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. *Cancer Discov.* 10.1158/2159-8290.CD-23-1445."
+
+    # Methodology
+    - type: id_method
       title: "Cell Discovery"
       url: "https://www.nature.com/articles/s41421-022-00500-4"
-      info: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. PMID: 36631434"
-    - type: id_publication
-      title: "Genomics, Proteomics & Bioinformatics"
-      url: "https://www.sciencedirect.com/science/article/pii/S1672022922000882"
-      info: "Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in In Vitro fertilization babies. PMID: 35944838"
-
-    # Affiliation
-    - type: id_affiliation
-      title: "BIOPIC"
-      url: "https://biopic.pku.edu.cn/en/"
-      info: "Biomedical Pioneering Innovation Centre (BIOPIC), Peking University, where our laboratory is located."
-    - type: id_affiliation
-      title: "School of Life Sciences"
-      url: "http://bio.pku.edu.cn/"
-      info: "School of Life Sciences, Peking University, where I get my Ph.D. training."
-    - type: id_affiliation
-      title: "Yuanpei College"
-      url: "https://yuanpei.pku.edu.cn/"
-      info: "Yuanpei College, Peking University, where I spent my undergraduate career."
-    - type: id_affiliation
-      title: "Peking University"
-      url: "https://english.pku.edu.cn/"
-      info: "Peking University is a public research university in Beijing, China. The university is funded by the Ministry of Education."
+      info: "<u>Liao, Y., **Liu, Z.**, Zhang, Y.</u>, Lu, P., Wen, L., and Tang, F. (2023). High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discov.* 9, 5. 10.1038/s41421-022-00500-4."
 
     # Others
     - type: id_others
-      title: "TangLab Quota"
-      url: "https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/"
-      info: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
+      title: "Genomics, Proteomics & Bioinformatics"
+      url: "https://academic.oup.com/gpb/article/20/6/1224/7274159"
+      info: "<u>Gao, Y., Zhang, J., **Liu, Z.**, Qi, S.</u>, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., et al. (2022). Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. *Genomics Proteomics Bioinformatics* 20, 1224-1231. 10.1016/j.gpb.2022.07.004."
 ---
