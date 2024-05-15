@@ -64,20 +64,20 @@ Outside of my academic pursuits, I also take pride in my membership with the Pek
 
 ## 📚Teaching
 
-- **[Freshman Seminar on General](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223104631815_28304)**, Peking University. Teaching Assistant. *2018 Fall.*
-- **[Current Topics on Genetics](http://www.dean.pku.edu.cn/service/web/courseDetail.php?flag=1&zxjhbh=BZ2223101132022_14350)**, Peking University. Teaching Assistant. *2022 Fall.*
+- **Freshman Seminar on General**, Peking University. Teaching Assistant. *2018 Fall.*
+- **Current Topics on Genetics**, Peking University. Teaching Assistant. *2022 Fall.*
 
 ## 🏆Awards & Honors
 
-- `Merit Student` *2023*
+- `Merit Student` *2022, 2023*
 - `Peking University President Scholarship` *2023*
-- `Merit Student` *2022*
 - `Graduate with Honor of YPC` *2021*
 - `Awards for Academic Excellents` *2018*
 - `Freshman Scholarship` *2017*
 
 ## 🏓Tournaments
 
+- 🥉 Bronze Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2024*.
 - 🥉 Bronze Medal. "Victas Cup" Peking University Table Tennis Championships. *Team AAIS-SLS, 2023*.
 - 🥇 Gold Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
 - 🥈 Silver Medal. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
