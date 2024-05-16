@@ -44,12 +44,12 @@ img: ":wallhaven-j3m8v5.jpg"
 <table style="font-size:16px;font-family:Arial;line-height:120%">
     <tbody>
     <tr>
-        <td><b>🎓Citations over time:</b></td>
         <td><b>🖥️Coding statistics:</b></td>
+        <td><b>🎓Citations over time:</b></td>
     </tr>
     <tr>
-        <td><iframe style="border: 0px #ffffff none;" name="gscitations" src="https://author.my.id/widget/citations.php?id=wcQZmHIAAAAJ&lang=en" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" width="120%" height="250px"></iframe></td>
-        <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&hide=scss,liquid,javaScript" width="350px" height="250px" alt="liuzhenyu-yyy" /></td>
+        <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&hide=scss,liquid,javaScript" width="100%" alt="liuzhenyu-yyy" /></td>
+        <td><iframe style="border: 0px #ffffff none;" name="gscitations" src="https://author.my.id/widget/citations.php?id=wcQZmHIAAAAJ&lang=en" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" width="120%" height="200px"></iframe></td>
     </tr>
     </tbody>
     <colgroup>
