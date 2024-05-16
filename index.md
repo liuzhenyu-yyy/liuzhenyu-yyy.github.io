@@ -44,12 +44,12 @@ img: ":wallhaven-j3m8v5.jpg"
 <table style="font-size:16px;font-family:Arial;line-height:120%">
     <tbody>
     <tr>
+        <td><b>🎓Citations over time:</b></td>
         <td><b>🖥️Coding statistics:</b></td>
-        <td><b>🗺️Site Visitor Distribution:</b></td>
     </tr>
     <tr>
-        <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&hide=scss,liquid,javaScript" width="350px" alt="liuzhenyu-yyy" /></td>
-        <td><iframe style="border: 0px #ffffff none;" name="gscitations" src="https://author.my.id/widget/citations.php?id=wcQZmHIAAAAJ&lang=en" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" width="100%" height="250px"></iframe></td>
+        <td><img style="border: 0px #ffffff none;" name="gscitations" src="https://author.my.id/widget/citations.php?id=wcQZmHIAAAAJ&lang=en"  width="350px" height="250px"></iframe></td>
+        <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&hide=scss,liquid,javaScript" width="350px" height="250px" alt="liuzhenyu-yyy" /></td>
     </tr>
     </tbody>
     <colgroup>
@@ -61,4 +61,4 @@ img: ":wallhaven-j3m8v5.jpg"
 <p style="font-size:16px;font-family:Arial;line-height:150%">⚠️ Pictures are stored in GitHub and thus barely accessible in certain contries/regions. My apologies.</p>
 
 <p style="font-size:16px;font-family:Arial;line-height:150%"><b>🗺️Site Visitor Distribution:</b></p>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff' width="150%"></script>
