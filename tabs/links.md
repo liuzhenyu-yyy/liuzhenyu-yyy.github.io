@@ -47,12 +47,6 @@ page_data:
     - title: "Research article"
       type: id_aritcle
       color: "#8dd3c7"
-    - title: "Methodology"
-      type: id_editorial
-      color: "#80b1d3"
-    - title: "Others"
-      type: id_others
-      color: "#cccccc"
 
   list:
     -

@@ -36,10 +36,6 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-I am a third-year Ph.D. candidate at [Biomedical Pioneering Innovation Center](https://biopic.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/), where I have the distinct honor of being advised by [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm). Our current research focus on developing novel single-cell sequencing technologies as well as utilizing these cutting-edge methods to explore complicated biological systems including cancers and embryos.
-
-Outside of my academic pursuits, I also take pride in my membership with the Peking University table tennis varsity team for non-sports students.
-
 ## 🎓Education
 
 - School of Life Sciences, Peking University
