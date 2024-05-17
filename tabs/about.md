@@ -40,16 +40,6 @@ I am a third-year Ph.D. candidate at [Biomedical Pioneering Innovation Center](h
 
 Outside of my academic pursuits, I also take pride in my membership with the Peking University table tennis varsity team for non-sports students.
 
-## 🧬Research interests
-
-- Single-cell (multi-omics) sequencing technologies
-
-- Bioinformatics & genomics data analysis
-
-- Colorectal cancer (CRC)
-
-- Pancreatic ductal adenocarcinoma (PDAC)
-
 ## 🎓Education
 
 - School of Life Sciences, Peking University
@@ -82,9 +72,3 @@ Outside of my academic pursuits, I also take pride in my membership with the Pek
 - 🥇 Gold Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
 - 🥈 Silver Medal. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
 - 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
-
-## 📖Publications
-
-1. <u><b>Liu, Z.</b>, Hu, Y., Xie, H., Chen, K.</u>, Wen, L., Fu, W., Zhou, X., and Tang, F. (2024). Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. <i>Cancer Discov.</i> 10.1158/2159-8290.CD-23-1445. [link](https://doi.org/10.1158/2159-8290.CD-23-1445)
-2. <u>Liao, Y., <b>Liu, Z.</b>, Zhang, Y.</u>, Lu, P., Wen, L., and Tang, F. (2023). High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discov.</i> 9, 5. 10.1038/s41421-022-00500-4. [PDF](https://tc17-liuzhenyu.space/assets/publication/s41421-022-00500-4.pdf)
-3. <u>Gao, Y., Zhang, J., <b>Liu, Z.</b>, Qi, S.</u>, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., et al. (2022). Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i>Genomics Proteomics Bioinformatics</i> 20, 1224-1231. 10.1016/j.gpb.2022.07.004. [PDF](https://tc17-liuzhenyu.space/assets/publication/1-s2.0-S1672022922000882-main.pdf)
