@@ -35,22 +35,29 @@ img: ":wallhaven-j3m8v5.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+<p style="font-size:16px;font-family:Arial;line-height:150%;">
+    I am a third-year Ph.D. candidate at the 
+    <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
+    at 
+    <a href="https://english.pku.edu.cn/">Peking University</a>, advised by 
+    <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. 
+    Before my Ph.D., I received my B.S. in Biology from 
+    <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>
+    , Peking University. During my undergraduate studies, I participated in the Undergraduate Research Training Program at 
+    <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml">Dr. Chengran Xu's</a> Lab. 
+    Check my personal 
+    <a href="https://liuzhenyu-yyy.github.io/tabs/about.html">CV/bio</a> 
+    for more information.✨
+</p>
 
-<a href="https://wakatime.com/@b9c08b6d-86a5-4860-b47d-4ad4c8def1f3"><img src="https://wakatime.com/badge/user/b9c08b6d-86a5-4860-b47d-4ad4c8def1f3.svg?style=flat" alt="Total time coded since Apr 8 2023" /></a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/liuzhenyu-yyy/liuzhenyu-yyy.github.io?color=orange"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/liuzhenyu-yyy/liuzhenyu-yyy.github.io"> <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/liuzhenyu-yyy/liuzhenyu-yyy.github.io/github-pages?color=test">
+<p style="font-size:16px; font-family:Arial; line-height:150%;">
+    My research primarily revolves around developing innovative single-cell sequencing technologies, as well as utilizing these cutting-edge methods to explore complex biological systems, including cancers and embryos 🧬. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. Outside of my academic pursuits, I take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓
+</p>
 
+<p style="font-size:16px;font-family:Arial;line-height:150%">
+    <b>🗺️Site Visitor Distribution:</b>
+</p>
 
-<p style="font-size:16px;font-family:Arial;line-height:150%">I am a third-year Ph.D. candidate at <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> at <a href="https://english.pku.edu.cn/">Peking University</a>, where I have the distinct honor of being advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. Before my PhD, I received my BSs in Biology from <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a> at Peking University. During my undergraduate, I took part in the Undergraduate Research Training Program at <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml">Dr. Chengran Xu's</a> Lab. Check my personal <a href="https://liuzhenyu-yyy.github.io/tabs/about.html">CV/bio</a> for more information. Feel free to explore and get in touch! ✨</p>
-
-<p style="font-size:16px;font-family:Arial;line-height:150%">My research primarily revolves around developing of innovative single-cell sequencing technologies, as well as utilizing these cutting-edge methods to explore complicated biological systems including cancers and embryos🧬. Recently my research focused on the epigenetic regulation of tumor heterogeneities, encampassing both inter- and intra-tumor variations. Outside of my academic pursuits, I also take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓</p>
-
-<p style="font-size:16px;font-family:Arial;line-height:150%"><b>🎓Citations over time:</b></p>
 <div style="display: flex; justify-content: center;">
-<iframe style="border: 0px #ffffff none;" name="gscitations" src="https://author.my.id/widget/citations.php?id=wcQZmHIAAAAJ&lang=en" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="no" width="450px" height="180px"></iframe>
-</div>
-<p style="font-size:16px;font-family:Arial;line-height:150%">⚠️ Pictures are stored in GitHub and thus barely accessible in certain contries/regions. My apologies.</p>
-
-<p style="font-size:16px;font-family:Arial;line-height:150%"><b>🗺️Site Visitor Distribution:</b></p>
-<div style="display: flex; justify-content: center;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff' width="150%"></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff' width="150%"></script>
 </div>

@@ -43,27 +43,24 @@
   <div class="footer-container">
     <footer translate="no">
       {% if site.data.conf.main.main_footer -%}
-        <div class="footer-text {{ footer_class }}">
-          <p>{{ copyright_text_out }} All rights reserved.</p>
-          {%- if site.data.conf.main.creative_commons.enable -%}
-            {%- assign license_url = site.data.conf.main.creative_commons.license_url
-              | replace: site.data.conf.main.creative_commons.license_replace, license_type
-              | replace: site.data.conf.main.creative_commons.lang_replace, lng
-            -%}
-            <a href="{{ license_url }}" target="_blank" rel="noopener noreferrer" {{ tooltip_creative_commons }}>
-              {{ img_template | replace: '$lic_type', 'cc' }}
-              {%- if site.data.conf.main.creative_commons.add_all_icons -%}
-                {{ img_list }}
-              {%- endif -%}
-              <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
-            </a>
+      <div class="footer-text {{ footer_class }}">
+        <p>{{ copyright_text_out }} All rights reserved.</p>
+        {%- if site.data.conf.main.creative_commons.enable -%}
+        {%- assign license_url = site.data.conf.main.creative_commons.license_url
+        | replace: site.data.conf.main.creative_commons.license_replace, license_type
+        | replace: site.data.conf.main.creative_commons.lang_replace, lng
+        -%}
+        <a href="{{ license_url }}" target="_blank" rel="noopener noreferrer" {{ tooltip_creative_commons }}>
+          {{ img_template | replace: '$lic_type', 'cc' }}
+          {%- if site.data.conf.main.creative_commons.add_all_icons -%}
+          {{ img_list }}
           {%- endif -%}
-        </div>
+          <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
+        </a>
+        {%- endif -%}
+        <p>Powered by Jekyll and GitHub Pages.</p>
+      </div>
       {% endif -%}
-      <p class="footer-powered">
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <span id="busuanzi_container_site_pv">Page views: <span id="busuanzi_value_site_pv"></span>. </span><span id="busuanzi_container_site_uv"> Total viewers: <span id="busuanzi_value_site_uv"></span> . <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a></span>
-      </p>
     </footer>
   </div>
 </div>
