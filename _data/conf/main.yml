@@ -186,11 +186,11 @@ side_and_top_nav_buttons:
   - post-list:
     icon: "fa fa-pencil-square-o"
   - archives:
-    icon: "fa fa-archive"
+    icon: "fa fa-clock-o"
   - projects:
-    icon: "fa fa-cog"
+    icon: "fa fa-bar-chart"
   - links:
-    icon: "fa fa-link"
+    icon: "fa fa-file-text"
   - about:
     icon: "fa fa-user-o"
 

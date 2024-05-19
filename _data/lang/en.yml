@@ -132,7 +132,7 @@ post-list:
 home:
   title: Welcome
   button_name: Home
-  new_posts_title: Recent Articles
+  new_posts_title: Recent Posts
   new_posts_show_more_button: View More ...
 
 # for archives layout
@@ -144,7 +144,7 @@ archives:
 # for about layout
 about:
   title: About
-  button_name: About/CV
+  button_name: CV
   email_title: email
 
 # for links layout
