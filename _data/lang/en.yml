@@ -130,34 +130,34 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
+  title: Home
   button_name: Home
   new_posts_title: Recent Posts
   new_posts_show_more_button: View More ...
 
 # for archives layout
 archives:
-  title: Archive
+  title: Timeline
   button_name: Timeline
   page_header: Time Line of Blogs
 
 # for about layout
 about:
-  title: About
+  title: CV
   button_name: CV
   email_title: email
 
 # for links layout
 links:
-  title: Links
-  button_name: Publications
+  title: Publication
+  button_name: Publication
   link_text: Time
   info_text: Description
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
+  title: Project
+  button_name: Project
   read_more_text: Read more
   read_less_text: Read less
 
