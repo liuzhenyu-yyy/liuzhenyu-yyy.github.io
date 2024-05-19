@@ -60,14 +60,14 @@ page_data:
     - type: id_aritcle
       title: "2023"
       url: "https://www.nature.com/articles/s41421-022-00500-4"
-      info: "Liao, Y.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Zhang, Y.<sup>#</sup>, Lu, P., Wen, L., Tang, F.†, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery 9, 5.<br/>
+      info: "Liao, Y.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Zhang, Y.<sup>#</sup>, Lu, P., Wen, L., Tang, F.†, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5.<br/>
       <a href="https://doi.org/10.1038/s41421-022-00500-4">HTML</a> <a href="/assets/publication/s41421-022-00500-4.pdf">PDF</a>"
 
     # Others
     - type: id_aritcle
       title: "2022"
       url: "https://academic.oup.com/gpb/article/20/6/1224/7274159"
-      info: "Gao, Y.<sup>#</sup>, Zhang, J.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Qi, S.<sup>#</sup>, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.†, Yao, Y.†, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i>Genomics, Proteomics Bioinformatics<i> 20, 1224–1231.<br/>
+      info: "Gao, Y.<sup>#</sup>, Zhang, J.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Qi, S.<sup>#</sup>, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.†, Yao, Y.†, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i>Genomics, Proteomics Bioinformatics</i> 20, 1224–1231.<br/>
       <a href="https://doi.org/10.1016/j.gpb.2022.07.004">HTML</a> <a href="/assets/publication/1-s2.0-S1672022922000882-main.pdf">PDF</a>"
 ---
 
