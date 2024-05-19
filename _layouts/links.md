@@ -26,7 +26,7 @@ layout: default
 <div class="multipurpose-container link-container" id="{{ category.type }}" style="border-left-color:{{ category.color }};">
   <h2>{{ category.title }}</h2>
   <table class="table {{ hover_class }}">
-    <thead>
+    <!-- <thead>
       <tr>
         <th>{{ site.data.lang[lng].links.link_text }}</th>
         <th>{{ site.data.lang[lng].links.info_text }}</th>
@@ -46,6 +46,15 @@ layout: default
           <td>
             <p>{{ link_url }}</p>
           </td>
+          <td>
+            <p>{{ list.info }}</p>
+          </td>
+        </tr>
+      {%- endfor %}
+    </tbody> -->
+    <thead>
+    <tbody>
+        <tr>
           <td>
             <p>{{ list.info }}</p>
           </td>
