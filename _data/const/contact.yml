@@ -33,3 +33,9 @@ facebook:
 # your_new_contact:
 #   icon: "fa fa-font"
 #   url: "https://www.example.com"
+googlescholar:
+  icon: "fa fa-google-scholar"
+  url: "https://scholar.google.com"
+researchgate:
+  icon: "fa fa-researchgate"
+  url: "https://www.researchgate.net/profile"

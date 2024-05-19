@@ -5,7 +5,7 @@
 brand: "Zhenyu Liu"
 
 # text below the brand name
-brand_sub_text: "Ph.D. Candidate, Peking University"
+brand_sub_text: "Ph.D. Candidate<br />Peking University"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Zhenyu Liu"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Ph.D. Candidate, BIOPIC, Peking University"
+  sub_title: "Ph.D. Candidate<br />BIOPIC, Peking University"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -57,6 +57,8 @@ contacts:
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
+  - googlescholar: "citations?user=wcQZmHIAAAAJ"
+  - researchgate: "Zhenyu_Liu42"
 
 # Disqus Short name, make sure comments and disqus are enabled in _data/conf/posts.yml file
 disqus_shortname: ""
