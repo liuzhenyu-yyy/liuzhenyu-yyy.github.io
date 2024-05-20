@@ -49,9 +49,9 @@ layout: default
           <td>
             <p>
               {{ list.info }} <br>
-              <button class="btn-base" style="font-size: 15px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
+              <button class="btn-base" style="font-size: 13px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
               &nbsp;&nbsp;
-              <button class="btn-base" style="font-size: 15px; height: 25px" onclick=" window.open('{{ list.title }}', '_blank')">PDF</button>
+              <button class="btn-base" style="font-size: 13px; height: 25px" onclick=" window.open('{{ list.title }}', '_blank')">PDF</button>
             </p>
           </td>
         </tr>

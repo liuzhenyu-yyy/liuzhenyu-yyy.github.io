@@ -6,7 +6,7 @@
 .btn-base {
   @include get_scheme(button-colors-);
   display: inline-block;
-  padding: 3px 12px;
+  padding: 0px 12px;
   border-radius: 8px;
   border: 1px solid;
   text-decoration: none;
