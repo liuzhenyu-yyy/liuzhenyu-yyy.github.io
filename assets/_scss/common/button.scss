@@ -6,13 +6,13 @@
 .btn-base {
   @include get_scheme(button-colors-);
   display: inline-block;
-  padding: 2px 6px;
+  padding: 3px 10px;
   border-radius: 8px;
   border: 1px solid;
   text-decoration: none;
   box-shadow: 1px 1px 3px var(--button-shadow-color);
   transition: all 0.2s ease;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 .btn-base {
