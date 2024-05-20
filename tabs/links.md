@@ -40,7 +40,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "Publications"
-    info: "Publications I've co-authored in chronological order. <br/>Co-first author<sup>#</sup>, corresponding author†."
+    info: "Publications I've co-authored in chronological order. Co-first author<sup>#</sup>, corresponding author†."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
@@ -59,8 +59,7 @@ page_data:
     - type: id_aritcle
       title: "2023"
       url: "https://www.nature.com/articles/s41421-022-00500-4"
-      info: "Liao, Y.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Zhang, Y.<sup>#</sup>, Lu, P., Wen, L., Tang, F.†, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5. 
-      <a href="https://doi.org/10.1038/s41421-022-00500-4">HTML</a> <a href="/assets/publication/s41421-022-00500-4.pdf">PDF</a>"
+      info: "Liao, Y.<sup>#</sup>, <b>Liu, Z.</b><sup>#</sup>, Zhang, Y.<sup>#</sup>, Lu, P., Wen, L., Tang, F.†, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5. <a href="https://doi.org/10.1038/s41421-022-00500-4">HTML</a> <a href="/assets/publication/s41421-022-00500-4.pdf">PDF</a>"
 
     # Others
     - type: id_aritcle
