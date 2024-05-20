@@ -27,11 +27,11 @@ layout: default
   <h2>{{ category.title }}</h2>
   <table class="table {{ hover_class }}">
     <thead>
-      <tr>
+      <!-- <tr>
         <th>{{ site.data.lang[lng].links.link_text }}</th>
         <th>{{ site.data.lang[lng].links.info_text }}</th>
       </tr>
-    </thead>
+    </thead> -->
     <tbody>
       {%- for list in links_data.list %}
         {%- if list.type != category.type %}{% continue %}{% endif -%}
@@ -43,9 +43,9 @@ layout: default
           {%- capture link_url -%} <a href="{{ list.url }}" target="_blank" rel="noopener noreferrer"><b>{{ list.title }}</b></a> {%- endcapture -%}
         {%- endif %}
         <tr class="link-item" {{ link_onclick }}>
-          <td>
+          <!-- <td>
             <p>{{ link_url }}</p>
-          </td>
+          </td> -->
           <td>
             <p>{{ list.info }}</p>
           </td>
