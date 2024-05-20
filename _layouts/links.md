@@ -47,7 +47,11 @@ layout: default
             <p>{{ link_url }}</p>
           </td> -->
           <td>
-            <p>{{ list.info }}</p>
+            <p>
+              {{ list.info }} <br>
+              <button style="background:#ffffff;color:black;" onclick="location.href='{{ list.url }}'" type="button">HTML</button>
+              <button style="background:#ffffff;color:black;" onclick="location.href='{{ list.title }}'" type="button">PDF</button>
+            </p>
           </td>
         </tr>
       {%- endfor %}
@@ -55,3 +59,4 @@ layout: default
   </table>
 </div>
 {% endfor %}
+
