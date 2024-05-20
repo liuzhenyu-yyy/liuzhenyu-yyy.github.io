@@ -49,8 +49,8 @@ layout: default
           <td>
             <p>
               {{ list.info }} <br>
-              <button style="background:#ffffff;color:black;" onclick="location.href='{{ list.url }}'" type="button">HTML</button>
-              <button style="background:#ffffff;color:black;" onclick="location.href='{{ list.title }}'" type="button">PDF</button>
+              <button class="btn-base" onclick="location.href='{{ list.url }}'" >HTML</button>
+              <button class="btn-base" onclick="location.href='{{ list.title }}'">PDF</button>
             </p>
           </td>
         </tr>
