@@ -40,7 +40,7 @@ lng_pair: id_links
 page_data:
   main:
     header: "Publications"
-    info: "Publications I've co-authored, grouped by areas of research. Click for more information."
+    info: "Marks: co-first author<sup>#</sup>, corresponding author†."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
