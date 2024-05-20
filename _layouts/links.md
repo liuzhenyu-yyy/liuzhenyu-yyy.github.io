@@ -52,5 +52,6 @@ layout: default
         </tr>
       {%- endfor %}
     </tbody>
+  </table>
 </div>
 {% endfor %}
