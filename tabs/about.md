@@ -64,7 +64,6 @@ img: ":about.jpg"
 ## 🏓Tournaments
 
 - 🥉 Bronze Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2024*.
-- 🥉 Bronze Medal. "Victas Cup" Peking University Table Tennis Championships. *Team AAIS-SLS, 2023*.
 - 🥇 Gold Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
 - 🥈 Silver Medal. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
 - 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
