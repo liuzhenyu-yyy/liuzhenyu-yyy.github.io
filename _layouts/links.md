@@ -48,7 +48,7 @@ layout: default
           </td> -->
           <td>
             <p>
-              <span style="font-size: 16px"> {{ list.title }} </span> <br>
+              <span style="font-size: 16px; color = #6a6a6a">  <b>{{ list.title }}  </b></span> <br>
               {{ list.author }}<br>
               {{list.info}}<br>
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
