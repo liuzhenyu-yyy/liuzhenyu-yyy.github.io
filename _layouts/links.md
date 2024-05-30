@@ -33,7 +33,7 @@ layout: default
       </tr>
     </thead> -->
     <tbody>
-      {%- for list in links_data.list %}
+      <!-- {%- for list in links_data.list %}
         {%- if list.type != category.type %}{% continue %}{% endif -%}
         {%- if site.data.conf.others.links.use_rows_as_link -%}
           {%- capture link_onclick -%} onclick="openURL('{{ list.url }}');" style="cursor: pointer;" {%- endcapture -%}
@@ -41,17 +41,21 @@ layout: default
         {% else %}
           {%- assign link_onclick = nil -%}
           {%- capture link_url -%} <a href="{{ list.url }}" target="_blank" rel="noopener noreferrer"><b>{{ list.title }}</b></a> {%- endcapture -%}
-        {%- endif %}
+        {%- endif %} -->
         <tr class="link-item" {{ link_onclick }}>
           <!-- <td>
             <p>{{ link_url }}</p>
           </td> -->
           <td>
+            <p style="font-size: 30px">
+              {{ list.title }} 
+            </p>
             <p>
-              {{ list.info }} <br>
+              {{ list.author }}<br>
+              {{list.info}}<br>
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
               &nbsp;&nbsp;
-              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.title }}', '_blank')">PDF</button>
+              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.pdf }}', '_blank')">PDF</button>
             </p>
           </td>
         </tr>

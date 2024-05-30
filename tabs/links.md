@@ -52,18 +52,24 @@ page_data:
     -
     # Research article
     - type: id_aritcle
-      title: "https://doi.org/10.1158/2159-8290.CD-23-1445"
+      title: "Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers"
+      author: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;"
+      info: "<i>Cancer Discovery</i>, 2024"
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
-      info: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. <i>Cancer Discovery</i> OF1–OF24."
+      pdf: "https://doi.org/10.1158/2159-8290.CD-23-1445"
+
 
     - type: id_aritcle
-      title: "/assets/publication/s41421-022-00500-4.pdf"
+      title: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
+      author: "Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.&#42;"
+      info: "<i>Cell Discovery</i>, 2023"
       url: "https://doi.org/10.1038/s41421-022-00500-4"
-      info: "Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.&#42;, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5."
+      pdf: "/assets/publication/s41421-022-00500-4.pdf"
 
-    # Others
     - type: id_aritcle
-      title: "/assets/publication/1-s2.0-S1672022922000882-main.pdf"
+      title: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies"
+      author: "Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.&#42;, Yao, Y.&#42"
+      info: "<i>Genomics, Proteomics &Bioinformatics</i>, 2022"
       url: "https://doi.org/10.1016/j.gpb.2022.07.004"
-      info: "Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.&#42;, Yao, Y.&#42;, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i>Genomics, Proteomics &Bioinformatics</i> 20, 1224–1231."
+      pdf: "/assets/publication/1-s2.0-S1672022922000882-main.pdf"
 ---
