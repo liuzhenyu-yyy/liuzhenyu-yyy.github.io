@@ -35,7 +35,7 @@ img: ":nature_150_4.png"
 #published: false
 ---
 
-<p style="font-size:16px;font-family:Arial;line-height:150%;">
+<p style="font-size:16px;font-family:Roboto;line-height:150%;">
     I am a third-year Ph.D. candidate at the 
     <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
     at 
@@ -50,11 +50,11 @@ img: ":nature_150_4.png"
     for more information.✨
 </p>
 
-<p style="font-size:16px; font-family:Arial; line-height:150%;">
+<p style="font-size:16px; font-family:Roboto; line-height:150%;">
     My research primarily revolves around developing innovative single-cell sequencing technologies, as well as utilizing these cutting-edge methods to explore complex biological systems, including cancers and embryos 🧬. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. Outside of my academic pursuits, I take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓
 </p>
 
-<p style="font-size:16px;font-family:Arial;line-height:150%">
+<p style="font-size:16px;font-family:Roboto;line-height:150%">
     <b>🗺️Site Visitor Distribution:</b>
 </p>
 
