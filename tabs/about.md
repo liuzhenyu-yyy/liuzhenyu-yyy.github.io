@@ -38,13 +38,14 @@ img: ":about.jpg"
 
 ## 🎓Education
 
-- School of Life Sciences, Peking University
+- **School of Life Sciences, Peking University**
   - Ph.D. of Biology, 2021-2025 (expected)
   - "4 plus 4" B.Sc. to Ph.D. Program
+  - Research interests: single-cell genomics, tumor heterogeneity, epigenetics
   - Advisor: [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm)
-- Yuanpei College, Peking University
+- **Yuanpei College, Peking University**
   - B.Sc. of Biology, 2017-2021
-  - Graduate with honor of Yuanpei College
+  - Graduating With Honors
   - Undergraduate Research Training Program
   - Academic advisor: [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml)
 
@@ -55,15 +56,28 @@ img: ":about.jpg"
 
 ## 🏆Awards & Honors
 
+- `Vazyme Scholarship` *2024*
 - `Merit Student` *2022, 2023*
 - `Peking University President Scholarship` *2023*
-- `Graduate with Honor of YPC` *2021*
+- `Abiosciences Outstanding Paper Award` *2023*
+- `UBIQUANT Scholarship` *2022*
+- `Novogene Scholarship` *2021*
+- `Graduating With Honors` *2021*
 - `Awards for Academic Excellents` *2018*
 - `Freshman Scholarship` *2017*
 
 ## 🏓Tournaments
 
-- 🥉 Bronze Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2024*.
-- 🥇 Gold Medal. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
-- 🥈 Silver Medal. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
-- 🥉 Third Prize. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
+- 🥉 **Bronze Medal**. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2024*.
+- 🥇 **Gold Medal**. "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
+- 🥈 **Silver Medal**. "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.
+- 🥉 **Third Prize**. Chinese University Table Tennis Championships, non-profesional group. *Team PKU, 2019*.
+
+## 📝Selected Publications
+
+- **Liu, Z.**†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.\*, Tang, F.\*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. *Cancer Discovery* 14, 1082–1105. https://doi.org/10.1158/2159-8290.CD-23-1445
+- Liao, Y.†, **Liu, Z.**†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.\*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discovery* 9, 5. https://doi.org/10.1038/s41421-022-00500-4
+- Gao, Y.†, Zhang, J.†, **Liu, Z.**†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.\*, Yao, Y.\*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. *Genomics, Proteomics & Bioinformatics* 20, 1224–1231. https://doi.org/10.1016/j.gpb.2022.07.004
+
+
+See full list of publications on [Publication Page](https://tc17-liuzhenyu.space/tabs/links.html) or [Google Scholar](https://scholar.google.com/citations?user=wcQZmHIAAAAJ)🎓.
