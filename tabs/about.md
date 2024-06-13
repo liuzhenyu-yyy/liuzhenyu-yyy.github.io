@@ -63,6 +63,7 @@ img: ":about.jpg"
 - `UBIQUANT Scholarship` *2022*
 - `Novogene Scholarship` *2021*
 - `Graduating With Honors` *2021*
+- `Lee Wai Wing Scholarship` *2018*
 - `Awards for Academic Excellents` *2018*
 - `Freshman Scholarship` *2017*
 

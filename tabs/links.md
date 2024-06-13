@@ -64,7 +64,7 @@ page_data:
       author: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Discovery</i>, 2024"
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
-      pdf: "https://doi.org/10.1158/2159-8290.CD-23-1445"
+      pdf: "/assets/publication/CD-23-1445R1_Merged_PDF.pdf"
 
     - type: id_2023
       title: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
