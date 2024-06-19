@@ -57,9 +57,10 @@ img: ":about.jpg"
 ## 🏆Awards & Honors
 
 - `Vazyme Scholarship` *2024*
-- `Merit Student` *2022, 2023*
+- `Merit Student` *2023*
 - `Peking University President Scholarship` *2023*
 - `Abiosciences Outstanding Paper Award` *2023*
+- `Merit Student` *2022*
 - `UBIQUANT Scholarship` *2022*
 - `Novogene Scholarship` *2021*
 - `Graduating With Honors` *2021*
@@ -76,9 +77,9 @@ img: ":about.jpg"
 
 ## 📝Selected Publications
 
-- **Liu, Z.**†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.\*, Tang, F.\*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. *Cancer Discovery* 14, 1082–1105. https://doi.org/10.1158/2159-8290.CD-23-1445
-- Liao, Y.†, **Liu, Z.**†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.\*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discovery* 9, 5. https://doi.org/10.1038/s41421-022-00500-4
-- Gao, Y.†, Zhang, J.†, **Liu, Z.**†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.\*, Yao, Y.\*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. *Genomics, Proteomics & Bioinformatics* 20, 1224–1231. https://doi.org/10.1016/j.gpb.2022.07.004
+1. **Liu, Z.**†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.\*, Tang, F.\*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. *Cancer Discovery* 14, 1082–1105. https://doi.org/10.1158/2159-8290.CD-23-1445
+2. Liao, Y.†, **Liu, Z.**†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.\*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. *Cell Discovery* 9, 5. https://doi.org/10.1038/s41421-022-00500-4
+3. Gao, Y.†, Zhang, J.†, **Liu, Z.**†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.\*, Yao, Y.\*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. *Genomics, Proteomics & Bioinformatics* 20, 1224–1231. https://doi.org/10.1016/j.gpb.2022.07.004
 
-
+Marks: co-first author†, corresponding author\*.
 See full list of publications on [Publication Page](https://tc17-liuzhenyu.space/tabs/links.html) or [Google Scholar](https://scholar.google.com/citations?user=wcQZmHIAAAAJ)🎓.
