@@ -44,7 +44,7 @@ img: ":nature_150_4.png"
     Before my Ph.D., I received my B.S. in Biology from 
     <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>
     , Peking University. During my undergraduate studies, I participated in the Undergraduate Research Training Program at 
-    <a href="http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml">Dr. Chengran Xu's</a> Lab. 
+    <a href="http://www.cls.edu.cn/en/info/1263/1349.htm">Dr. Chengran Xu's</a> Lab. 
     Check my personal 
     <a href="https://liuzhenyu-yyy.github.io/tabs/about.html">CV/bio</a> 
     for more information.✨
