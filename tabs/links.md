@@ -60,23 +60,30 @@ page_data:
     -
     # Research article
     - type: id_2024
+      title: "Epigenetic regulators as the foundation for molecular classification of colorectal cancer"
+      author: "<b>Liu, Z.</b>, Zhou, X.&#42;, Tang, F.&#42;"
+      info: "<i>Cancer Biology & Medicine</i>, 2024. (Invited Editorial)"
+      url: "https://doi.org/10.20892/j.issn.2095-3941.2024.0176"
+      pdf: "/assets/publication/j.issn.2095-3941.2024.0176.full.pdf"
+
+    - type: id_2024
       title: "Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers"
       author: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;"
-      info: "<i>Cancer Discovery</i>, 2024"
+      info: "<i>Cancer Discovery</i>, 2024."
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
       pdf: "/assets/publication/CD-23-1445R1_Merged_PDF.pdf"
 
     - type: id_2023
       title: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
       author: "Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.&#42;"
-      info: "<i>Cell Discovery</i>, 2023"
+      info: "<i>Cell Discovery</i>, 2023."
       url: "https://doi.org/10.1038/s41421-022-00500-4"
       pdf: "/assets/publication/s41421-022-00500-4.pdf"
 
     - type: id_2022
       title: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies"
       author: "Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.&#42;, Yao, Y.&#42"
-      info: "<i>Genomics, Proteomics & Bioinformatics</i>, 2022"
+      info: "<i>Genomics, Proteomics & Bioinformatics</i>, 2022."
       url: "https://doi.org/10.1016/j.gpb.2022.07.004"
       pdf: "/assets/publication/1-s2.0-S1672022922000882-main.pdf"
 ---
