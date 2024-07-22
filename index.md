@@ -50,7 +50,7 @@ img: ":nature_150_4.png"
 </p>
 
 <!-- split -->
-<h1>News📰</h1>
+<h1>📰News</h1>
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ img: ":nature_150_4.png"
 </table>
 
 <!-- split -->
-<h1>Selected Publications📝</h1>
+<h1>📝Selected Publications</h1>
 
 <ol>
   <li><b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.*, Tang, F.*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. <i>Cancer Discovery</i> 14, 1082–1105. https://doi.org/10.1158/2159-8290.CD-23-1445</li>
@@ -81,12 +81,14 @@ img: ":nature_150_4.png"
 </ol>
 
 <p>
-Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://tc17-liuzhenyu.space/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ">Google Scholar</a>.
+    Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://tc17-liuzhenyu.space/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ">Google Scholar</a>.
 </p>
 
 <!-- split -->
-<h1>Site Visitor Distribution🗺️</h1>
-
+<h1>🗺️Site Visitor Distribution</h1>
+<p>
+    This website have been running since December, 2020. Here's were my visitors come from:
+</p>
 <div style="display: flex; justify-content: center;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff' width="150%"></script>
 </div>
