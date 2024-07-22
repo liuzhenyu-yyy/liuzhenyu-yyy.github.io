@@ -17,6 +17,9 @@ layout: default
   {%- endif -%}
 {%- endif -%}
 
+{% capture full_content %}{{ content }}{% endcapture %}
+{% assign content_parts = full_content | split: '<!-- split -->' %}
+
 <div class="multipurpose-container home-heading-container">
   <div class="home-heading" {{ home_img_background_style }}>
     {{ home_img_tag }}
@@ -35,7 +38,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text">
-    {{ content }}
+    {{ content_parts[0] }}
   </div>
 </div>
 
@@ -60,3 +63,9 @@ layout: default
   </ul>
 </div>
 {% endif -%}
+
+<div class="multipurpose-container new-posts-container">
+  <div class="new-posts">
+    {{ content_parts[1] }}
+  </div>
+</div>
