@@ -20,6 +20,7 @@
   padding-left: 5px;
   margin-bottom: 0px;
   font-weight: 300;
+  text-align: justify;
 }
 
 .new-posts > p {
@@ -33,12 +34,15 @@
   vertical-align: top;
   border-collapse: separate;
   border-spacing: 15px 10px;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .new-posts > ol {
   list-style: decimal;
   font-size: 1.6rem;
-  margin-left: 0%;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .new-posts > li {
