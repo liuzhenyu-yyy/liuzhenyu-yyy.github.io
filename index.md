@@ -63,11 +63,11 @@ img: ":nature_150_4.png"
   </tr>
   <tr>
     <td>March 6, 2024</td>
-    <td>Our research on the <a href="https://doi.org/10.1158/2159-8290.CD-23-1445">epigenetic basis for the molecular subtypes of colorectal cancer </a> was published in <i>Cancer Discovery<i>.</td>
+    <td>Our research on the <a href="https://doi.org/10.1158/2159-8290.CD-23-1445">epigenetic basis for the molecular subtypes of colorectal cancer </a> was published in <i>Cancer Discovery</i>.</td>
   </tr>
   <tr>
     <td>January 11, 2023</td>
-    <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery<i>.</td>
+    <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery</i>.</td>
   </tr>
 </table>
 
