@@ -42,6 +42,12 @@ layout: default
   </div>
 </div>
 
+<div class="multipurpose-container new-posts-container">
+  <div class="new-posts">
+    {{ content_parts[1] }}
+  </div>
+</div>
+
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
 <div class="multipurpose-container new-posts-container">
   <h1>{{ site.data.lang[lng].home.new_posts_title }}</h1>
@@ -66,6 +72,12 @@ layout: default
 
 <div class="multipurpose-container new-posts-container">
   <div class="new-posts">
-    {{ content_parts[1] }}
+    {{ content_parts[2] }}
+  </div>
+</div>
+
+<div class="multipurpose-container new-posts-container">
+  <div class="new-posts">
+    {{ content_parts[3] }}
   </div>
 </div>
