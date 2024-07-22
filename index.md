@@ -54,19 +54,19 @@ img: ":nature_150_4.png"
 
 <table>
   <tr>
-    <td>July 14, 2024</td>
+    <td>Jul 14, 2024</td>
     <td>We were invited to write an <a href="https://doi.org/10.20892/j.issn.2095-3941.2024.0176">Editorial artical</a> on the epigenetic basis of molecular classifications of CRCs for <i>Cancer Biology & Medicine</i>.</td>
   </tr>
   <tr>
-    <td>April 20, 2024</td>
+    <td>Apr 20, 2024</td>
     <td>I gave a talk on using single-cell genomics to accelerate basic cancer research at the post-AACR24 seminar of <a href="http://www.bcpts.org.cn/index_temp.php">Beijing Cancer Prevention & Treatment Society</a>.</td>
   </tr>
   <tr>
-    <td>March 6, 2024</td>
+    <td>Mar 6, 2024</td>
     <td>Our research on the <a href="https://doi.org/10.1158/2159-8290.CD-23-1445">epigenetic basis for the molecular subtypes of colorectal cancer </a> was published in <i>Cancer Discovery</i>.</td>
   </tr>
   <tr>
-    <td>January 11, 2023</td>
+    <td>Jan 11, 2023</td>
     <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery</i>.</td>
   </tr>
 </table>

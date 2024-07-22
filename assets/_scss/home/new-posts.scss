@@ -21,9 +21,30 @@
   margin-bottom: 0px;
 }
 
+.new-posts > p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.4rem;
+}
+
+.new-posts > table {
+  font-size: 1.6rem;
+  font-weight: 400;
+  table-layout: fixed;
+  vertical-align: top;
+  border-collapse: separate;
+  border-spacing: 5px 5px;
+}
+
+.new-posts > ol {
+  list-style: decimal;
+  font-size: 1.6rem;
+  font-weight: 400;
+}
+
 .new-posts > li {
   font-size: 1.6rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .new-posts > li > a {
