@@ -36,16 +36,24 @@
 }
 
 .new-posts > table td + td {
-  padding-left: 20px; // Add horizontal space between columns except for the first column
+  padding-left: 30px; // Add horizontal space between columns except for the first column
+}
+
+.new-posts > table td:first-child {
+  text-align: left; // Align the first column to the left
+}
+
+.new-posts > table td:last-child {
+  text-align: justify; // Justify the second column
 }
 
 .new-posts > ol {
   list-style: decimal;
-  padding-inline-start: 0%;
 }
 
 .new-posts > ol > li {
-  margin-bottom: 10px; // Add this to increase the distance between list items
+  margin-bottom: 10px; // Increase the distance between list items
+  text-indent: 0px; // Remove the indentation of the list items
 }
 
 .new-posts > li {

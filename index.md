@@ -42,7 +42,7 @@ img: ":nature_150_4.png"
 </p>
 
 <p>
-    My research primarily revolves around developing innovative single-cell sequencing technologies, as well as utilizing these cutting-edge methods to explore complex biological systems, including cancers and embryos🧬. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. Outside of my academic pursuits, I take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓
+    My research primarily revolves around developing innovative single-cell sequencing technologies🧬, as well as utilizing these cutting-edge methods to explore complex biological systems, including cancers and embryos. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. Outside of my academic pursuits, I take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓
 </p>
 
 <p>
