@@ -49,11 +49,14 @@
 
 .new-posts > ol {
   list-style: decimal;
+  padding-left: 0; // Remove left padding
+  margin-left: 0;  // Remove left margin
 }
 
 .new-posts > ol > li {
   margin-bottom: 10px; // Increase the distance between list items
-  text-indent: 0px; // Remove the indentation of the list items
+  padding-left: 1.5em; // Add padding to align the text properly
+  text-indent: -1.5em; // Indent the text to align the numbers with the h1
 }
 
 .new-posts > li {

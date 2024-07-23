@@ -26,8 +26,8 @@ layout: default
 <div class="multipurpose-container link-container" id="{{ category.type }}" style="border-left-color:{{ category.color }};">
   <h2>{{ category.title }}</h2>
   <table class="table {{ hover_class }}">
-    <thead>
-      <!-- <tr>
+    <!-- <thead>
+      <tr>
         <th>{{ site.data.lang[lng].links.link_text }}</th>
         <th>{{ site.data.lang[lng].links.info_text }}</th>
       </tr>
@@ -50,7 +50,7 @@ layout: default
             <p>
               <span style="color = #6a6a6a">  <b>{{ list.title }}  </b></span> <br>
               {{ list.author }}<br>
-              {{list.info}}<br>
+              {{ list.info }}<br>
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
               &nbsp;&nbsp;
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.pdf }}', '_blank')">PDF</button>
