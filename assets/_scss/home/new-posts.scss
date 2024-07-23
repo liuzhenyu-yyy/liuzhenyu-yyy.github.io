@@ -20,29 +20,32 @@
   padding-left: 5px;
   margin-bottom: 0px;
   font-weight: 300;
+  font-size: 1.6rem;
   text-align: justify;
 }
 
 .new-posts > p {
-  font-size: 1.6rem;
   line-height: 2.4rem;
 }
 
 .new-posts > table {
-  font-size: 1.6rem;
   table-layout: fixed;
   vertical-align: top;
   border-collapse: separate;
-  border-spacing: 15px 10px;
-  margin-left: 0;
-  padding-left: 0;
+  border-spacing: 0px 10px;
+}
+
+.new-posts > table td + td {
+  padding-left: 20px; // Add horizontal space between columns except for the first column
 }
 
 .new-posts > ol {
   list-style: decimal;
-  font-size: 1.6rem;
-  margin-left: 0;
-  padding-left: 0;
+  padding-inline-start: 0%;
+}
+
+.new-posts > ol > li {
+  margin-bottom: 10px; // Add this to increase the distance between list items
 }
 
 .new-posts > li {
@@ -68,7 +71,7 @@
 }
 /* space between links */
 .new-posts > li:not(li:last-child) {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 /* remove last spacing */
