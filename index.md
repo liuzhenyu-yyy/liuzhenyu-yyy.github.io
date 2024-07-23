@@ -66,6 +66,10 @@ img: ":nature_150_4.png"
     <td>Our research on the <a href="https://doi.org/10.1158/2159-8290.CD-23-1445">epigenetic basis for the molecular subtypes of colorectal cancer </a> was published in <i>Cancer Discovery</i>.</td>
   </tr>
   <tr>
+    <td><b>Oct 30, 2023</b></td>
+    <td>I was awarded the President Scholarship for Doctoral Studies at Peking University</td>
+  </tr>
+  <tr>
     <td><b>Jan 11, 2023</b></td>
     <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery</i>.</td>
   </tr>
@@ -75,9 +79,9 @@ img: ":nature_150_4.png"
 <h1>📝Selected Publications</h1>
 
 <ol>
-  <li><b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.*, Tang, F.*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. <i>Cancer Discovery</i> 14, 1082–1105.</li>
-  <li>Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5.</li>
-  <li>Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.*, Yao, Y.*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i>Genomics, Proteomics & Bioinformatics</i> 20, 1224–1231.</li>
+  <li><b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.*, Tang, F.*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. <i><b>Cancer Discovery</b></i> 14, 1082–1105.</li>
+  <li>Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i><b>Cell Discovery</b></i> 9, 5.</li>
+  <li>Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.*, Yao, Y.*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i><b>Genomics, Proteomics & Bioinformatics</b></i> 20, 1224–1231.</li>
 </ol>
 
 <p>
