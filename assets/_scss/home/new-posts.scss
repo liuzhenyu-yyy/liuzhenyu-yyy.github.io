@@ -53,7 +53,8 @@
 
 .new-posts > ol > li {
   margin-bottom: 10px; // Increase the distance between list items
-  padding-left: 5px; // Add padding to align the text properly
+  margin-left: 5px;
+  padding-left: 3px; // Add padding to align the text properly
 }
 
 .new-posts > li {
