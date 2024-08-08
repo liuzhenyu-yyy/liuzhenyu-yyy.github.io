@@ -2,7 +2,7 @@
 #               General
 ###########################################################
 # if this is true, resources are loaded from cdn (if available), otherwise they are loaded from site base.
-use_cdn_resources_if_available: true
+use_cdn_resources_if_available: false
 
 ###########################################################
 #               Font
