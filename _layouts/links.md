@@ -54,6 +54,8 @@ layout: default
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
               &nbsp;&nbsp;
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.pdf }}', '_blank')">PDF</button>
+              &nbsp;&nbsp;
+              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.news }}', '_blank')">News</button>
             </p>
           </td>
         </tr>

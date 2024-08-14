@@ -65,6 +65,7 @@ page_data:
       info: "<i>Cancer Biology & Medicine</i>, 2024. (Invited Editorial)"
       url: "https://doi.org/10.20892/j.issn.2095-3941.2024.0176"
       pdf: "/assets/publication/j.issn.2095-3941.2024.0176.full.pdf"
+      news: "https://mp.weixin.qq.com/s/K2q7WnXp1uJUW58rfJgNFg"
 
     - type: id_2024
       title: "Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers"
@@ -72,6 +73,7 @@ page_data:
       info: "<i>Cancer Discovery</i>, 2024."
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
       pdf: "/assets/publication/CD-23-1445R1_Merged_PDF.pdf"
+      news: "https://mp.weixin.qq.com/s/StdUHkNb1-S54gxmjI7nZQ"
 
     - type: id_2023
       title: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
@@ -79,6 +81,7 @@ page_data:
       info: "<i>Cell Discovery</i>, 2023."
       url: "https://doi.org/10.1038/s41421-022-00500-4"
       pdf: "/assets/publication/s41421-022-00500-4.pdf"
+      news: "https://mp.weixin.qq.com/s/_k5Osrj8V3X6CnL7qz9yMQ"
 
     - type: id_2022
       title: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies"
@@ -86,4 +89,5 @@ page_data:
       info: "<i>Genomics, Proteomics & Bioinformatics</i>, 2022."
       url: "https://doi.org/10.1016/j.gpb.2022.07.004"
       pdf: "/assets/publication/1-s2.0-S1672022922000882-main.pdf"
+      news: "https://mp.weixin.qq.com/s/E7WfsaDikxzWBHrIjNYvkA"
 ---
