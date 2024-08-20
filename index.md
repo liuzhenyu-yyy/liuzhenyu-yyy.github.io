@@ -36,7 +36,7 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a third-year Ph.D. candidate at the <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
+    I am a fourth-year Ph.D. candidate at the <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
     at <a href="https://english.pku.edu.cn/">Peking University</a>, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. Before my Ph.D., I received my B.S. in Biology from <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>, Peking University. During my undergraduate studies, I participated in the Undergraduate Research Training Program at 
     <a href="http://www.cls.edu.cn/en/info/1263/1349.htm">Dr. Chengran Xu's</a> Lab.
 </p>
