@@ -54,6 +54,10 @@ img: ":nature_150_4.png"
 
 <table>
   <tr>
+    <td><b>June 23, 2024</b></td>
+    <td>I was awarded the National Scholarship for Graduate Students.</td>
+  </tr>
+  <tr>
     <td><b>Jul 14, 2024</b></td>
     <td>We were invited to write an <a href="https://doi.org/10.20892/j.issn.2095-3941.2024.0176">Editorial article</a> on the epigenetic basis of molecular classifications of CRCs for <i>Cancer Biology & Medicine</i>.</td>
   </tr>
@@ -67,12 +71,12 @@ img: ":nature_150_4.png"
   </tr>
   <tr>
     <td><b>Oct 30, 2023</b></td>
-    <td>I was awarded the President Scholarship for Doctoral Studies at Peking University</td>
+    <td>I was awarded the President Scholarship for Doctoral Studies at Peking University.</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><b>Jan 11, 2023</b></td>
     <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery</i>.</td>
-  </tr>
+  </tr> -->
 </table>
 
 <!-- split -->
