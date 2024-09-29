@@ -57,6 +57,8 @@ img: ":about.jpg"
 ## 🏆Awards & Honors
 
 - `National Scholarship` *2024*
+- `Academic Innovation Award` *2024*
+- `Pacemaker to Merit Student` *2024*
 - `Vazyme Scholarship` *2024*
 - `Merit Student` *2023*
 - `Peking University President Scholarship` *2023*
