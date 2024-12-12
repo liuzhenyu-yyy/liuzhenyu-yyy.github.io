@@ -60,6 +60,14 @@ page_data:
     -
     # Research article
     - type: id_2024
+      title: "scNanoSeq-CUT&Tag: a single-cell long-read CUT&Tag sequencing method for efficient chromatin modification profiling within individual cells"
+      author: "Li, Q.†, Guo, Y.†, Wu, Z.†, Xu, X., Jiang, Z., Qi, S., <b>Liu, Z.</b>, Wen, L., Tang, F.&#42;"
+      info: "<i>Nature Methods</i>, 2024."
+      url: "https://www.nature.com/articles/s41592-024-02453-w"
+      pdf: ""
+      news: "https://mp.weixin.qq.com/s/2cxxugqIZMyjBR3cAjHcCQ"
+
+    - type: id_2024
       title: "Epigenetic regulators as the foundation for molecular classification of colorectal cancer"
       author: "<b>Liu, Z.</b>, Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Biology & Medicine</i>, 2024. (Invited Editorial)"
