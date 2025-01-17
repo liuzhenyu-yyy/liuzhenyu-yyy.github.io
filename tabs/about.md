@@ -38,15 +38,10 @@ img: ":about.jpg"
 
 ## 🎓Education
 
-- **School of Life Sciences, Peking University**
-  - Ph.D. of Biology, 2021-2025 (expected)
-  - "4 plus 4" B.Sc. to Ph.D. Program
+- **Ph.D. of Biology, 2021-2025 (expected), School of Life Sciences, Peking University**
   - Research interests: single-cell genomics, tumor heterogeneity, epigenetics
   - Advisor: [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm)
-- **Yuanpei College, Peking University**
-  - B.Sc. of Biology, 2017-2021
-  - Graduating With Honors
-  - Undergraduate Research Training Program
+- **B.Sc. of Biology, 2017-2021, Yuanpei College, Peking University**
   - Academic advisor: [Dr. Chengran Xu](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1962.shtml)
 
 ## 📚Teaching
@@ -56,18 +51,12 @@ img: ":about.jpg"
 
 ## 🏆Awards & Honors
 
+- 
 - `National Scholarship` *2024*
 - `Academic Innovation Award` *2024*
-- `Pacemaker to Merit Student` *2024*
-- `Vazyme Scholarship` *2024*
-- `Merit Student` *2023*
+- `Merit Student Pacesetter` *2024*
+- `Merit Student` *2023, 2022*
 - `Peking University President Scholarship` *2023*
-- `Abiosciences Outstanding Paper Award` *2023*
-- `Merit Student` *2022*
-- `UBIQUANT Scholarship` *2022*
-- `Novogene Scholarship` *2021*
-- `Graduating With Honors` *2021*
-- `Lee Wai Wing Scholarship` *2018*
 - `Awards for Academic Excellents` *2018*
 - `Freshman Scholarship` *2017*
 
