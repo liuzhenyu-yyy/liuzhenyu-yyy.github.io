@@ -89,7 +89,7 @@ img: ":nature_150_4.png"
 </ol>
 
 <p>
-    Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://tc17-liuzhenyu.space/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ">Google Scholar</a>.
+    Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://tc17-liuzhenyu.space/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
 <!-- split -->
