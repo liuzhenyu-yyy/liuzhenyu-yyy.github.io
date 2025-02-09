@@ -51,7 +51,7 @@ img: ":about.jpg"
 
 ## 🏆Awards & Honors
 
-- 
+- `Young Elite Scientists Sponsorship Program by CAST (Doctoral Student)` *2025*
 - `National Scholarship` *2024*
 - `Academic Innovation Award` *2024*
 - `Merit Student Pacesetter` *2024*
