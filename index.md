@@ -54,6 +54,10 @@ img: ":nature_150_4.png"
 
 <table>
   <tr>
+    <td><b>Jan 6, 2024</b></td>
+    <td>I was selected for Young Elite Scientists Sponsorship Program by CAST (Doctoral Student).</td>
+  </tr>
+  <tr>
     <td><b>June 23, 2024</b></td>
     <td>I was awarded the National Scholarship for Graduate Students.</td>
   </tr>
@@ -69,11 +73,11 @@ img: ":nature_150_4.png"
     <td><b>Mar 6, 2024</b></td>
     <td>Our research on the <a href="https://doi.org/10.1158/2159-8290.CD-23-1445">epigenetic basis for the molecular subtypes of colorectal cancer </a> was published in <i>Cancer Discovery</i>.</td>
   </tr>
+  <!-- <tr>
   <tr>
     <td><b>Oct 30, 2023</b></td>
     <td>I was awarded the President Scholarship for Doctoral Studies at Peking University.</td>
   </tr>
-  <!-- <tr>
     <td><b>Jan 11, 2023</b></td>
     <td>We published <a href="https://www.nature.com/articles/s41421-022-00500-4">SCAN-seq2</a>, a high-throughput and high-sensitivity full-length single-cell RNA-seq method in <i>Cell Discovery</i>.</td>
   </tr> -->
