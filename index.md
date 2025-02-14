@@ -84,19 +84,6 @@ img: ":nature_150_4.png"
 </table>
 
 <!-- split -->
-<h1>📝Selected Publications</h1>
-
-<ol>
-  <li><b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.*, Tang, F.*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. <i><b>Cancer Discovery</b></i> 14, 1082–1105.</li>
-  <li>Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i><b>Cell Discovery</b></i> 9, 5.</li>
-  <li>Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.*, Yao, Y.*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. <i><b>Genomics, Proteomics & Bioinformatics</b></i> 20, 1224–1231.</li>
-</ol>
-
-<p>
-    Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://tc17-liuzhenyu.space/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en">Google Scholar</a>.
-</p>
-
-<!-- split -->
 <h1>🗺️Site Visitor Distribution</h1>
 <p>
     This website have been running since December, 2020. Here's were my visitors come from:
