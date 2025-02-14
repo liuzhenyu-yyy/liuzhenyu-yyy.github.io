@@ -70,8 +70,8 @@ img: ":about.jpg"
 
 ## 📝Selected Publications 
 
-1. **Liu, Z.**†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.*, Tang, F.*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. ***Cancer Discovery*** 14, 1082–1105.</li>
-2. Liao, Y.†, **Liu, Z.**†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. ***Cell Discovery*** 9, 5.</li>
-3. Gao, Y.†, Zhang, J.†, **Liu, Z.**†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.*, Yao, Y.*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. ***Genomics, Proteomics & Bioinformatics*** 20, 1224–1231.</li>
+1. **Liu, Z.**†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.\*, Tang, F.\*, 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. ***Cancer Discovery*** 14, 1082–1105.
+2. Liao, Y.†, **Liu, Z.**†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.\*, 2023. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. ***Cell Discovery*** 9, 5.
+3. Gao, Y.†, Zhang, J.†, **Liu, Z.**†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.\*, Yao, Y.\*, 2022. Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies. ***Genomics, Proteomics & Bioinformatics*** 20, 1224–1231.
 
 Marks: co-first author†, corresponding author*. See full list of publications on <a href="https://liuzhenyu-yyy.github.io/tabs/links.html">Publication Page</a> or <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en">Google Scholar</a>.
