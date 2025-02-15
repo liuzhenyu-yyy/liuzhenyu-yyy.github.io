@@ -76,8 +76,8 @@ layout: default
   </div>
 </div>
 
-<div class="multipurpose-container new-posts-container">
+<!-- <div class="multipurpose-container new-posts-container">
   <div class="new-posts">
     {{ content_parts[3] }}
   </div>
-</div>
+</div> -->
