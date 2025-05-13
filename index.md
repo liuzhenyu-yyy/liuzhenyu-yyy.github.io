@@ -37,8 +37,7 @@ img: ":nature_150_4.png"
 
 <p>
     I am a fourth-year Ph.D. candidate at the <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
-    at <a href="https://english.pku.edu.cn/">Peking University</a>, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. Before my Ph.D., I received my B.S. in Biology from <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>, Peking University. During my undergraduate studies, I participated in the Undergraduate Research Training Program at 
-    <a href="http://www.cls.edu.cn/en/info/1263/1349.htm">Dr. Chengran Xu's</a> Lab.
+    at <a href="https://english.pku.edu.cn/">Peking University</a>, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. Before my Ph.D., I received my B.S. in Biology from <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>, Peking University.
 </p>
 
 <p>
@@ -93,5 +92,5 @@ img: ":nature_150_4.png"
     This website have been running since December, 2020. Here's were my visitors come from:
 </p>
 <div style="display: flex; justify-content: center;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff' width="150%"></script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script>
 </div>
