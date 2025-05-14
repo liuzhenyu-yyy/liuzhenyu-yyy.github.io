@@ -252,26 +252,5 @@ page_data:
 
         Check more at the [project page](https://github.com/liuzhenyu-yyy/Game-of-the-Amazons-AI).
 
-    # Quota
-    - type: id_others
-      project_name: "Tang Lab Quota Usage"
-      project_excerpt: "A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC."
-      img: ":quota.jpg"
-      img_title: "img quota"
-      date: "2022-10-26"
-      post: |
-        # Tang Lab Quota Usage
-
-        ![Image](:quota.jpg){:data-align="center"}
-
-        ---
-
-        A shiny app to visualize quota usage for each user from Tang Lab on PKUHPC.
-
-        URL: https://liuzhenyu-yyy.shinyapps.io/tanglab_quota/
-
-        Source code available at https://github.com/liuzhenyu-yyy/TangLab-Quota.
-
-        Web appwas deployed on [shinyapps.io](https://www.shinyapps.io/).
 
        
