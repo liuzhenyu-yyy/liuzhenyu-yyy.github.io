@@ -36,12 +36,11 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a fourth-year Ph.D. candidate at the <a href="https://biopic.pku.edu.cn/en/">Biomedical Pioneering Innovation Center</a> 
-    at <a href="https://english.pku.edu.cn/">Peking University</a>, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>. Before my Ph.D., I received my B.S. in Biology from <a href="https://yuanpei.pku.edu.cn/en/index.htm">Yuanpei College</a>, Peking University.
+    I am a research staff at fourth-year Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
-    My research primarily revolves around developing innovative single-cell sequencing technologies🧬, as well as utilizing these cutting-edge methods to explore complex biological systems, including cancers and embryos. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. Outside of my academic pursuits, I take pride in my membership with the Peking University table tennis varsity team for non-sports students.🏓
+    My research primarily revolves around developing innovative single-cell sequencing technologies🧬, as well as utilizing these cutting-edge methods in basic cancer research. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. 
 </p>
 
 <p>
@@ -52,6 +51,10 @@ img: ":nature_150_4.png"
 <h1>📰News</h1>
 
 <table>
+  <tr>
+    <td><b>Aug 7, 2025</b></td>
+    <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences as a research staff.</td>
+  </tr>
   <tr>
     <td><b>Apr 30, 2025</b></td>
     <td>I defended my PhD theis from Peking University.🥂</td>
@@ -64,11 +67,11 @@ img: ":nature_150_4.png"
     <td><b>June 23, 2024</b></td>
     <td>I was awarded the National Scholarship for Graduate Students.</td>
   </tr>
-  <tr>
+<!-- <tr>
     <td><b>Jul 14, 2024</b></td>
     <td>We were invited to write an <a href="https://doi.org/10.20892/j.issn.2095-3941.2024.0176">Editorial article</a> on the epigenetic basis of molecular classifications of CRCs for <i>Cancer Biology & Medicine</i>.</td>
   </tr>
-  <!-- <tr>
+<tr>
     <td><b>Apr 20, 2024</b></td>
     <td>I gave a talk on using single-cell genomics to accelerate basic cancer research at the post-AACR24 seminar of <a href="http://www.bcpts.org.cn/index_temp.php">Beijing Cancer Prevention & Treatment Society</a>.</td>
   </tr>
