@@ -36,7 +36,7 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a research staff at fourth-year Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
+    I am a research staff at Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
@@ -95,5 +95,5 @@ img: ":nature_150_4.png"
     This website have been running since December, 2020. Here's were my visitors come from:
 </p>
 <div style="display: flex; justify-content: center;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=330&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=89ccfc&cmo=efad4f&cmn=6ef95f&ct=ffffff'></script>
+  <a href='https://clustrmaps.com/site/1br2d'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g'/></a>
 </div>
