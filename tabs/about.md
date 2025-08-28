@@ -36,12 +36,17 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+## Professional Experience
+- **Research Staff, National Cancer Center China, 2025-present**
+  - Research interests: single-cell omics, tumor heterogeneity, epigenetics
+  - Affiliation: Cancer Hospital Chinese Academy of Medical Sciences
+
 ## 🎓Education
 
-- **Ph.D. of Biology, 2021-2025 (expected), School of Life Sciences, Peking University**
+- **Ph.D. of Biology, School of Life Sciences, Peking University, 2021-2025**
   - Research interests: single-cell omics, tumor heterogeneity, epigenetics
   - Advisor: [Prof. Fuchou Tang](https://biopic.pku.edu.cn/en/researchteam/511476.htm)
-- **B.Sc. of Biology, 2017-2021, Yuanpei College, Peking University**
+- **B.Sc. of Biology, Yuanpei College, Peking University, 2017-2021**
   - Research interests: pancreas development, cell fate regulation
   - Academic advisor: [Prof. Chengran Xu](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=229)
 
