@@ -37,7 +37,7 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 ## 🧫Professional Experience
-- **Research Staff, National Cancer Center China, 2025-present**
+- **Staff Scientist, National Cancer Center China, 2025-present**
   - Research interests: single-cell omics, tumor heterogeneity, epigenetics
   - Affiliation: Cancer Hospital Chinese Academy of Medical Sciences
 

@@ -36,7 +36,7 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a research staff at Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
+    I am a Staff Scientist at Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ img: ":nature_150_4.png"
 <table>
   <tr>
     <td><b>Aug 7, 2025</b></td>
-    <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences as a research staff.</td>
+    <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences as a staff scientist.</td>
   </tr>
   <tr>
     <td><b>Apr 30, 2025</b></td>
