@@ -44,6 +44,10 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
+    - title: "2025"
+      type: id_2025
+      color: "#e78bc3"
+
     - title: "2024"
       type: id_2024
       color: "#8da0cb"
@@ -59,6 +63,14 @@ page_data:
   list:
     -
     # Research article
+    - type: id_2025
+      title: "Systematic characterization of full-length RNA isoforms in human colorectal cancer at single-cell resolution"
+      author: "Lu, P.†, Zhang, Y.†, Cui, Y., Liao, Y., <b>Liu, Z.</b>, Cao, Z. J., Liu, J. E., Wen, L., Zhou, X., Fu, W.&#42, & Tang, F&#42."
+      info: "<i>Protein & Cell</i>, 2025."
+      url: "https://academic.oup.com/proteincell/article/16/10/873/8211444?login=true"
+      pdf: ""
+      news: "https://www.bjmu.edu.cn/yjcg/d39054716a704d09a2edc60fa9b662f4.htm"
+
     - type: id_2024
       title: "scNanoSeq-CUT&Tag: a single-cell long-read CUT&Tag sequencing method for efficient chromatin modification profiling within individual cells"
       author: "Li, Q.†, Guo, Y.†, Wu, Z.†, Xu, X., Jiang, Z., Qi, S., <b>Liu, Z.</b>, Wen, L., Tang, F.&#42;"
