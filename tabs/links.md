@@ -68,7 +68,6 @@ page_data:
       author: "Lu, P.†, Zhang, Y.†, Cui, Y., Liao, Y., <b>Liu, Z.</b>, Cao, Z. J., Liu, J. E., Wen, L., Zhou, X., Fu, W.&#42, & Tang, F&#42."
       info: "<i>Protein & Cell</i>, 2025."
       url: "https://academic.oup.com/proteincell/article/16/10/873/8211444?login=true"
-      pdf: ""
       news: "https://www.bjmu.edu.cn/yjcg/d39054716a704d09a2edc60fa9b662f4.htm"
 
     - type: id_2024
@@ -76,7 +75,6 @@ page_data:
       author: "Li, Q.†, Guo, Y.†, Wu, Z.†, Xu, X., Jiang, Z., Qi, S., <b>Liu, Z.</b>, Wen, L., Tang, F.&#42;"
       info: "<i>Nature Methods</i>, 2024."
       url: "https://www.nature.com/articles/s41592-024-02453-w"
-      pdf: ""
       news: "https://mp.weixin.qq.com/s/2cxxugqIZMyjBR3cAjHcCQ"
 
     - type: id_2024
@@ -84,7 +82,6 @@ page_data:
       author: "<b>Liu, Z.</b>, Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Biology & Medicine</i>, 2024. (Invited Editorial)"
       url: "https://doi.org/10.20892/j.issn.2095-3941.2024.0176"
-      pdf: "/assets/publication/j.issn.2095-3941.2024.0176.full.pdf"
       news: "https://mp.weixin.qq.com/s/K2q7WnXp1uJUW58rfJgNFg"
 
     - type: id_2024
@@ -92,7 +89,6 @@ page_data:
       author: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Discovery</i>, 2024."
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
-      pdf: "/assets/publication/CD-23-1445R1_Merged_PDF.pdf"
       news: "https://mp.weixin.qq.com/s/StdUHkNb1-S54gxmjI7nZQ"
 
     - type: id_2023
@@ -100,7 +96,6 @@ page_data:
       author: "Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.&#42;"
       info: "<i>Cell Discovery</i>, 2023."
       url: "https://doi.org/10.1038/s41421-022-00500-4"
-      pdf: "/assets/publication/s41421-022-00500-4.pdf"
       news: "https://mp.weixin.qq.com/s/_k5Osrj8V3X6CnL7qz9yMQ"
 
     - type: id_2022
@@ -108,6 +103,5 @@ page_data:
       author: "Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.&#42;, Yao, Y.&#42"
       info: "<i>Genomics, Proteomics & Bioinformatics</i>, 2022."
       url: "https://doi.org/10.1016/j.gpb.2022.07.004"
-      pdf: "/assets/publication/1-s2.0-S1672022922000882-main.pdf"
       news: "https://mp.weixin.qq.com/s/E7WfsaDikxzWBHrIjNYvkA"
 ---

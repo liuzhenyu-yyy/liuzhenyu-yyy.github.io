@@ -50,12 +50,11 @@ layout: default
             <p>
               <span style="color = #6a6a6a">  <b>{{ list.title }}  </b></span> <br>
               {{ list.author }}<br>
-              {{ list.info }}<br>
+              {{ list.info }}
+              &nbsp;&nbsp;
               <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
               &nbsp;&nbsp;
-              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.pdf }}', '_blank')">PDF</button>
-              &nbsp;&nbsp;
-              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.news }}', '_blank')">News</button>
+              <button class="btn-base" style="padding: 0px 12px; font-size: 12px; height: 25px" onclick=" window.open('{{ list.news }}', '_blank')">Press Release</button>
             </p>
           </td>
         </tr>
