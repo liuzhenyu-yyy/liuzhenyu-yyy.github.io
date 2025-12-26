@@ -52,6 +52,10 @@ img: ":nature_150_4.png"
 
 <table>
   <tr>
+    <td><b>Dec 15, 2025</b></td>
+    <td>My research get supported by Young Scientists Fund of Beijing Natural Science Foundation.</td>
+  </tr>
+  <tr>
     <td><b>Aug 7, 2025</b></td>
     <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences as a staff scientist.</td>
   </tr>
@@ -60,14 +64,14 @@ img: ":nature_150_4.png"
     <td>I defended my PhD theis from Peking University.🥂</td>
   </tr>
   <tr>
-    <td><b>Jan 6, 2024</b></td>
+    <td><b>Jan 6, 2025</b></td>
     <td>I was selected for Young Elite Scientists Sponsorship Program by CAST (Doctoral Student).</td>
   </tr>
-  <tr>
+<!--  <tr>
     <td><b>June 23, 2024</b></td>
     <td>I was awarded the National Scholarship for Graduate Students.</td>
   </tr>
-<!-- <tr>
+ <tr>
     <td><b>Jul 14, 2024</b></td>
     <td>We were invited to write an <a href="https://doi.org/10.20892/j.issn.2095-3941.2024.0176">Editorial article</a> on the epigenetic basis of molecular classifications of CRCs for <i>Cancer Biology & Medicine</i>.</td>
   </tr>
