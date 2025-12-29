@@ -52,9 +52,17 @@ layout: default
               {{ list.author }}<br>
               {{ list.info }}
               &nbsp;&nbsp;
-              <button class="btn-base" style="padding: 0px 6px; font-size: 10px; height: 20px;" onclick=" window.open('{{ list.url }}', '_blank')" >HTML</button>
+              <button class="btn-base" 
+                      style="display: inline-flex; align-items: center; justify-content: center; padding: 0px 8px; font-size: 11px; height: 22px; line-height: 1;" 
+                      onclick="window.open('{{ list.url }}', '_blank')">
+                  HTML
+              </button>
               &nbsp;&nbsp;
-              <button class="btn-base" style="padding: 0px 6px; font-size: 10px; height: 20px" onclick=" window.open('{{ list.news }}', '_blank')">Press Release</button>
+              <button class="btn-base" 
+                      style="display: inline-flex; align-items: center; justify-content: center; padding: 0px 8px; font-size: 11px; height: 22px; line-height: 1;" 
+                      onclick="window.open('{{ list.news }}', '_blank')">
+                  Press Release
+              </button>
             </p>
           </td>
         </tr>
