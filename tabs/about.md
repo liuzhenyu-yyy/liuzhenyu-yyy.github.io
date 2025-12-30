@@ -36,8 +36,8 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-## 🧫Professional Experience
-- **Staff Scientist, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
+## 🧬dnarofessional Experience
+- **Research Assistant Professor, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Research interests: tumor heterogeneity, spatial omics, tumor microenvironment, cell therapy
   - Department: State Key Laboratory of Molecular Oncology
   - Advisor: [Prof. Zhihua Liu](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/2168.html) & [Prof. Yun Zhang](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/7189.html)
