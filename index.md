@@ -99,7 +99,7 @@ img: ":nature_150_4.png"
     This website have been running since December, 2020. Here's were my visitors come from:
 </p>
 <div style="display: flex; justify-content: center; width: 100%;">
-  <div style="width: 100%; max-width: 600px;">
+  <div style="width: 100%; max-width: 400px;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script>
   </div>
 </div>
