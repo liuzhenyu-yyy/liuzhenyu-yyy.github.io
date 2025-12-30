@@ -36,7 +36,7 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-## 🧬dnarofessional Experience
+## 🧬Professional Experience
 - **Research Assistant Professor, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Research interests: tumor heterogeneity, spatial omics, tumor microenvironment, cell therapy
   - Department: State Key Laboratory of Molecular Oncology
