@@ -36,8 +36,8 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-## 🧬Professional Experience
-- **Research Assistant Professor, National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
+## 🔬Professional Experience
+- **Research Assistant Professor (RAP), National Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Research interests: tumor heterogeneity, spatial omics, tumor microenvironment, cell therapy
   - Department: State Key Laboratory of Molecular Oncology
   - Advisor: [Prof. Zhihua Liu](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/2168.html) & [Prof. Yun Zhang](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/7189.html)
@@ -45,12 +45,18 @@ img: ":about.jpg"
 ## 🎓Education
 
 - **Ph.D. of Biology, School of Life Sciences, Peking University, 2021-2025**
-  - Enrolled in Center for High-Level Talent Cultivation in Biology (生物学国家高层次人才培养中心)
+  - Enrolled in Center for High-Level Talent Cultivation in Biology
   - Research interests: single-cell omics, tumor heterogeneity, epigenetics, gastrointestinal cancer
   - Advisor: [Prof. Fuchou Tang](https://icg.pku.edu.cn/kxyj/yjtd/61icg269287.htm)
 - **B.Sc. of Biology, Yuanpei College, Peking University, 2017-2021**
+  - Enrolled in Undergraduate Research Training Program
   - Research interests: pancreas development, cell fate regulation
   - Academic advisor: [Prof. Chengran Xu](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=229)
+
+## 💡Funding
+
+- **Young Scientists Fund of BNSF**, Beijing Natural Science Foundation. *2025-2027*
+- **Young Elite Scientist Sponsorship Program (Doctoral Student)**, China Association for Science and Technology, *2024-2025.*
 
 ## 📚Teaching
 
@@ -59,16 +65,14 @@ img: ":about.jpg"
 
 ## 🏆Awards & Honors
 
-- `Zhang Jingyue Outstanding Graduate Award 优秀毕业⽣张景钺奖` *2025*
-- `Excellent Graduate 优秀毕业生` *2025*
-- `Young Elite Scientists Sponsorship Program by CAST (Doctoral Student) 中国科协青年人才托举工程博士生专项计划` *2025*
-- `National Scholarship 国家奖学金` *2024*
-- `Academic Innovation Award 学术创新奖` *2024*
-- `Merit Student Pacesetter 三好学生标兵` *2024*
-- `Merit Student 三好学生` *2023, 2022*
-- `Peking University President Scholarship 北京大学校长奖学金` *2023*
-- `Awards for Academic Excellents 学习优秀奖` *2018*
-- `Freshman Scholarship 新生奖学金` *2017*
+- `Zhang Jingyue Outstanding Graduate Award`, Peking University, *2025*
+- `Excellent Graduate`, Peking University, *2025*
+- `National Scholarship`, Ministry of Edication, *2024*
+- `Academic Innovation Award`, Peking University, *2024*
+- `Merit Student Pacesetter`, Peking University, *2024*
+- `Merit Student`, Peking University, *2023, 2022*
+- `President Scholarship`, Peking University, *2023*
+- `Awards for Academic Excellents`, Peking University, *2018*
 
 ## 🏓Tournaments
 
