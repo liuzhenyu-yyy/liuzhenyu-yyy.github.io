@@ -1,0 +1,17 @@
+/* Mr. Green Jekyll Theme - v1.1.0 (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
+ * Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
+ * Licensed under MIT
+ * 
+ * Font family variables for consistent typography across the site
+ * Updated with modern system font stack for optimal performance and native appearance
+ */
+
+// Base font stack for body and general content
+// Uses system fonts for zero loading time and native appearance on all platforms
+$font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+
+// Extended font stack with emoji support for body element
+$font-family-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+// Monospace font stack for code blocks
+$font-family-monospace: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
