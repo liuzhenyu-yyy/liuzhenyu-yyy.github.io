@@ -141,6 +141,7 @@
 .markdown-style pre > code {
   background-color: var(--markdown-styles-code-background-color);
   color: var(--markdown-styles-code-text-color);
+  font-family: $font-family-monospace;
 }
 
 /* Quoted text */
@@ -148,6 +149,7 @@
   background-color: var(--markdown-styles-quote-background-color);
   color: var(--markdown-styles-quote-text-color);
   overflow-wrap: break-word;
+  font-family: $font-family-monospace;
 }
 
 /* for Videos */

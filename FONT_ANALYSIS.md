@@ -156,12 +156,18 @@ If you want to use Google Fonts (Roboto or Inter), add to your HTML head:
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 ```
 
-### Step 3: Code Font Enhancement
-Update code blocks to use a proper monospace stack:
+### Step 3: Code Font Enhancement (Already Implemented)
+Our implementation uses a proper monospace stack:
 
 ```scss
-font-family: "Fira Code", "JetBrains Mono", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
 ```
+
+This provides excellent monospace rendering on all platforms:
+- **macOS/iOS**: SF Mono
+- **Windows**: Cascadia Code (Windows Terminal font) or Consolas
+- **Android**: Roboto Mono
+- **Universal fallback**: Courier New
 
 ## Typography Best Practices
 
