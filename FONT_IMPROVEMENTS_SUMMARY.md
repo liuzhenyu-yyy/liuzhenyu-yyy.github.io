@@ -104,15 +104,18 @@ font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono",
 ## 🔍 Technical Details
 
 ### Files Modified
-1. `assets/_scss/default/body-main-styles.scss` (line 35)
-2. `assets/_scss/common/markdown-style.scss` (lines 27, 49, 85, 135)
+1. `assets/_scss/common/font-variables.scss` (NEW - centralized font definitions)
+2. `assets/_scss/default/body-main-styles.scss` (line 37)
+3. `assets/_scss/common/markdown-style.scss` (lines 29, 51, 87, 137)
 
 ### Changes Applied
-- ✅ 5 font-family declarations updated
+- ✅ Created centralized font variable definitions
+- ✅ 5 font-family declarations updated to use SCSS variables
 - ✅ Unified font stack across body and content
 - ✅ Added proper monospace font for code
 - ✅ Improved Chinese font support
 - ✅ Added emoji font support
+- ✅ Improved code maintainability with DRY principle
 
 ## 📚 What Each Font Does
 
