@@ -32,9 +32,15 @@ layout: util/compress_js
   {%- endif %}
 {%- endfor %}
 
-{% if site.data.lang.size > 1 and site.data.conf.main.language_switch_lang_list.size > 1 and site.data.conf.main.language_translation_offer_box -%}
-  {% include_relative _js/default/check-storage-availability.js %}
+{% assign _lang_offer_box = false %}
+{% if site.data.lang.size > 1 and site.data.conf.main.language_switch_lang_list.size > 1 and site.data.conf.main.language_translation_offer_box %}{% assign _lang_offer_box = true %}{% endif %}
+
+{% if _lang_offer_box or site.data.conf.main.cookie_consent.enable == true %}
   {% include_relative _js/default/sliding-msg-box.js %}
+{% endif %}
+
+{% if _lang_offer_box -%}
+  {% include_relative _js/default/check-storage-availability.js %}
   {% include_relative _js/default/lang-offer-msg-box.js %}
 {%- endif %}
 
