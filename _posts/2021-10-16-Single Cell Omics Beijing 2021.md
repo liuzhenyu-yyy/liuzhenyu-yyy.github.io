@@ -64,7 +64,7 @@ Oct. 15-16, 2021. Beijng China
 
 - Predict gene expression
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015100345509.png" alt="image-20211015100345509"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015100345509.png" alt="image-20211015100345509"  heigh="150" >
 
 
 Q&A: 细胞周期在scRNA中影响很大，但是在scATAC中并不明显hhhh
@@ -91,7 +91,7 @@ Tabula Organisms
 
   1.2 million cREs, 222 cell types
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015103937578.png" alt="image-20211015103937578"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015103937578.png" alt="image-20211015103937578"  heigh="150" >
 
 - scATAC of lung (covid-19)
 
@@ -118,13 +118,13 @@ Q&A:
   - 不使用bisulfite的bulk方法：TET2+β-GT保护，再用APOBEC转化。需要两次纯化，coverage较低。
   - Cabernet and Cabernet -H
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015151926483.png" alt="image-20211015151926483"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015151926483.png" alt="image-20211015151926483"  heigh="150" >
 
   - 高转化率（>99%），高coverage，高mapping rage（~80%）。
   - sci-Cabernet-Seq，barcoded Tn5实现multiplexing。
   - Profiling 5mC and 5hmC in early mouse embryo
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015152409797.png" alt="image-20211015152409797"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015152409797.png" alt="image-20211015152409797"  heigh="150" >
 
 Q&A: 
 
@@ -134,7 +134,7 @@ Q&A:
 - single cell data and model dynamics
 - disturb: 敲除TET gene的mESC，注射进入ICM，产生完全敲除(TET-TKO) or 嵌合敲除的完整胚胎，再进行全胚胎的scRNA-Seq，检测各种细胞类型的比例。
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015155124866.png" alt="image-20211015155124866"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015155124866.png" alt="image-20211015155124866"  heigh="150" >
 
 ### **Ge Gao**: Multi-omics Integration and Regulatory Inference for Unpaired Single-cell Data with a Graph-linked Unified Embedding Framework
 
@@ -145,11 +145,11 @@ Q&A:
   - interpretability to translate computational models to biological insights
 - Cell Blast: integration of scRNA-Seq
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015161508355.png" alt="image-20211015161508355"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015161508355.png" alt="image-20211015161508355"  heigh="150" >
 
   - Adversarial Learning to model inter-dataset batches
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015161658795.png" alt="image-20211015161658795"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015161658795.png" alt="image-20211015161658795"  heigh="150" >
 
   - multi-level batch effect
 
@@ -158,11 +158,11 @@ Q&A:
 
 - GLUE: Integration of multi-omics data
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015162150463.png" alt="image-20211015162150463"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015162150463.png" alt="image-20211015162150463"  heigh="150" >
 
 ​	整合的效果显著好于之前发表的其他方法：
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015162501055.png" alt="image-20211015162501055"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015162501055.png" alt="image-20211015162501055"  heigh="150" >
 
 - [GeACT](http://geact.gao-lab.org/)
 
@@ -180,26 +180,26 @@ Q&A:
 
   - trade off of cell number and gene number
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015164644340.png" alt="image-20211015164644340"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015164644340.png" alt="image-20211015164644340"  heigh="150" >
 
 - Demand for scRNA-Seq technologies
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015164739765.png" alt="image-20211015164739765"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015164739765.png" alt="image-20211015164739765"  heigh="150" >
 
 
 - Smart-Seq3xpress: scalable, full-coverage scRNA-Seq (bioRxiv)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015215727125.png" alt="image-20211015215727125"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015215727125.png" alt="image-20211015215727125"  heigh="150" >
 
   - HEK293T K562基因数稳定在6000左右
 
   - cost-effiecnt: lower than Smart-Seq2 and Smart-Seq3
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015215745611.png" alt="image-20211015215745611"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015215745611.png" alt="image-20211015215745611"  heigh="150" >
 
   - pilot data from PBMCs (16K cells)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015165226619.png" alt="image-20211015165226619"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015165226619.png" alt="image-20211015165226619"  heigh="150" >
 
     16K 细胞准确捕捉到各个亚群
 
@@ -209,9 +209,9 @@ Q&A:
 
   - benchmarking UMI collapse stragies
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015165916356.png" alt="image-20211015165916356"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015165916356.png" alt="image-20211015165916356"  heigh="150" >
     
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015170058279.png" alt="image-20211015170058279"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015170058279.png" alt="image-20211015170058279"  heigh="150" >
 
 - BAMboozle: removes genetic variation from human sequence data for open data sharing （NC in press)
   - mask掉人类数据中个体特异的variation，从而减小data sharing带来的风险。
@@ -219,14 +219,14 @@ Q&A:
 - Regulation of transcriptional burst
   - NASC-Seq2: 鉴定新合成的mRNA
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015170412704.png" alt="image-20211015170412704"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015170412704.png" alt="image-20211015170412704"  heigh="150" >
   - new RNA反映出Total RNA无法反映的异质性
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015170610190.png" alt="image-20211015170610190"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015170610190.png" alt="image-20211015170610190"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015170650752.png" alt="image-20211015170650752"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015170650752.png" alt="image-20211015170650752"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015170948904.png" alt="image-20211015170948904"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015170948904.png" alt="image-20211015170948904"  heigh="150" >
 
 Q&A:
 
@@ -238,7 +238,7 @@ Q&A:
 
 ### **Sten Linnarsson**: Molecular Architecture of the Developing Mouse Brain Single Cell
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211015174012879.png" alt="image-20211015174012879"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211015174012879.png" alt="image-20211015174012879"  heigh="150" >
 
 Q&A:
 
@@ -266,22 +266,22 @@ Q&A:
 
   - 5% of normal humans have cancer-associated mutations
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016083904421.png" alt="image-20211016083904421"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016083904421.png" alt="image-20211016083904421"  heigh="150" >
 
   - pathogenic mutations appears to decrease with age
 
   - large scale CNV present in 5-8% of normal brains
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016084048170.png" alt="image-20211016084048170"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016084048170.png" alt="image-20211016084048170"  heigh="150" >
 
 - 人各个lineage 的somatic mutation profile (Science,2021 Mar)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016084431648.png" alt="image-20211016084431648"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016084431648.png" alt="image-20211016084431648"  heigh="150" >
   - 早期卵裂产生的细胞，对胚胎贡献的细胞数是高度不平均的
 
   - human cortex shows surprisingly integrated clonal structure
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016085012393.png" alt="image-20211016085012393"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016085012393.png" alt="image-20211016085012393"  heigh="150" >
 
 - Neuronal genome in the aging brain (bioRxiv)
 
@@ -291,7 +291,7 @@ Q&A:
 
 - summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016085658174.png" alt="image-20211016085658174"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016085658174.png" alt="image-20211016085658174"  heigh="150" >
 
   Q&A:
 
@@ -314,12 +314,12 @@ Q&A:
     - limited intronic coverage
   - MATI-Drop protocol
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016091704036.png" alt="image-20211016091704036"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016091704036.png" alt="image-20211016091704036"  heigh="150" >
 
   - 测试：等量HEK293T与3T3 混合，物种特异性 > 90
   - sensitivity of MATQ-Drop
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016091850146.png" alt="image-20211016091850146"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016091850146.png" alt="image-20211016091850146"  heigh="150" >
 
   sensitivity 略低于Smart-Seq2，与10X类似，但是适用于fixed sample。
 
@@ -329,15 +329,15 @@ Q&A:
 
   - cell atlas of lncRNA
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016092200690.png" alt="image-20211016092200690"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016092200690.png" alt="image-20211016092200690"  heigh="150" >
 
 - Transcriptome profiling of individual synaptosomes
   
   - subtypes in the synapses and other neuronal junctions
   
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016092449573.png" alt="image-20211016092449573"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016092449573.png" alt="image-20211016092449573"  heigh="150" >
   
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016092628731.png" alt="image-20211016092628731"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016092628731.png" alt="image-20211016092628731"  heigh="150" >
   
     
   
@@ -345,7 +345,7 @@ Q&A:
   
   - Cell-type specific intron retentions
   
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016093242094.png" alt="image-20211016093242094"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016093242094.png" alt="image-20211016093242094"  heigh="150" >
 
 ### **Cai Long**: Spatial Multi-omics: RNA and DNA seqFISH+
 
@@ -357,11 +357,11 @@ Q&A:
 
   - RNA SeqFish+
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016094803080.png" alt="image-20211016094803080"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016094803080.png" alt="image-20211016094803080"  heigh="150" >
 
   - DNA and RNA SeqFish+
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016094847385.png" alt="image-20211016094847385"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016094847385.png" alt="image-20211016094847385"  heigh="150" >
 
 - Some observations
 
@@ -369,7 +369,7 @@ Q&A:
 
   - actively transcribing genes appear at interfaces
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016095839850.png" alt="image-20211016095839850"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016095839850.png" alt="image-20211016095839850"  heigh="150" >
 
   - Chromatin interactions occur on 2D surfaces
 
@@ -377,7 +377,7 @@ Q&A:
 
 - Summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016100951676.png" alt="image-20211016100951676"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016100951676.png" alt="image-20211016100951676"  heigh="150" >
 
 Q&A
 
@@ -415,13 +415,13 @@ Q&A
 
   - 3D基因组的变化与RNA的变化显著相关
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016103056888.png" alt="image-20211016103056888"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016103056888.png" alt="image-20211016103056888"  heigh="150" >
 
   - 发育中，很多基因的空间位置向内部移动
 
 - Summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016103235727.png" alt="image-20211016103235727"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016103235727.png" alt="image-20211016103235727"  heigh="150" >
 
 Q&A:
 
@@ -442,7 +442,7 @@ Q&A:
 
 - Microwell-Seq (Cell, 2018)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016153458157.png" alt="image-20211016153458157"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016153458157.png" alt="image-20211016153458157"  heigh="150" >
 
   - gentle to cell (no FACS)
   - low cost
@@ -450,7 +450,7 @@ Q&A:
 
 - Microwell-Seq 2.0 (in press)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016153652426.png" alt="image-20211016153652426"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016153652426.png" alt="image-20211016153652426"  heigh="150" >
 
   - random primer, higher sensitivity
   - higher throughput
@@ -469,7 +469,7 @@ Q&A:
 
     - transitional cells
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016154501659.png" alt="image-20211016154501659"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016154501659.png" alt="image-20211016154501659"  heigh="150" >
       
 
   - How is cell fate regulated?
@@ -479,7 +479,7 @@ Q&A:
 
 - Predicting probability of expression by deep learning
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016155230935.png" alt="image-20211016155230935"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016155230935.png" alt="image-20211016155230935"  heigh="150" >
 
   ​	overall AUC在0.8左右
 
@@ -493,25 +493,25 @@ Q&A:
 
 - Ribosome profiling provides attractive approach to measure translation
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016161208420.png" alt="image-20211016161208420"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016161208420.png" alt="image-20211016161208420"  heigh="150" >
 
 - scRibo-Seq: Experimental Procedure
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016161414221.png" alt="image-20211016161414221"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016161414221.png" alt="image-20211016161414221"  heigh="150" >
 
 - **ribosomal protected fragments**(RPF) are enriched in coding sequencing and have 3-nt periodicity
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016161545823.png" alt="image-20211016161545823"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016161545823.png" alt="image-20211016161545823"  heigh="150" >
 
 - Arg-codon-pausing predominately occurs during expression of histone genes
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016162257676.png" alt="image-20211016162257676"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016162257676.png" alt="image-20211016162257676"  heigh="150" >
 
 - Pronounced GAA stalling is observed during mitosis, and affects many genes 
 
 - Summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016162914292.png" alt="image-20211016162914292"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016162914292.png" alt="image-20211016162914292"  heigh="150" >
 
 Q&A
 
@@ -527,7 +527,7 @@ Q&A
 
 - Conceptual limitations of single-cell genomics
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016171401783.png" alt="image-20211016171401783"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016171401783.png" alt="image-20211016171401783"  heigh="150" >
 
   
 
@@ -554,7 +554,7 @@ Q&A
 
   - loss of X chromosome
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016200859986.png" alt="image-20211016200859986"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016200859986.png" alt="image-20211016200859986"  heigh="150" >
 
 - SCAN-Seq(Plos Biology, 2021)
 
@@ -563,21 +563,21 @@ Q&A
   > X Fan, D Tang, Y Liao, [P Li](https://scholar.google.com.hk/citations?user=UwqMLUYAAAAJ&hl=zh-CN&oi=sra), Y Zhang, M Wang… - PLoS …, 2020 - journals.plos.org
   - SCAN-Seq2
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201651771.png" alt="image-20211016201651771"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201651771.png" alt="image-20211016201651771"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201704384.png" alt="image-20211016201704384"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201704384.png" alt="image-20211016201704384"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201714740.png" alt="image-20211016201714740"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201714740.png" alt="image-20211016201714740"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201723415.png" alt="image-20211016201723415"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201723415.png" alt="image-20211016201723415"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201735074.png" alt="image-20211016201735074"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201735074.png" alt="image-20211016201735074"  heigh="150" >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016201800319.png" alt="image-20211016201800319"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016201800319.png" alt="image-20211016201800319"  heigh="150" >
 
 ​		当时数据质量这么好……泪目。
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016202427254.png" alt="image-20211016202427254"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016202427254.png" alt="image-20211016202427254"  heigh="150" >
 
 - SMOOTH-Seq (Genome Biology, 2021)
 
@@ -586,7 +586,7 @@ Q&A
   > X Fan, [C Yang](https://scholar.google.com.hk/citations?user=CJpcEFcAAAAJ&hl=zh-CN&oi=sra), W Li, X Bai, X Zhou, H Xie, L Wen… - Genome biology, 2021 - Springer
   - SMOOTH-Seq2
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016202536518.png" alt="image-20211016202536518"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016202536518.png" alt="image-20211016202536518"  heigh="150" >
 
   Identify the 'dark matter' in the genome!
 
@@ -597,7 +597,7 @@ Q&A:
 
 ### **Zemin Zhang**: Dynamic Changes of Tumor Infiltrating Immune Cells During Immunotherapies
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016203411325.png" alt="image-20211016203411325"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016203411325.png" alt="image-20211016203411325"  heigh="150" >
 
 - Early work on infiltrating myeloid cells cross cancer types
 - Immunotherapy is all about modulating tumor micro-environment (TME)
@@ -606,45 +606,45 @@ Q&A:
 
   - responsive tumors shows preferential decrease of terminal Tex cells
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204039661.png" alt="image-20211016204039661"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204039661.png" alt="image-20211016204039661"  heigh="150" >
 
   - identify Tex/tumor responsive T cell subset by Tex TCR
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204208814.png" alt="image-20211016204208814"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204208814.png" alt="image-20211016204208814"  heigh="150" >
 
   - Tex precursor (Texp) accumulates in responsive tumor after treatment
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204330021.png" alt="image-20211016204330021"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204330021.png" alt="image-20211016204330021"  heigh="150" >
 
   - Mechanisms for the formation and accumulation of Texp cells
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204509264.png" alt="image-20211016204509264"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204509264.png" alt="image-20211016204509264"  heigh="150" >
 
   - Summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204749825.png" alt="image-20211016204749825"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204749825.png" alt="image-20211016204749825"  heigh="150" >
 
 - Triple negative breast cancer (TNBC)
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016204946940.png" alt="image-20211016204946940"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016204946940.png" alt="image-20211016204946940"  heigh="150" >
 
   - Experiment Design
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205046331.png" alt="image-20211016205046331"  heigh="150" 
+<img src="/assets/img/posts/post_20211016/image-20211016205046331.png" alt="image-20211016205046331"  heigh="150" 
 
   - single profiling
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205142400.png" alt="image-20211016205142400"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016205142400.png" alt="image-20211016205142400"  heigh="150" >
 
   - CXCL13+ T cells play a key role
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205326511.png" alt="image-20211016205326511"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016205326511.png" alt="image-20211016205326511"  heigh="150" >
 
   - B cells were enriched in responders of the combination therapy
 
   - B cells were highly correlated with CXCL13+ T cells in TME
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205502470.png" alt="image-20211016205502470"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016205502470.png" alt="image-20211016205502470"  heigh="150" >
 
   - Pro-inflammatory macrophages play roles in T cell recruitment
 
@@ -652,11 +652,11 @@ Q&A:
 
   - Summary
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205726165.png" alt="image-20211016205726165"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016205726165.png" alt="image-20211016205726165"  heigh="150" >
 
 - Overview of functional properties of immune cells in TME
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20211016/image-20211016205821740.png" alt="image-20211016205821740"  heigh="150" >
+<img src="/assets/img/posts/post_20211016/image-20211016205821740.png" alt="image-20211016205821740"  heigh="150" >
 
 Q&A:
 

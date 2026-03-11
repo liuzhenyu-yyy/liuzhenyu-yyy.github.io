@@ -49,11 +49,11 @@ Plog of a brief four-day trip to Nanjing.
 
 “天下文枢” 牌匾，现存文字选自颜真卿的字帖，立于秦淮河畔南京文庙（夫子庙）前，是进入文庙的第一道门，豪气且厚重。
 
-![IMG_4430](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4430.JPEG)
+![IMG_4430](/assets/img/posts/post_20250209/IMG_4430.JPEG)
 
 ## 江南贡院
 
-![IMG_4431](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4431.JPEG)
+![IMG_4431](/assets/img/posts/post_20250209/IMG_4431.JPEG)
 
 文庙自古是人才荟萃之地，也是绵延千年的书院、科举之所。江南贡院是中国古代建筑面积最大的科举考场，是庞大封建帝国复杂选材机器的核心部件之一。在清一代，经此乡试中举后经殿试考中状元者58名，占全国状元总数的半数以上。
 
@@ -63,13 +63,13 @@ Plog of a brief four-day trip to Nanjing.
 
 科举考试的作弊小抄，突然想起本科时生物化学期末考试允许携带一张纸的cheating sheet，超小字号写得满满当当，最后考试也没用上。
 
-![IMG_4472](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4472.JPEG)
+![IMG_4472](/assets/img/posts/post_20250209/IMG_4472.JPEG)
 
 ### 恢复高考后的语文试题
 
 语文试题政治色彩很重，作文题目“速度是一个政治问题”属于是看一眼就会两眼一黑的程度。与之不同的是同年的物理、化学与数学试题则几乎不包含任何政治色彩，考察内容竟也和我当年高考相差无几，只是难度稍低了一些。
 
-![IMG_4474](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4474.JPEG)
+![IMG_4474](/assets/img/posts/post_20250209/IMG_4474.JPEG)
 
 ## 中山陵
 
@@ -77,35 +77,35 @@ Plog of a brief four-day trip to Nanjing.
 
 革命尚未成功，同志仍须努力。
 
-![IMG_4459](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4459.JPEG)
+![IMG_4459](/assets/img/posts/post_20250209/IMG_4459.JPEG)
 
 ## 南京古生物博物馆
 
 南古所的附带产业，标本分量还是很足的，布展很难评价，也许古生物博物馆就注定绑定儿童乐园属性吧hh。参观建议是尽快出门左转鸡鸣寺玄武湖。
 
-![IMG_4490](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4490.JPEG)
+![IMG_4490](/assets/img/posts/post_20250209/IMG_4490.JPEG)
 
 ## 古城墙 & 玄武湖
 
 很惊奇的是南京古城墙基本保留了当年的建筑形制，相当完整，与城市中现代化的建筑与道路交错，令人称奇。相比之下，北京的城墙则为了“交通之便”早早被拆除，只留下诸如西直门、崇文门等等让人摸不着头脑的地名见证了。
 
-![IMG_4504](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4504.JPEG)
+![IMG_4504](/assets/img/posts/post_20250209/IMG_4504.JPEG)
 
 玄武湖真的很chill，但在公园找不到出口到处绕路也真的很狼狈。
 
-![IMG_4510](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4510.JPEG)
+![IMG_4510](/assets/img/posts/post_20250209/IMG_4510.JPEG)
 
 ## 总统府
 
 建筑足够精致、背后的故事也足够精彩，但总觉得讲述故事的方式有些差强人意。
 
-![IMG_4530](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4530.JPEG)
+![IMG_4530](/assets/img/posts/post_20250209/IMG_4530.JPEG)
 
 此行总觉的有些奇怪的地方。古代史上的南京，是江南富庶、商贾云集之地，是天下文枢、文化繁荣之地，是中华文脉南渡、守护汉人文明之堡垒；近代史上的南京，是民国首都，同样在华夏民族历史上扮演重要的角色。然而，这些故事似乎都没有得到很好的讲述。
 
 离开之间在南京南站的广场上看到的晚霞，如这座城市给我的印象一般，多彩绚烂、流芳溢彩。
 
-![IMG_4539](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20250209/IMG_4539.JPEG)
+![IMG_4539](/assets/img/posts/post_20250209/IMG_4539.JPEG)
 
 ---
 

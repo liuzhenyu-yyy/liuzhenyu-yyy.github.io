@@ -53,7 +53,7 @@ date: 2023-04-27 08:11:06 +0000
 
 第一次练车的前一晚上紧急复习了一下刹车和油门的位置哈哈哈，第二天直接就去了。海驾的好处就是有很靠谱的班车服务，从校门口送到驾校只用50分钟，省了很多路上的时间。第一次练车原本以为自己已经不会开了，毕竟3年没碰方向盘，没想到上车几分钟就熟练了，场地上溜了两圈就去外面路上玩耍了。
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230427/school.jpg)
+![img](/assets/img/posts/post_20230427/school.jpg)
 
 这个班的课程要求是6次共计24学时，学时不够在交警的系统里没法预约考试。不过转学籍的时候似乎把我异地的学时和考试记录也转过来了，因为我发现我没学够学时也能预约考试。于是就火速预约了几天后的科目三考试。出于保险起见还是多练了几次，最后到考试前一共去了五次，甚至后几次练车都不是在考试路上了，而是在教练受益下去更繁忙复杂的路段兜风hhhh，感觉应付考试应该没啥问题了。
 
@@ -68,7 +68,7 @@ date: 2023-04-27 08:11:06 +0000
 
 之后便是交照片、等待制证、宣誓、拿证，一气呵成，正式进入驾驶员行列啦（虽然可能之后很久也不会开车orz）。
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230427/license.png)
+![img](/assets/img/posts/post_20230427/license.png)
 
 最后还是安利一下海淀驾校，客服热心高效，班车接送真的很方便，科目三练车练车全程单人单车，教练很nice，练车考试各方面服务都很到位，值得推荐！
 

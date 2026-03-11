@@ -55,14 +55,14 @@ Things learned from attending meetings Epigenetics and Chromatin Biology Confere
 ### 薛愿超：非编码RNA与转录调控
 这个标题起得很大，但其实分享的主要就是薛老师上个月刚发表的Nature论文，通过系统的RIC-Seq研究RNA-RNA互作，并发现Alu元件在介导promoter-enhancer的选择性结合过程中发挥了重要作用，填补了之前对EPI特异性来源的空白。不得不说这真的是非常精彩的工作，生物学意义很强，而且无论是从数据分析还是后续生物学验证都做的很完整干净，证据扎实，确实让人眼前一亮……。这篇文章刚发表的时候，淑悦就在组会上系统分享了这个工作，淑悦讲的很清楚，汤老师对这个工作评价也极高，甚至建议大家在组会后都自己再看一遍论文原文，这是少见的。
 
-![IMG_5653](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230819/Nature_Alu.jpg)
+![IMG_5653](/assets/img/posts/post_20230819/Nature_Alu.jpg)
 
 薛老师是付向东老师的学生，付向东老师回国不久，这次也在speaker之列。值得一提的是，付老师在后来自己的talk中提到了关于EPI选择性的问题，还特意强调“这个问题前段时间薛愿超他们给了一个很不错的解决”，这大概就是“我的好学生”系列吧哈哈哈。
 
 ### 颉伟：Decoding the transcription circuitry when life begins
 颉老师给的标题也很大，大概是因为他们做的工作覆盖ZGA调控的方方面面吧。不过他这次分享的也主要是一个故事，也是7月份刚刚发表在Nature上的研究（刚看了下文章状态是accelated review…这就是大佬的力量吗），关于OBOX家族的不同蛋白如何调控ZGA过程的子代基因激活。也是非常系统且完整的工作，从鉴定到OBOX蛋白家族，到统一家族不同蛋白的序列分析，单独敲除与rescue实验，再到同家族蛋白domain之间交换，鉴定到关键作用的蛋白domain，以及与Pol II相互作用，激活转录的机制，层层递进。从问题的提出，到一步步解决，每一步过程都有独立的实验验证，技术运用完美服务问题解决…赏心悦目。
 
-![IMG_5653](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230819/obox.jpg)
+![IMG_5653](/assets/img/posts/post_20230819/obox.jpg)
 
 值得一提的是，提问环节同学问道颉老师怎么注意到OBOX家族，颉老师说这几个蛋白都是合子中翻译强度最高的几个蛋白，你看到data就不可能miss掉。确实，展示的结果中OBOX家族的几个蛋白翻译强度远远高于合子中所有其他蛋白，然到现在才被鉴定到，也得益于颉老师他们自己发展的低起始量的Ribo-Seq技术。我们也做了很多新技术，那我们怎么去做这样类似的生物学发现呢？
 

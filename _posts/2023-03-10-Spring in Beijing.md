@@ -43,17 +43,17 @@ A trivial yet important day in Beijing!
 
 <!-- outline-end -->
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img1.png)
+![img](/assets/img/posts/post_20230310/img1.png)
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img2.png)
+![img](/assets/img/posts/post_20230310/img2.png)
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img3.png)
+![img](/assets/img/posts/post_20230310/img3.png)
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img4.png)
+![img](/assets/img/posts/post_20230310/img4.png)
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img3.jpg)
+![img](/assets/img/posts/post_20230310/img3.jpg)
 
-![img](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230310/img4.jpg)
+![img](/assets/img/posts/post_20230310/img4.jpg)
 
 
   <p align="right">March 10, 2023</p>

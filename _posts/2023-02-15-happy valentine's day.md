@@ -43,9 +43,9 @@ Happy valentine's day!
 
 <!-- outline-end -->
 
-![card](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/card.jpg)
+![card](/assets/img/posts/post_20230215/card.jpg)
 
-![food](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20230215/food.jpg)
+![food](/assets/img/posts/post_20230215/food.jpg)
 
 
   <p align="right">振宇</p>

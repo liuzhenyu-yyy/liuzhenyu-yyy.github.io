@@ -54,7 +54,7 @@ Our research work evaluating the safety of mosaic IVF embryo transfer has been p
 
 ​		课题开始于2020年9月。9月8日高原师姐在汤老师的推荐下联系了我，提到与301医院姚老师合作了一个课题，主要内容是新生儿DNA与RNA的双组学测序分析，问我是否愿意合作。我欣然答应，并着手复现舒惠师姐留下的数据与分析结果。值得一提的是，我来到汤组报道是当年的9月10日，在接手课题时其实与实验室的大家并不相识，这里要感谢汤老师和师姐对我的信任，把课题的分析任务交给了我这个还没进入大四的本科生。
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20220908/image-20220908201012361.png" alt="image-20220908201012361"   >
+<img src="/assets/img/posts/post_20220908/image-20220908201012361.png" alt="image-20220908201012361"   >
 
 
 ​		到实验室报道后，申请超算账号，搭建工作环境，找师姐了解课题背景，为之后的工作做准备。到了18号，第一批测试数据释放，对建库流程和计算方法进行了验证。11月2号上机三个正常小朋友的样本，拿到结果和文老师讨论。之后便进入了漫长的等待样品时期，4月1号拿到第一个异常胚胎的样本，再到7月13日收齐所有8个异常胚胎样本，中间经历了疫情反复、取样不便等诸多困难，收样过程就经历了大半年。
@@ -68,9 +68,9 @@ Our research work evaluating the safety of mosaic IVF embryo transfer has been p
 ## 一些困难
 
 ### TSO串联与ploy-G
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20220908/image-20220908204229654.png" alt="image-20220908204229654"   >
+<img src="/assets/img/posts/post_20220908/image-20220908204229654.png" alt="image-20220908204229654"   >
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20220908/image-20220908204244142.png" alt="image-20220908204244142"   >
+<img src="/assets/img/posts/post_20220908/image-20220908204244142.png" alt="image-20220908204244142"   >
 
 印象很深的是当时第一批测试小鼠数据质量并不太好，仔细check一下之后发现数据R1出现了比较强的TSO串联（>50%），以及R2上不明来源的poly-G序列，至今没有找到非常合理的解释，只能归因于细胞质量不好。当时请教了森和其他师兄师姐，大家均表示没有遇到类似的情况，但我们的结果中这些异常是文件的。有趣的是，之后大家做STRT-seq的单细胞RNA都先后出现了类似的情况，而且都是在我提出之后才发现了类似的问题。没想到这么一个全组普遍存在的问题竟然被我一个最低年级的同学率先发现了，还是有些神奇。
 
@@ -84,14 +84,14 @@ Our research work evaluating the safety of mosaic IVF embryo transfer has been p
 
 ​		值得一提的是，后来弃船FreeC投奔ginkgo的慧经过复杂的调试，成功构建了gingko所需的hg38基因组的文件，属实是居功至伟。之后再做单细胞CNV也许可以找慧慧索取一下哈哈哈。
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20220908/image-20220908210632707.png" alt="image-20220908210632707"   >
+<img src="/assets/img/posts/post_20220908/image-20220908210632707.png" alt="image-20220908210632707"   >
 
 
 ​		搞定命令行软件之后进行参数调试，刚刚开始的方法效果似乎并不美好，算出来正常细胞的CV高出天际。之后也试了很多办法，首先是使用正常细胞pool在一起当做control，以消除MALBAC扩增的偏好性。结果似乎稍微好了一点，但仍然不够让人满意。挣扎一番之后甚至动了弃船的念头，想去投靠control-FreeC流派。最后耐着性子去读了gingko的源码，突然发现它散点图（cloud）用的数据是normalize control之前的……我当场昏厥。于是又在可视化代码里面做了一点改动，把散点图的纵坐标换成了normalize之后的数据，果然效果好了不少。不禁感叹这种坑真的就只有读了源码才知道啊，加上作者的变量命名一塌糊涂……用了很多意义不明的变量名，读来真的折磨。
 
 ​		另外一个有意思的发现是MALBAC的扩增偏好性也存在不小的批次效应，具体表现一批样本的数据产生的merge control并不适用于另一个样本。遂就此修改了设计merge control的策略，将每个index下的96个细胞pooling在一起作为这个index的control，最终拿到了稳定且优质的结果，算是给scCNV画上一个句号。
 
-<img src="https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20220908/image-20220908212750514.png" alt="image-20220908212750514"   >
+<img src="/assets/img/posts/post_20220908/image-20220908212750514.png" alt="image-20220908212750514"   >
 
 ## 备份与备案
 

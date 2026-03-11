@@ -43,7 +43,7 @@ Our paper on the epigenetic regulation for the molecular sunbtypes of colorectal
 <!-- outline-end -->
 **Significance:** Our work revealed the epigenetic basis of the well-known iCMS and CIMP classifications of colorectal cancers. Moreover, interpatient minor similarities and major diversities of chromatin accessibility signatures of TF target genes can faithfully explain the corresponding interpatient minor similarities and major diversities of RNA expression signatures of colorectal cancers, respectively.
 
-![paper](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/paper.jpg)
+![paper](/assets/img/posts/post_20240410/paper.jpg)
 
 [Link](https://aacrjournals.org/cancerdiscovery/article-abstract/doi/10.1158/2159-8290.CD-23-1445/735072/Single-cell-chromatin-accessibility-analysis): https://aacrjournals.org/cancerdiscovery/article-abstract/doi/10.1158/2159-8290.CD-23-1445/735072/Single-cell-chromatin-accessibility-analysis
 
@@ -53,7 +53,7 @@ On April 4, 2024, Cancer Discovery published our research article entitled "Sing
 
 Our study performed high-quality single-cell Assay for Transposase-Accessible Chromatin using sequencing (scATAC-seq) analysis of paracancerous normal tissues, benign adenomatous tissues, and tumor tissues from patients with CRC, with a total of 80 samples collected from 29 patients covering all bowel segments from the cecum to the rectum. By analyzing the chromatin accessibility landscapes of CRC epithelial cells, the study made the following five major findings:
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig1.png)
+![Figure](/assets/img/posts/post_20240410/Fig1.png)
 
 <p align="center">Figure 1. The chromatin accessibility landscape of CRC epithelial cells</p>
 
@@ -61,7 +61,7 @@ Our study performed high-quality single-cell Assay for Transposase-Accessible Ch
 
 Most CRCs develop from benign adenomas (ref 4). Our study found that chromatin accessibility was altered on tens of thousands of genomic cis-regulatory elements during the transformation of early normal intestinal epithelial cells into benign adenomas and that most of the newly acquired aberrant chromatin status in these adenomas was retained in CRCs. Notably, the chromatin peaks that were turned off in benign adenomas were significantly enriched in CpG islands, suggesting a possible synergistic effect of chromatin accessibility and DNA methylation. Through analysis of public DNA methylation microarray data, Our study confirms that abnormally closed chromatin peaks in adenomas are accompanied by an abnormal increase in DNA methylation, whereas abnormally open chromatin peaks are accompanied by abnormal DNA demethylation. This epigenetic co-regulatory process alters the status of several key CRC drivers and suppressors. These results suggest that during benign adenoma formation, chromatin accessibility and DNA methylation modification undergo tightly linked changes in the opposite direction, and that the two together regulate changes in the expression of key CRC driver and suppressor genes.
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig2.png)
+![Figure](/assets/img/posts/post_20240410/Fig2.png)
 
 <p align="center">Figure 2. Chromatin dynamics during the generation of benign adenomas</p>
 
@@ -69,7 +69,7 @@ Most CRCs develop from benign adenomas (ref 4). Our study found that chromatin a
 
 To explore the epigenetic heterogeneity of CRC, Our study conducted an unsupervised molecular subtyping analysis of all CRC tumor cells and successfully identified two subtypes of cancer cells with different chromatin characteristics. The copy number variations, clinical traits, gene expression, and other characteristics of these two subtypes were highly consistent with the iCMS subtypes identified based on scRNA-seq data, confirming the consistency and robustness of the iCMS classification system at the epigenomic level. Our study also identified the genomic cis-acting elements and key transcription factors specifically activated in iCMS2 or iCMS3 subtypes and found that HNF4A and PPARA were specifically activated in tumors of the iCMS2 subtype, whereas FOXA3 and MAFK were specifically activated in tumors of the iCMS3 subtype. Further, by identifying target genes regulated by these transcription factors, Our study found that while these iCMS-specific transcription factors were co-abnormally activated in all tumors within the same subtype, the downstream target genes they regulated exhibited a high degree of patient specificity. Only about 10% of the aberrantly activated target genes were common to different patients, whereas about 90% of the aberrantly activated target genes were specific to different patients. These results suggest that aberrant activation of subtype-specific transcription factors is an important feature to distinguish different iCMS subtypes. Meanwhile, although tumors within the same molecular subtype share aberrant activation of the same transcription factors, the set of downstream genes regulated by them has strong inter-patient differences, and aberrant activation of transcription factors shapes both inter-subtypes and intra-subtype tumor heterogeneities.
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig3.png)
+![Figure](/assets/img/posts/post_20240410/Fig3.png)
 
 <p align="center">Figure 3. Cis-regulatory elements and transcription factors associated with iCMS classification</p>
 
@@ -77,7 +77,7 @@ To explore the epigenetic heterogeneity of CRC, Our study conducted an unsupervi
 
 In addition to inter-tumor heterogeneity, the study also systematically analyzed the epigenetic heterogeneities within tumors. Intra-tumor subclones with different chromosomal copy number variations were identified in seven CRC patients, with different subclones exhibiting different genome-wide chromatin accessibility landscapes. An in-depth analysis of P26 patients of the iCMS2 subtype revealed that subclones located downstream of the tumor evolutionary tree had higher iCMS2-specific transcription factor (e.g., HNF4A and PPARA) activities. Correspondingly, these subclones also exhibited higher iCMS2 module gene expression. These results reveal an evolutionary mechanism of how cancer cells gradually acquire typical molecular subtype characteristics during tumor evolution.
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig4.png)
+![Figure](/assets/img/posts/post_20240410/Fig4.png)
 
 <p align="center">Figure 4. Epigenetic regulation of intra-tumor heterogeneity</p>
 
@@ -85,7 +85,7 @@ In addition to inter-tumor heterogeneity, the study also systematically analyzed
 
 Some CRCs are characterized by aberrant hypermethylation of promoter CpG islands, a phenomenon known as the CpG-island methylator phenotype (CIMP, ref 5,6). In the chromatin accessibility atlas, Our study identified different CIMP subtypes and further identified the cis-regulatory elements and transcriptional factors that determine different CIMP subtypes. Compared to the more malignant CIMP-Low and CIMP-Negative isoforms, the CIMP-High subtype showed less abnormal chromatin status. Transcription factors LEF1 and TCF3 showed higher activity in the CIMP-High subtype, whereas the motif of the KLF family transcription factors was significantly enriched in the chromatin regions turned off in CIMP-High tumors, which may be related to the large-scale aberrant increase in methylation at promoter regions and silencing of the corresponding genes in CIMP-High CRCs.
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig5.png)
+![Figure](/assets/img/posts/post_20240410/Fig5.png)
 
 <p align="center">Figure 5. Identification and epigenetic regulators of CIMP subtypes</p>
 
@@ -93,7 +93,7 @@ Some CRCs are characterized by aberrant hypermethylation of promoter CpG islands
 
 Finally, the study analyzed the transcription factor activities in the CRC atlas using weighted correlation network and identified 13 highly correlated transcription factor modules. Several of these modules were significantly correlated with tumor features such as iCMS, CIMP subtype, microsatellite stability, and primary location. Through further analysis of the network structure within each module, Our study identified key transcription factors that are closely associated with multi-dimensional tumor heterogeneities. In addition, by correlating transcription factor module activity with gene expression levels, Our study also identified potential downstream genes of key transcription factor modules. These results provide the epigenetic basis for how multiple transcription factors act synergistically to co-regulate gene expression, which in turn affects the tumorigenesis and molecular phenotype of CRCs.
 
-![Figure](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20240410/Fig6.png)
+![Figure](/assets/img/posts/post_20240410/Fig6.png)
 
 <p align="center">Figure 6. Transcription factor modules associated with multi-dimensional CRC heterogeneities</p>
 

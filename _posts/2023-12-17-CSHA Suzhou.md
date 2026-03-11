@@ -51,60 +51,60 @@ Plog of "Frontiers in Single Cell Genomics" meeting at Cold Spring Harbor Asian,
 
 来苏州之前就经常在各种途径看到这个建筑hhh，学名叫东方之门，那块地儿叫苏州中心广场。是苏州新城区，开发区的标志性建筑，赛博水乡最赛博的一部分。位于金鸡湖西岸，和对面的IFS同为超高层建筑，相当显眼，在城市各个地方都能看见，是名副其实的地标建筑。
 
-![IMG_8908](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8908.jpg)
+![IMG_8908](/assets/img/posts/post_20231217/IMG_8908.jpg)
 
-![IMG_8917](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8917.jpg)
+![IMG_8917](/assets/img/posts/post_20231217/IMG_8917.jpg)
 
 ## 拙政园
 
 苏州园林之首，去的时候正是秋意最浓之时，人是真的多hhh，不论怎么拍照都到处是人的那种。这种设计精巧的湖光轩榭确实很让人舒服，有一种特有的隽永与柔美。在北京待太久了，看到这种精巧的园林景色确实眼前一亮。
 
-![IMG_8737](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8737.jpg)
+![IMG_8737](/assets/img/posts/post_20231217/IMG_8737.jpg)
 
-![IMG_8738](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8738.jpg)
+![IMG_8738](/assets/img/posts/post_20231217/IMG_8738.jpg)
 
-![IMG_8762](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8762.jpg)
+![IMG_8762](/assets/img/posts/post_20231217/IMG_8762.jpg)
 
 
 彩蛋：出门的地方牌匾：“常有肯德”（确信）
 
-![IMG_8767](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8767.jpg)
+![IMG_8767](/assets/img/posts/post_20231217/IMG_8767.jpg)
 
 ## 苏州博物馆 本馆
 
 传说中建筑比藏品更有名的博物馆，确实更多有价值的文物陈列在西馆而非本馆，但冲着贝聿铭的设计本馆的游客络绎不绝。
 
-![IMG_8769](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8769.jpg)
+![IMG_8769](/assets/img/posts/post_20231217/IMG_8769.jpg)
 
 小胖剑！是苏博和湖北省博联名的文创，怪可爱的。夏天去武汉开会时候参观了湖北省博，纪念品店看到了越王勾践剑款，这次来苏博特意打卡了吴王夫差剑hhhh。
 
-![IMG_8775](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8775.jpg)
+![IMG_8775](/assets/img/posts/post_20231217/IMG_8775.jpg)
 
-![IMG_8776](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8776.jpg)
+![IMG_8776](/assets/img/posts/post_20231217/IMG_8776.jpg)
 
 ## 平江路 & 山塘街
 
 都是保留完好的古苏州城的样子（或者说姑苏城？）碧波荡漾的水路，边上是黑瓦白墙的斜顶建筑，白墙上黑色的霉斑仿佛晕染开的水墨，是刻板印象里江南水乡的样子。
 
-![IMG_8785](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8785.jpg)
+![IMG_8785](/assets/img/posts/post_20231217/IMG_8785.jpg)
 
-![IMG_8869](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8869.jpg)
+![IMG_8869](/assets/img/posts/post_20231217/IMG_8869.jpg)
 
 
 ## 虎丘山
 虎丘山下剑池边，长遣游人叹逝川。
 
-![IMG_8827](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8827.jpg)
+![IMG_8827](/assets/img/posts/post_20231217/IMG_8827.jpg)
 
-![IMG_8835](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8835.jpg)
+![IMG_8835](/assets/img/posts/post_20231217/IMG_8835.jpg)
 
-![IMG_8851](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8851.jpg)
+![IMG_8851](/assets/img/posts/post_20231217/IMG_8851.jpg)
 
 ## 独墅湖草地
 
 一颗孤独的树。
 
-![IMG_8813.jpg](https://raw.githubusercontent.com/liuzhenyu-yyy/liuzhenyu-yyy.github.io/main/assets/img/posts/post_20231217/IMG_8813.jpg)
+![IMG_8813.jpg](/assets/img/posts/post_20231217/IMG_8813.jpg)
 
 ---
 
