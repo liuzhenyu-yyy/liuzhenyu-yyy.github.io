@@ -11,7 +11,7 @@ category: Life
 # multiple tag entries are possible
 tags: [life record]
 # thumbnail image for post
-img: ":post_20260224/IMG_6124.JPEG"
+img: ":post_20260224/IMG_8947.jpeg"
 # disable comments on this page
 comments_disable: true
 
