@@ -56,7 +56,6 @@ img: ":about.jpg"
 ## 💡Funding
 
 - **Young Scientists Fund of BNSF**, Beijing Natural Science Foundation. *2025-2027*
-- **Young Elite Scientist Sponsorship Program (Doctoral Student)**, China Association for Science and Technology, *2024-2025.*
 
 ## 📚Teaching
 
@@ -67,6 +66,7 @@ img: ":about.jpg"
 
 - `Zhang Jingyue Outstanding Graduate Award`, Peking University, *2025*
 - `Excellent Graduate`, Peking University, *2025*
+- `Doctoral Student Program of the Young S&T Talents Cultivation Project`, China Association for Science and Technology, *2025*
 - `National Scholarship`, Ministry of Edication, *2024*
 - `Academic Innovation Award`, Peking University, *2024*
 - `Merit Student Pacesetter`, Peking University, *2024*
