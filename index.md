@@ -65,7 +65,7 @@ img: ":nature_150_4.png"
   </tr>
   <tr>
     <td><b>Jan 6, 2025</b></td>
-    <td>I was selected for Young Elite Scientists Sponsorship Program by CAST (Doctoral Student).</td>
+    <td>I was selected for Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST.</td>
   </tr>
 <!--  <tr>
     <td><b>June 23, 2024</b></td>
