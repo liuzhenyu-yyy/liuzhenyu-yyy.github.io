@@ -18,8 +18,8 @@ linkedin:
   icon: "fa fa-linkedin"
   url: "https://www.linkedin.com/in"
 twitter:
-  icon: "fa fa-x-twitter"
-  url: "https://x.com"
+  icon: "fa fa-twitter"
+  url: "https://twitter.com"
 instagram:
   icon: "fa fa-instagram"
   url: "https://www.instagram.com"
@@ -33,6 +33,9 @@ facebook:
 # your_new_contact:
 #   icon: "fa fa-font"
 #   url: "https://www.example.com"
+x:
+  icon: "/assets/img/icon/x-twitter.svg"
+  url: "https://x.com"
 googlescholar:
   icon: "/assets/img/icon/google-scholar.svg"
   url: "https://scholar.google.com"

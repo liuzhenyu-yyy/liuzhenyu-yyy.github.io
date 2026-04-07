@@ -49,7 +49,8 @@ meta_common_description: "Your meta description."
 # comment to remove any contact item
 contacts:
   - github: "liuzhenyu-yyy"
-  - twitter: "_LiuZhenyu"
+  - x: "_LiuZhenyu"
+  #- twitter: "_LiuZhenyu"
   - email: "liuzhenyu.ac@outlook.com"
   #- linkedin: ""
   #- instagram: ""
