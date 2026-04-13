@@ -40,25 +40,25 @@ lng_pair: id_links
 page_data:
   main:
     header: "Publications"
-    info: "Marks: co-first author†, corresponding author&#42;."
+    info: "Selected representative publications are listed here. Full list available at <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en">Google Scholar</a>. <br><Marks: co-first author†, corresponding author&#42;."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "2025"
       type: id_2025
-      color: "#e78bc3"
+      color: "#3c5488"
 
     - title: "2024"
       type: id_2024
-      color: "#8da0cb"
+      color: "#01a087"
     
     - title: "2023"
       type: id_2023
-      color: "#fc8d62"
+      color: "#54bcd4"
 
     - title: "2022"
       type: id_2022
-      color: "#66c2a5"
+      color: "#e54c37"
 
   list:
     -
