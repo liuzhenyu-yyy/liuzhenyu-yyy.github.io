@@ -40,25 +40,25 @@ lng_pair: id_links
 page_data:
   main:
     header: "Publications"
-    info: "Selected representative publications are listed here. Full list available at [Google Scholar](https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en)</a>. <br>Marks: co-first author†, corresponding author&#42;."
+    info: "Selected representative publications are listed here. Full list available at <a href='https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en'>Google Scholar</a>.<br>Marks: co-first author†, corresponding author&#42;."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "2025"
       type: id_2025
-      color: "#3c5488"
+      color: "#f4c9e3"
 
     - title: "2024"
       type: id_2024
-      color: "#01a087"
+      color: "#cbd5e8"
     
     - title: "2023"
       type: id_2023
-      color: "#54bcd4"
+      color: "#fdcdab"
 
     - title: "2022"
       type: id_2022
-      color: "#e54c37"
+      color: "#b2e2cd"
 
   list:
     -
