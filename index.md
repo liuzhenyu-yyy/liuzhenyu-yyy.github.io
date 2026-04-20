@@ -36,11 +36,11 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a researcher at Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://biopic.pku.edu.cn/en/researchteam/511476.htm">Prof. Fuchou Tang</a>.
+    I am a researcher at Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences. I received my Ph.D. and B.S. from Peking University, advised by <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
-    My research primarily revolves around developing innovative single-cell sequencing technologies🧬, as well as utilizing these cutting-edge methods in basic cancer research. Recently, my research has focused on the epigenetic regulation of tumor heterogeneities, encompassing both inter- and intra-tumor variations. 
+    My research resolves around exploiting innovative genomics & bioinformatics tools for basic & translational cancer research 🧬. Recently, my research has primarily focused on the characteristics, driven mechanisms, and clinical relavance of tumor heterogeneities, encompassing both inter- and intra-tumor variations. We're also working optimizing immunotherapy of solid tumors.
 </p>
 
 <p>
@@ -71,9 +71,6 @@ img: ":nature_150_4.png"
 
 <!-- split -->
 <h1>🗺️Site Visitor Distribution</h1>
-<p>
-    This website have been running since December, 2020. Here's were my visitors come from:
-</p>
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="width: 100%; max-width: 400px;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script>
