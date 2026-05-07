@@ -69,7 +69,7 @@ Marks: co-first author†, corresponding author*. See full list of publications 
 - `National Scholarship`, Ministry of Education, *2024*
 - `Academic Innovation Award`, Peking University, *2024*
 - `Merit Student Pacesetter`, Peking University, *2024*
--` Merit Student`, Peking University, *2023, 2022*
+- `Merit Student`, Peking University, *2023, 2022*
 - `President Scholarship`, Peking University, *2023*
 - `Awards for Academic Excellence`, Peking University, *2018*
 
