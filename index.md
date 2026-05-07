@@ -35,15 +35,12 @@ img: ":nature_150_4.png"
 #published: false
 ---
 
- Trained at Peking University (BIOPIC) with research spanning single-cell genomics, epigenetics, tumor microenvironment and heterogeneity .
-
-
 <p>
-    I am a research scientist at the National Cancer Center (Chinese Academy of Medical Sciences) focused on spatial/single-cell omics and immunotherapy in gastrointestinal cancers.I received Ph.D. and B.S. training at Peking University (BIOPIC) with research spanning single-cell genomics, epigenetics, tumor microenvironment and heterogeneity, advised by <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
+    I am a research scientist at the National Cancer Center (Chinese Academy of Medical Sciences) focused on spatial/single-cell omics and immunotherapy in gastrointestinal cancers.I received Ph.D. and B.S. training at Peking University (BIOPIC) with research spanning single-cell genomics, epigenetics, and tumor heterogeneity, advised by <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
-    My research resolves around exploiting innovative genomics & bioinformatics tools for basic & translational cancer research . Recently, my research has primarily focused on the characteristics, driven mechanisms, and clinical relavance of tumor heterogeneities, encompassing both inter- and intra-tumor variations. We're also working optimizing immunotherapy of solid tumors.
+    My research resolves around exploiting innovative genomics & bioinformatics tools for basic & translational cancer research. Recently, my research has primarily focused on the characteristics, driven mechanisms, and clinical relavance of tumor heterogeneities, encompassing both inter- and intra-tumor variations. We're also working optimizing immunotherapy of solid tumors.
 </p>
 
 <p>
