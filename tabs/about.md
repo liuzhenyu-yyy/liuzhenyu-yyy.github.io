@@ -36,8 +36,6 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Research scientist at the National Cancer Center (CAMS) focused on cancer immunotherapy and spatial/single-cell omics in gastrointestinal cancers. Trained at Peking University (BIOPIC) with research spanning single-cell genomics, epigenetics, tumor microenvironment and heterogeneity .
-
 ## Professional Experience
 - **Research Scientist, National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Department: State Key Laboratory of Molecular Oncology
@@ -55,7 +53,7 @@ Research scientist at the National Cancer Center (CAMS) focused on cancer immuno
   - Academic advisor: [Prof. Chengran Xu](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=229)
 
 ## Funding
-- **Young Scientists Fund of BNSF**, Beijing Natural Science Foundation. *2025-2027*
+- `Young Scientists Fund of BNSF`, Beijing Natural Science Foundation. *2025-2027*
 
 ## Selected Publications
 1. **Liu, Z.**†, Hu, Y.†, Xie, H.†, et al. 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. *Cancer Discovery* 14:1082-1105.
@@ -65,15 +63,15 @@ Research scientist at the National Cancer Center (CAMS) focused on cancer immuno
 Marks: co-first author†, corresponding author*. See full list of publications in <a href="https://scholar.google.com/citations?user=wcQZmHIAAAAJ&hl=en">Google Scholar</a>.
 
 ## Awards and Honors
-- Zhang Jingyue Outstanding Graduate Award, Peking University, *2025*
-- Excellent Graduate, Peking University, *2025*
-- Doctoral Student Program of the Young S&T Talents Cultivation Project, China Association for Science and Technology, *2025*
-- National Scholarship, Ministry of Education, *2024*
-- Academic Innovation Award, Peking University, *2024*
-- Merit Student Pacesetter, Peking University, *2024*
-- Merit Student, Peking University, *2023, 2022*
-- President Scholarship, Peking University, *2023*
-- Awards for Academic Excellence, Peking University, *2018*
+- `Zhang Jingyue Outstanding Graduate Award`, Peking University, *2025*
+- `Excellent Graduate, Peking University`, *2025*
+- `Doctoral Student Program of the Young S&T Talents Cultivation Project`, China Association for Science and Technology, *2025*
+- `National Scholarship`, Ministry of Education, *2024*
+- `Academic Innovation Award`, Peking University, *2024*
+- `Merit Student Pacesetter`, Peking University, *2024*
+-` Merit Student`, Peking University, *2023, 2022*
+- `President Scholarship`, Peking University, *2023*
+- `Awards for Academic Excellence`, Peking University, *2018*
 
 ## Teaching
 - Teaching Assistant, Peking University: Freshman Seminar on General (2018 Fall); Current Topics on Genetics (2022 Fall).
