@@ -143,8 +143,8 @@ archives:
 
 # for about layout
 about:
-  title: CV
-  button_name: CV
+  title: About me
+  button_name: About me
   email_title: email
 
 # for links layout

@@ -44,7 +44,7 @@ img: ":nature_150_4.png"
 </p>
 
 <p>
-    Check my personal <a href="https://liuzhenyu-yyy.github.io/tabs/about.html">CV/bio</a> for more information.✨
+    Check the <a href="https://liuzhenyu-yyy.github.io/tabs/about.html">about page</a> for more information.✨
 </p>
 
 <!-- split -->
