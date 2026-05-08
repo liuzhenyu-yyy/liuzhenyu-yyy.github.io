@@ -44,61 +44,59 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "2025"
-      type: id_2025
-      color: "#f4c9e3"
+    - title: "Cancer Genomics"
+      type: id_cancer_genomics
+      color: "#E64B35FF"
 
-    - title: "2024"
-      type: id_2024
-      color: "#cbd5e8"
+    - title: "scSeq Techniques"
+      type: id_scSeq
+      color: "#4DBBD5FF"
     
-    - title: "2023"
-      type: id_2023
-      color: "#fdcdab"
-
-    - title: "2022"
-      type: id_2022
-      color: "#b2e2cd"
+    - title: "Others"
+      type: id_others
+      color: "#00A087FF"
 
   list:
     -
-    # Research article
-    - type: id_2025
+    # Cancer Genomics
+    - type: id_cancer_genomics
       title: "Systematic characterization of full-length RNA isoforms in human colorectal cancer at single-cell resolution"
       author: "Lu, P.†, Zhang, Y.†, Cui, Y., Liao, Y., <b>Liu, Z.</b>, Cao, Z. J., Liu, J. E., Wen, L., Zhou, X., Fu, W.&#42, & Tang, F&#42."
       info: "<i>Protein & Cell</i>, 2025."
       url: "https://academic.oup.com/proteincell/article/16/10/873/8211444?login=true"
       news: "https://www.bjmu.edu.cn/yjcg/d39054716a704d09a2edc60fa9b662f4.htm"
 
-    - type: id_2024
-      title: "scNanoSeq-CUT&Tag: a single-cell long-read CUT&Tag sequencing method for efficient chromatin modification profiling within individual cells"
-      author: "Li, Q.†, Guo, Y.†, Wu, Z.†, Xu, X., Jiang, Z., Qi, S., <b>Liu, Z.</b>, Wen, L., Tang, F.&#42;"
-      info: "<i>Nature Methods</i>, 2024."
-      url: "https://www.nature.com/articles/s41592-024-02453-w"
-      news: "https://mp.weixin.qq.com/s/2cxxugqIZMyjBR3cAjHcCQ"
-
-    - type: id_2024
+    - type: id_cancer_genomics
       title: "Epigenetic regulators as the foundation for molecular classification of colorectal cancer"
       author: "<b>Liu, Z.</b>, Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Biology & Medicine</i>, 2024. (Invited Editorial)"
       url: "https://doi.org/10.20892/j.issn.2095-3941.2024.0176"
       news: "https://mp.weixin.qq.com/s/K2q7WnXp1uJUW58rfJgNFg"
 
-    - type: id_2024
+    - type: id_cancer_genomics
       title: "Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers"
       author: "<b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.†, Wen, L., Fu, W., Zhou, X.&#42;, Tang, F.&#42;"
       info: "<i>Cancer Discovery</i>, 2024."
       url: "https://doi.org/10.1158/2159-8290.CD-23-1445"
       news: "https://mp.weixin.qq.com/s/StdUHkNb1-S54gxmjI7nZQ"
 
-    - type: id_2023
+    # single-cell methods
+    - type: id_scSeq
+      title: "scNanoSeq-CUT&Tag: a single-cell long-read CUT&Tag sequencing method for efficient chromatin modification profiling within individual cells"
+      author: "Li, Q.†, Guo, Y.†, Wu, Z.†, Xu, X., Jiang, Z., Qi, S., <b>Liu, Z.</b>, Wen, L., Tang, F.&#42;"
+      info: "<i>Nature Methods</i>, 2024."
+      url: "https://www.nature.com/articles/s41592-024-02453-w"
+      news: "https://mp.weixin.qq.com/s/2cxxugqIZMyjBR3cAjHcCQ"
+
+    - type: id_scSeq
       title: "High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform"
       author: "Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.†, Lu, P., Wen, L., Tang, F.&#42;"
       info: "<i>Cell Discovery</i>, 2023."
       url: "https://doi.org/10.1038/s41421-022-00500-4"
       news: "https://mp.weixin.qq.com/s/_k5Osrj8V3X6CnL7qz9yMQ"
 
-    - type: id_2022
+    # Others
+    - type: id_others
       title: "Single-cell Sequencing Reveals Clearance of Blastula Chromosomal Mosaicism in In Vitro Fertilization Babies"
       author: "Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, Guo, X., Wang, H., Cheng, Y., Tian, S., Ma, M., Peng, H., Wen, L., Tang, F.&#42;, Yao, Y.&#42"
       info: "<i>Genomics, Proteomics & Bioinformatics</i>, 2022."
