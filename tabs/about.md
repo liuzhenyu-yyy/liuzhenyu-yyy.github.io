@@ -39,7 +39,7 @@ img: ":about.jpg"
 ## Professional Experience
 - **Research Scientist, National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Department: State Key Laboratory of Molecular Oncology
-  - Advisor: [Prof. Zhihua Liu](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/2168.html) and [Prof. Yun Zhang](https://www.cicams.ac.cn/dzb/navigation/fen/zhuan/detail/7189.html)
+  - Advisor: [Prof. Zhihua Liu](https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009041277) and [Prof. Yun Zhang](https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2022040009)
   - Research focus: tumor heterogeneity, spatial omics, tumor microenvironment, cancer immunotherapy
 
 ## Education
@@ -50,7 +50,7 @@ img: ":about.jpg"
 - **B.Sc. in Biology, Yuanpei College, Peking University, 2017-2021**
   - Undergraduate Research Training Program
   - Research focus: pancreas development, cell fate regulation
-  - Academic advisor: [Prof. Chengran Xu](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=229)
+  - Academic advisor: [Prof. Chengran Xu](http://www.cls.edu.cn/info/1263/1074.htm)
 
 ## Funding
 - `Young Scientists Fund of BNSF`, Beijing Natural Science Foundation. *2025-2027*
