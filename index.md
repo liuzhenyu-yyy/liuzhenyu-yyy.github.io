@@ -36,7 +36,7 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a research scientist at the National Cancer Center (Chinese Academy of Medical Sciences), specializing in the development and application of genomics and bioinformatics tools for basic and translational oncology. My current research investigates the mechanisms and clinical relevance of tumor heterogeneity, with a particular focus on treatment vulnerability and therapeutic adaptation. I earned my Ph.D. and B.S. from Peking University (BIOPIC), where my doctoral work focused on single-cell epigenetics of colorectal and pancreatic cancers, under the supervision of <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
+    I am a assistant research scientist at the National Cancer Center (Chinese Academy of Medical Sciences), specializing in the development and application of genomics and bioinformatics tools for basic and translational oncology. My current research investigates the mechanisms and clinical relevance of tumor heterogeneity, with a particular focus on treatment vulnerability and therapeutic adaptation. I earned my Ph.D. and B.S. from Peking University (BIOPIC), where my doctoral work focused on single-cell epigenetics of colorectal and pancreatic cancers, under the supervision of <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>

@@ -37,7 +37,7 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 ## Professional Experience
-- **Research Scientist, National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
+- **Assistant Research Scientist, National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences, 2025-present**
   - Department: State Key Laboratory of Molecular Oncology
   - Advisor: [Prof. Zhihua Liu](https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009041277) and [Prof. Yun Zhang](https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2022040009)
   - Research focus: tumor heterogeneity, spatial omics, tumor microenvironment, cancer immunotherapy
