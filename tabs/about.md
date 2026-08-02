@@ -54,6 +54,7 @@ img: ":about.jpg"
 
 ## Funding
 - `Young Scientists Fund of BNSF`, Beijing Natural Science Foundation. *2025-2027*
+- `Doctoral Student Program of the Young S&T Talents Cultivation Project`, China Association for Science and Technology, *2024-2025*
 
 ## Selected Publications
 1. **Liu, Z.**†, Hu, Y.†, Xie, H.†, et al. 2024. Single-Cell Chromatin Accessibility Analysis Reveals the Epigenetic Basis and Signature Transcription Factors for the Molecular Subtypes of Colorectal Cancers. *Cancer Discovery* 14:1082-1105.
@@ -65,7 +66,6 @@ Marks: co-first author†, corresponding author*. See full list of publications 
 ## Awards and Honors
 - `Zhang Jingyue Outstanding Graduate Award`, Peking University, *2025*
 - `Excellent Graduate, Peking University`, *2025*
-- `Doctoral Student Program of the Young S&T Talents Cultivation Project`, China Association for Science and Technology, *2025*
 - `National Scholarship`, Ministry of Education, *2024*
 - `Academic Innovation Award`, Peking University, *2024*
 - `Merit Student Pacesetter`, Peking University, *2024*
@@ -77,6 +77,7 @@ Marks: co-first author†, corresponding author*. See full list of publications 
 - Teaching Assistant, Peking University: Freshman Seminar on General (2018 Fall); Current Topics on Genetics (2022 Fall).
 
 ## Tournaments
+- Bronze Medal, CAMS & PUMC Staff Table Tennis Tournament *Team CICAMS, 2026*.
 - Bronze Medal, "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2024*.
 - Gold Medal, "PKU Cup" Table Tennis Championships. *Team AAIS-SLS, 2022*.
 - Silver Medal, "PKU Cup" Table Tennis Championships. *Team YPC-GSE, 2021*.

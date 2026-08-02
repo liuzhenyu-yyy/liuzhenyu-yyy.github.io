@@ -5,7 +5,7 @@
 brand: "Zhenyu Liu"
 
 # text below the brand name
-brand_sub_text: "刘振宇, PhD<br /> CAMS & PUMC"
+brand_sub_text: "刘振宇, PhD<br/> CAMS & PUMC"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Zhenyu Liu"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Researcher at National Cancer Center / Cancer Hospital<br /> Chinese Academy of Medical Sciences"
+  sub_title: "Chinese Academy of Medical Sciences & Peking Union Medical College"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -51,7 +51,7 @@ contacts:
   - github: "liuzhenyu-yyy"
   - x: "_LiuZhenyu"
   #- twitter: "_LiuZhenyu"
-  - email: "liuzhenyu.ac@outlook.com"
+  - email: "liuzhenyu@pumc.edu.cn"
   #- linkedin: ""
   #- instagram: ""
   #- youtube: ""

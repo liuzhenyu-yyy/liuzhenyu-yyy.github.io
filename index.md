@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":nature_150_4.png"
+img: ":raining.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,7 +36,11 @@ img: ":nature_150_4.png"
 ---
 
 <p>
-    I am a assistant research scientist at the National Cancer Center (Chinese Academy of Medical Sciences), specializing in the development and application of genomics and bioinformatics tools for basic and translational oncology. My current research investigates the mechanisms and clinical relevance of tumor heterogeneity, with a particular focus on treatment vulnerability and therapeutic adaptation. I earned my Ph.D. and B.S. from Peking University (BIOPIC), where my doctoral work focused on single-cell epigenetics of colorectal and pancreatic cancers, under the supervision of <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
+    I am a assistant research scientist at the National Cancer Center (Chinese Academy of Medical Sciences), specializing in the development and application of genomics and bioinformatics tools for basic and translational oncology. My current research investigates the mechanisms and clinical relevance of tumor heterogeneity, with a particular focus on treatment vulnerability and therapeutic adaptation. 
+</p>
+
+<p>
+    I earned my Ph.D. and B.S. from Peking University (BIOPIC), where my doctoral work focused on single-cell epigenetics of colorectal and pancreatic cancers, under the supervision of <a href="https://icg.pku.edu.cn/en/research/faculty/62icg_en269372.htm">Prof. Fuchou Tang</a>.
 </p>
 
 <p>
@@ -69,6 +73,7 @@ img: ":nature_150_4.png"
 <h1>🗺️Site Visitor Distribution</h1>
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="width: 100%; max-width: 400px;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script>
+    <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script> -->
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=ENcb0Qh20xxJwMBo2DaVjfJyQE32KwkLrlzelo8xJTs'></script>
   </div>
 </div>
