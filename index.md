@@ -74,10 +74,10 @@ img: ":raining.png"
 </table>
 
 <!-- split -->
-<h1>🗺️Site Visitor Distribution</h1>
+<!-- <h1>🗺️Site Visitor Distribution</h1>
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="width: 100%; max-width: 400px;">
-    <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script> -->
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script>
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=ENcb0Qh20xxJwMBo2DaVjfJyQE32KwkLrlzelo8xJTs'></script>
   </div>
-</div>
+</div> -->
