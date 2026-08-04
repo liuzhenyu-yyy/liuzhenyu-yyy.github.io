@@ -83,10 +83,10 @@ img: ":raining.png"
 
 1. <b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.† et al. Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. <i>Cancer Discov.</i> 14, 1082–1105 (2024).
 
-2. <b>Liu, Z.</b>, Zhou, X. & Tang, F. Epigenetic regulators as the foundation for molecular classification of colorectal cancer. <i>Cancer Biol. Med.</i> 1–6 (2024) doi:10.20892/j.issn.2095-3941.2024.0176.
+2. <b>Liu, Z.</b>, Zhou, X. & Tang, F. Epigenetic regulators as the foundation for molecular classification of colorectal cancer. <i>Cancer Biol. Med.</i> 1–6 (2024).
 
 3. Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.† et al. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5 (2023).
 
 4. Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in in vitro fertilization babies. <i>Genomics Proteomics Bioinformatics</i> 20, 1224–1231 (2022).
 
-</div>
+Marks: co-first author†
