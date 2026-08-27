@@ -52,6 +52,10 @@ img: ":raining.png"
 
 <table>
   <tr>
+    <td><b>Aug 26, 2026</b></td>
+    <td>Our research get supported by Young Scientists Fund (C) of Natural Natural Science Foundation (NSFC). Happy Birthday!🎉 </td>
+  </tr>
+  <tr>
     <td><b>Aug 1, 2026</b></td>
     <td>I paticipated in the Linghang Program (领航计划) held by CAST and CSCB in Haikou, amazing experience!</td>
   </tr>
@@ -59,7 +63,7 @@ img: ":raining.png"
     <td><b>Dec 15, 2025</b></td>
     <td>My research get supported by Young Scientists Fund of Beijing Natural Science Foundation.</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><b>Aug 7, 2025</b></td>
     <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences (NCC/CHCAMS).</td>
   </tr>
@@ -67,7 +71,7 @@ img: ":raining.png"
     <td><b>Apr 30, 2025</b></td>
     <td>I defended my PhD theis from Peking University.🥂</td>
   </tr>
-  <!-- <tr>
+<tr>
     <td><b>Jan 6, 2025</b></td>
     <td>I was selected for Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST.</td>
   </tr> -->
