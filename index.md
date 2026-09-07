@@ -52,6 +52,10 @@ img: ":raining.png"
 
 <table>
   <tr>
+    <td><b>Aug 26, 2026</b></td>
+    <td>Our research get supported by Young Scientists Fund (C) of Natural Natural Science Foundation (NSFC). Happy Birthday!🎉 </td>
+  </tr>
+  <tr>
     <td><b>Aug 1, 2026</b></td>
     <td>I paticipated in the Linghang Program (领航计划) held by CAST and CSCB in Haikou, amazing experience!</td>
   </tr>
@@ -59,7 +63,7 @@ img: ":raining.png"
     <td><b>Dec 15, 2025</b></td>
     <td>My research get supported by Young Scientists Fund of Beijing Natural Science Foundation.</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><b>Aug 7, 2025</b></td>
     <td>I joined Nantional Cancer Center/Cancer Hospital, Chinese Academy of Medical Sciences (NCC/CHCAMS).</td>
   </tr>
@@ -67,17 +71,26 @@ img: ":raining.png"
     <td><b>Apr 30, 2025</b></td>
     <td>I defended my PhD theis from Peking University.🥂</td>
   </tr>
-  <!-- <tr>
+<tr>
     <td><b>Jan 6, 2025</b></td>
     <td>I was selected for Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST.</td>
   </tr> -->
 </table>
 
 <!-- split -->
-<h1>🗺️Site Visitor Distribution</h1>
-<div style="display: flex; justify-content: center; width: 100%;">
+<h1>🎓Selected Publications</h1>
+<!-- <div style="display: flex; justify-content: center; width: 100%;">
   <div style="width: 100%; max-width: 400px;">
-    <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script> -->
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=S1_TLdx6XevZ7WCavXos2bQABjn3r6Wqmkcar--Eu8g&co=4dbbd5&ct=ffffff&cmn=01a087&cmo=e64b35'></script>
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=ENcb0Qh20xxJwMBo2DaVjfJyQE32KwkLrlzelo8xJTs'></script>
-  </div>
-</div>
+</div> -->
+
+1. <b>Liu, Z.</b>†, Hu, Y.†, Xie, H.†, Chen, K.† et al. Single-cell chromatin accessibility analysis reveals the epigenetic basis and signature transcription factors for the molecular subtypes of colorectal cancers. <i>Cancer Discov.</i> 14, 1082–1105 (2024).
+
+2. <b>Liu, Z.</b>, Zhou, X. & Tang, F. Epigenetic regulators as the foundation for molecular classification of colorectal cancer. <i>Cancer Biol. Med.</i> 1–6 (2024).
+
+3. Liao, Y.†, <b>Liu, Z.</b>†, Zhang, Y.† et al. High-throughput and high-sensitivity full-length single-cell RNA-seq analysis on third-generation sequencing platform. <i>Cell Discovery</i> 9, 5 (2023).
+
+4. Gao, Y.†, Zhang, J.†, <b>Liu, Z.</b>†, Qi, S.†, et al. Single-cell sequencing reveals clearance of blastula chromosomal mosaicism in in vitro fertilization babies. <i>Genomics Proteomics Bioinformatics</i> 20, 1224–1231 (2022).
+
+Marks: co-first author†
